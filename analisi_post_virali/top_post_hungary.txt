@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/hungary
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 27
+> Commenti totali: 995
+> Commenti per post (media): 36.9
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 506 COMMENTI
+-Data post: 09/06/2025
+-Titolo: Israel stopped and turned back the H. which was carrying Greta Thunberg and aid to Gaza
+-Post ID: ('1l6z10i', 'Israel stopped and turned back the H. which was carrying Greta Thunberg and aid to Gaza')
+-Metriche:
+  > Commenti: 506
+  > Upvotes totali: 4,248
+  > Upvote medio: 8.4
+  > Upvote massimo: 501
+  > Sentiment medio: 0.047
+  > Soggettività: 0.411
+  > Engagement rate: 8.40
+  > Durata discussione: 4.2 giorni
+  > Primo commento: 09/06/2025 10:02
+  > Ultimo commento: 13/06/2025 15:10
+----------------------------------------
+
+#2 - 154 COMMENTI
+-Data post: 06/04/2025
+-Titolo: Israel has admitted that its soldiers mistakenly killed Palestinian paramedics in Gaza
+-Post ID: ('1jso4l2', 'Israel has admitted that its soldiers mistakenly killed Palestinian paramedics in Gaza')
+-Metriche:
+  > Commenti: 154
+  > Upvotes totali: 1,121
+  > Upvote medio: 7.3
+  > Upvote massimo: 147
+  > Sentiment medio: 0.065
+  > Soggettività: 0.438
+  > Engagement rate: 7.28
+  > Durata discussione: 0.9 giorni
+  > Primo commento: 06/04/2025 08:53
+  > Ultimo commento: 07/04/2025 07:07
+----------------------------------------
+
+#3 - 108 COMMENTI
+-Data post: 31/03/2025
+-Titolo: Netanyahu announced that Israel will occupy the Gaza Strip and is preparing to implement the Trump plan
+-Post ID: ('1jnz3my', 'Netanyahu announced that Israel will occupy the Gaza Strip and is preparing to implement the Trump plan')
+-Metriche:
+  > Commenti: 108
+  > Upvotes totali: 830
+  > Upvote medio: 7.7
+  > Upvote massimo: 111
+  > Sentiment medio: 0.071
+  > Soggettività: 0.331
+  > Engagement rate: 7.69
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 31/03/2025 11:21
+  > Ultimo commento: 01/04/2025 02:21
+----------------------------------------
+
+#4 - 65 COMMENTI
+-Data post: 22/08/2025
+-Titolo: Guardian: According to Israeli data, 83 percent of Palestinians killed in Gaza were civilians
+-Post ID: ('1mx2dzj', 'Guardian: According to Israeli data, 83 percent of Palestinians killed in Gaza were civilians')
+-Metriche:
+  > Commenti: 65
+  > Upvotes totali: 304
+  > Upvote medio: 4.7
+  > Upvote massimo: 27
+  > Sentiment medio: 0.113
+  > Soggettività: 0.369
+  > Engagement rate: 4.68
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 22/08/2025 12:05
+  > Ultimo commento: 23/08/2025 14:55
+----------------------------------------
+
+#5 - 26 COMMENTI
+-Data post: 30/06/2025
+-Titolo: Senior IDF officers admit 'uncalculated' fire on Gaza aid seekers after Haaretz expose
+-Post ID: ('1loffsg', "Senior IDF officers admit 'uncalculated' fire on Gaza aid seekers after Haaretz expose")
+-Metriche:
+  > Commenti: 26
+  > Upvotes totali: 57
+  > Upvote medio: 2.2
+  > Upvote massimo: 10
+  > Sentiment medio: -0.014
+  > Soggettività: 0.409
+  > Engagement rate: 2.19
+  > Durata discussione: 0.7 giorni
+  > Primo commento: 30/06/2025 20:47
+  > Ultimo commento: 01/07/2025 14:39
+----------------------------------------
+
+#6 - 21 COMMENTI
+-Data post: 23/08/2025
+-Titolo: István Kapos, Holocaust survivor, tells the truth about Israel
+-Post ID: ('1mxwfec', 'István Kapos, Holocaust survivor, tells the truth about Israel')
+-Metriche:
+  > Commenti: 21
+  > Upvotes totali: 48
+  > Upvote medio: 2.3
+  > Upvote massimo: 17
+  > Sentiment medio: 0.087
+  > Soggettività: 0.383
+  > Engagement rate: 2.29
+  > Durata discussione: 21.0 giorni
+  > Primo commento: 23/08/2025 12:50
+  > Ultimo commento: 13/09/2025 12:35
+----------------------------------------
+
+#7 - 20 COMMENTI
+-Data post: 16/08/2025
+-Titolo: 'Game of Target Practice': Doctors Back From Gaza Share Harrowing Stories of Israel's Brutality
+-Post ID: ('1mrbw3e', "'Game of Target Practice': Doctors Back From Gaza Share Harrowing Stories of Israel's Brutality")
+-Metriche:
+  > Commenti: 20
+  > Upvotes totali: 34
+  > Upvote medio: 1.7
+  > Upvote massimo: 9
+  > Sentiment medio: 0.004
+  > Soggettività: 0.295
+  > Engagement rate: 1.70
+  > Durata discussione: 6.1 giorni
+  > Primo commento: 16/08/2025 00:14
+  > Ultimo commento: 22/08/2025 01:48
+----------------------------------------
+
+#8 - 14 COMMENTI
+-Data post: 13/06/2025
+-Titolo: On the sidelines of "poor Iran"-type manifestations
+-Post ID: ('1lagq2q', 'On the sidelines of "poor Iran"-type manifestations')
+-Metriche:
+  > Commenti: 14
+  > Upvotes totali: 172
+  > Upvote medio: 12.3
+  > Upvote massimo: 123
+  > Sentiment medio: -0.008
+  > Soggettività: 0.422
+  > Engagement rate: 12.29
+  > Durata discussione: 0.7 giorni
+  > Primo commento: 13/06/2025 16:38
+  > Ultimo commento: 14/06/2025 10:23
+----------------------------------------
+
+#9 - 12 COMMENTI
+-Data post: 03/06/2025
+-Titolo: Several domestic media have been spreading proven lies on foreign policy topics for days (a case in Gaza, ca
+-Post ID: ('1l2a49o', 'Several domestic media have been spreading proven lies on foreign policy topics for days (a case in Gaza, ca')
+-Metriche:
+  > Commenti: 12
+  > Upvotes totali: 66
+  > Upvote medio: 5.5
+  > Upvote massimo: 30
+  > Sentiment medio: 0.120
+  > Soggettività: 0.480
+  > Engagement rate: 5.50
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 03/06/2025 14:08
+  > Ultimo commento: 04/06/2025 22:21
+----------------------------------------
+
+#10 - 11 COMMENTI
+-Data post: 16/01/2025
+-Titolo: CNN: Israel and Hamas agree to cease-fire
+-Post ID: ('1i235zc', 'CNN: Israel and Hamas agree to cease-fire')
+-Metriche:
+  > Commenti: 11
+  > Upvotes totali: 19
+  > Upvote medio: 1.7
+  > Upvote massimo: 5
+  > Sentiment medio: 0.072
+  > Soggettività: 0.318
+  > Engagement rate: 1.73
+  > Durata discussione: 0.8 giorni
+  > Primo commento: 16/01/2025 03:10
+  > Ultimo commento: 16/01/2025 22:35
+----------------------------------------
+
+#11 - 10 COMMENTI
+-Data post: 24/07/2025
+-Titolo: Hungarian Nation: The government bans Kneecap from Hungary
+-Post ID: ('1m7wv4j', 'Hungarian Nation: The government bans Kneecap from Hungary')
+-Metriche:
+  > Commenti: 10
+  > Upvotes totali: 22
+  > Upvote medio: 2.2
+  > Upvote massimo: 9
+  > Sentiment medio: 0.095
+  > Soggettività: 0.333
+  > Engagement rate: 2.20
+  > Durata discussione: 2.0 giorni
+  > Primo commento: 24/07/2025 08:59
+  > Ultimo commento: 26/07/2025 09:53
+----------------------------------------
+
+#12 - 9 COMMENTI
+-Data post: 04/04/2025
+-Titolo: Hamas called on the Hungarian government to hand over the war criminal Netanyahu to the ICC (English
+-Post ID: ('1jr4pmi', 'Hamas called on the Hungarian government to hand over the war criminal Netanyahu to the ICC (English')
+-Metriche:
+  > Commenti: 9
+  > Upvotes totali: 23
+  > Upvote medio: 2.6
+  > Upvote massimo: 14
+  > Sentiment medio: 0.042
+  > Soggettività: 0.350
+  > Engagement rate: 2.56
+  > Durata discussione: 0.8 giorni
+  > Primo commento: 04/04/2025 09:42
+  > Ultimo commento: 05/04/2025 06:02
+----------------------------------------
+
+#13 - 6 COMMENTI
+-Data post: 13/10/2025
+-Titolo: Hamas released all 20 living Israeli hostages, including Hungarian citizens
+-Post ID: ('1o5eh8s', 'Hamas released all 20 living Israeli hostages, including Hungarian citizens')
+-Metriche:
+  > Commenti: 6
+  > Upvotes totali: 45
+  > Upvote medio: 7.5
+  > Upvote massimo: 14
+  > Sentiment medio: 0.045
+  > Soggettività: 0.406
+  > Engagement rate: 7.50
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 13/10/2025 10:57
+  > Ultimo commento: 14/10/2025 13:56
+----------------------------------------
+
+#14 - 5 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Israel attacked Iran
+-Post ID: ('1la57xr', 'Israel attacked Iran')
+-Metriche:
+  > Commenti: 5
+  > Upvotes totali: 13
+  > Upvote medio: 2.6
+  > Upvote massimo: 7
+  > Sentiment medio: -0.204
+  > Soggettività: 0.464
+  > Engagement rate: 2.60
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 13/06/2025 07:48
+  > Ultimo commento: 13/06/2025 22:05
+----------------------------------------
+
+#15 - 4 COMMENTI
+-Data post: 10/02/2025
+-Titolo: Anti-Israelism of the Hungarian left-wing/liberal press (long post)
+-Post ID: ('1im5lyj', 'Anti-Israelism of the Hungarian left-wing/liberal press (long post)')
+-Metriche:
+  > Commenti: 4
+  > Upvotes totali: 13
+  > Upvote medio: 3.2
+  > Upvote massimo: 6
+  > Sentiment medio: 0.134
+  > Soggettività: 0.564
+  > Engagement rate: 3.25
+  > Durata discussione: 0.5 giorni
+  > Primo commento: 10/02/2025 16:49
+  > Ultimo commento: 11/02/2025 05:43
+----------------------------------------

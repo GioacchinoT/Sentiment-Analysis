@@ -1,0 +1,27 @@
+ REPORT POST PIÙ COMMENTATI - r/ukraine
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 1
+> Commenti totali: 10
+> Commenti per post (media): 10.0
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 10 COMMENTI
+-Data post: 30/09/2025
+-Titolo: GUR and MFA of Ukraine rescued 57 people from Gaza - details of the evacuation mission
+-Post ID: ('1nugdff', 'GUR and MFA of Ukraine rescued 57 people from Gaza - details of the evacuation mission')
+-Metriche:
+  > Commenti: 10
+  > Upvotes totali: 340
+  > Upvote medio: 34.0
+  > Upvote massimo: 124
+  > Sentiment medio: 0.074
+  > Soggettività: 0.474
+  > Engagement rate: 34.00
+  > Durata discussione: 0.4 giorni
+  > Primo commento: 30/09/2025 17:31
+  > Ultimo commento: 01/10/2025 04:12
+----------------------------------------

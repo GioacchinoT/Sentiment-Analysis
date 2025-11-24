@@ -1,0 +1,129 @@
+ REPORT POST PIÙ COMMENTATI - r/poland
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 7
+> Commenti totali: 56
+> Commenti per post (media): 8.0
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 17 COMMENTI
+-Data post: 14/03/2025
+-Titolo: Member of the European Parliament @marcbotenga called out Poland's EU Minister Adam Szlapka for blat
+-Post ID: ('1jb0z6v', "Member of the European Parliament @marcbotenga called out Poland's EU Minister Adam Szlapka for blat")
+-Metriche:
+  > Commenti: 17
+  > Upvotes totali: 10
+  > Upvote medio: 0.6
+  > Upvote massimo: 18
+  > Sentiment medio: 0.008
+  > Soggettività: 0.382
+  > Engagement rate: 0.59
+  > Durata discussione: 75.6 giorni
+  > Primo commento: 14/03/2025 17:18
+  > Ultimo commento: 29/05/2025 07:52
+----------------------------------------
+
+#2 - 11 COMMENTI
+-Data post: 08/09/2025
+-Titolo: “Israeli” arms firms face scrutiny at Poland defense expo over Gaza war
+-Post ID: ('1nb7m1v', '“Israeli” arms firms face scrutiny at Poland defense expo over Gaza war')
+-Metriche:
+  > Commenti: 11
+  > Upvotes totali: 40
+  > Upvote medio: 3.6
+  > Upvote massimo: 16
+  > Sentiment medio: -0.040
+  > Soggettività: 0.283
+  > Engagement rate: 3.64
+  > Durata discussione: 3.1 giorni
+  > Primo commento: 08/09/2025 01:01
+  > Ultimo commento: 11/09/2025 04:17
+----------------------------------------
+
+#3 - 10 COMMENTI
+-Data post: 06/08/2025
+-Titolo: Why does Israel continue to try to justify the genocide of civilians with actions against the terro group
+-Post ID: ('1mj32rw', 'Why does Israel continue to try to justify the genocide of civilians with actions against the terro group')
+-Metriche:
+  > Commenti: 10
+  > Upvotes totali: 64
+  > Upvote medio: 6.4
+  > Upvote massimo: 23
+  > Sentiment medio: 0.107
+  > Soggettività: 0.437
+  > Engagement rate: 6.40
+  > Durata discussione: 0.3 giorni
+  > Primo commento: 06/08/2025 14:50
+  > Ultimo commento: 06/08/2025 22:36
+----------------------------------------
+
+#4 - 6 COMMENTI
+-Data post: 11/09/2025
+-Titolo: Can someone explain to me why the US supports Israel?
+-Post ID: ('1neasi6', 'Can someone explain to me why the US supports Israel?')
+-Metriche:
+  > Commenti: 6
+  > Upvotes totali: 12
+  > Upvote medio: 2.0
+  > Upvote massimo: 3
+  > Sentiment medio: 0.125
+  > Soggettività: 0.451
+  > Engagement rate: 2.00
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 11/09/2025 16:51
+  > Ultimo commento: 11/09/2025 20:27
+----------------------------------------
+
+#5 - 5 COMMENTI
+-Data post: 14/10/2025
+-Titolo: How do you guys feel about the misinformation online claiming Jews are ‘from Poland’ and should ‘go
+-Post ID: ('1o6g5my', 'How do you guys feel about the misinformation online claiming Jews are ‘from Poland’ and should ‘go')
+-Metriche:
+  > Commenti: 5
+  > Upvotes totali: 13
+  > Upvote medio: 2.6
+  > Upvote massimo: 6
+  > Sentiment medio: -0.035
+  > Soggettività: 0.285
+  > Engagement rate: 2.60
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 14/10/2025 16:20
+  > Ultimo commento: 15/10/2025 20:25
+----------------------------------------
+
+#6 - 4 COMMENTI
+-Data post: 23/06/2025
+-Titolo: ‘Dozens’ of Poles still waiting to be evacuated from Israel
+-Post ID: ('1lhswx5', '‘Dozens’ of Poles still waiting to be evacuated from Israel')
+-Metriche:
+  > Commenti: 4
+  > Upvotes totali: 4
+  > Upvote medio: 1.0
+  > Upvote massimo: 3
+  > Sentiment medio: 0.175
+  > Soggettività: 0.559
+  > Engagement rate: 1.00
+  > Durata discussione: 0.3 giorni
+  > Primo commento: 23/06/2025 02:23
+  > Ultimo commento: 23/06/2025 10:13
+----------------------------------------
+
+#7 - 3 COMMENTI
+-Data post: 23/12/2024
+-Titolo: But is Poland safe? Israel thinks so, come for a visit Benny!
+-Post ID: ('1hkoka6', 'But is Poland safe? Israel thinks so, come for a visit Benny!')
+-Metriche:
+  > Commenti: 3
+  > Upvotes totali: -5
+  > Upvote medio: -1.7
+  > Upvote massimo: 2
+  > Sentiment medio: -0.378
+  > Soggettività: 0.600
+  > Engagement rate: -1.67
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 23/12/2024 16:47
+  > Ultimo commento: 23/12/2024 18:16
+----------------------------------------

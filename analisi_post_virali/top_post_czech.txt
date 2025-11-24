@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/czech
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 87
+> Commenti totali: 2,268
+> Commenti per post (media): 26.1
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 354 COMMENTI
+-Data post: 18/03/2025
+-Titolo: The ceasefire in Gaza is probably over. Israel launched airstrikes against Hamas.
+-Post ID: ('1jdxs4c', 'The ceasefire in Gaza is probably over. Israel launched airstrikes against Hamas.')
+-Metriche:
+  > Commenti: 354
+  > Upvotes totali: 2,135
+  > Upvote medio: 6.0
+  > Upvote massimo: 269
+  > Sentiment medio: 0.056
+  > Soggettività: 0.417
+  > Engagement rate: 6.03
+  > Durata discussione: 4.6 giorni
+  > Primo commento: 18/03/2025 06:20
+  > Ultimo commento: 22/03/2025 21:17
+----------------------------------------
+
+#2 - 202 COMMENTI
+-Data post: 01/08/2025
+-Titolo: Even Israeli human rights organizations are already talking about the genocide in Gaza based on their analyses
+-Post ID: ('1meux5k', 'Even Israeli human rights organizations are already talking about the genocide in Gaza based on their analyses')
+-Metriche:
+  > Commenti: 202
+  > Upvotes totali: 1,196
+  > Upvote medio: 5.9
+  > Upvote massimo: 106
+  > Sentiment medio: 0.061
+  > Soggettività: 0.383
+  > Engagement rate: 5.92
+  > Durata discussione: 4.9 giorni
+  > Primo commento: 01/08/2025 14:17
+  > Ultimo commento: 06/08/2025 12:16
+----------------------------------------
+
+#3 - 167 COMMENTI
+-Data post: 19/04/2025
+-Titolo: The situation in Gaza is the worst since the beginning of the war, Israel is also shelling Doctors Without Borders
+-Post ID: ('1k2v1mn', 'The situation in Gaza is the worst since the beginning of the war, Israel is also shelling Doctors Without Borders')
+-Metriche:
+  > Commenti: 167
+  > Upvotes totali: 1,216
+  > Upvote medio: 7.3
+  > Upvote massimo: 177
+  > Sentiment medio: 0.015
+  > Soggettività: 0.386
+  > Engagement rate: 7.28
+  > Durata discussione: 7.2 giorni
+  > Primo commento: 19/04/2025 14:23
+  > Ultimo commento: 26/04/2025 19:55
+----------------------------------------
+
+#4 - 103 COMMENTI
+-Data post: 14/10/2025
+-Titolo: All living Israeli hostages released from Gaza; Trump, world leaders sign peace deal in Egypt
+-Post ID: ('1o6b9wv', 'All living Israeli hostages released from Gaza; Trump, world leaders sign peace deal in Egypt')
+-Metriche:
+  > Commenti: 103
+  > Upvotes totali: 82
+  > Upvote medio: 0.8
+  > Upvote massimo: 13
+  > Sentiment medio: 0.051
+  > Soggettività: 0.373
+  > Engagement rate: 0.80
+  > Durata discussione: 3.0 giorni
+  > Primo commento: 14/10/2025 12:00
+  > Ultimo commento: 17/10/2025 12:08
+----------------------------------------
+
+#5 - 88 COMMENTI
+-Data post: 07/05/2025
+-Titolo: "The Gaza Strip will be completely destroyed", declares the Israeli master openly. Someone else doubts the genoc
+-Post ID: ('1kgw740', '"The Gaza Strip will be completely destroyed", declares the Israeli master openly. Someone else doubts the genoc')
+-Metriche:
+  > Commenti: 88
+  > Upvotes totali: 311
+  > Upvote medio: 3.5
+  > Upvote massimo: 26
+  > Sentiment medio: 0.041
+  > Soggettività: 0.279
+  > Engagement rate: 3.53
+  > Durata discussione: 94.3 giorni
+  > Primo commento: 07/05/2025 14:33
+  > Ultimo commento: 09/08/2025 21:56
+----------------------------------------
+
+#6 - 82 COMMENTI
+-Data post: 03/09/2025
+-Titolo: Some supporters of Palestine are semi-literate morons
+-Post ID: ('1n75sl3', 'Some supporters of Palestine are semi-literate morons')
+-Metriche:
+  > Commenti: 82
+  > Upvotes totali: 237
+  > Upvote medio: 2.9
+  > Upvote massimo: 59
+  > Sentiment medio: 0.012
+  > Soggettività: 0.475
+  > Engagement rate: 2.89
+  > Durata discussione: 2.2 giorni
+  > Primo commento: 03/09/2025 07:05
+  > Ultimo commento: 05/09/2025 11:49
+----------------------------------------
+
+#7 - 71 COMMENTI
+-Data post: 06/08/2025
+-Titolo: How Israel razed all of Gaza to the ground
+-Post ID: ('1mizw3d', 'How Israel razed all of Gaza to the ground')
+-Metriche:
+  > Commenti: 71
+  > Upvotes totali: 142
+  > Upvote medio: 2.0
+  > Upvote massimo: 13
+  > Sentiment medio: 0.084
+  > Soggettività: 0.338
+  > Engagement rate: 2.00
+  > Durata discussione: 4.1 giorni
+  > Primo commento: 06/08/2025 11:21
+  > Ultimo commento: 10/08/2025 13:13
+----------------------------------------
+
+#8 - 70 COMMENTI
+-Data post: 02/10/2025
+-Titolo: Israel intervened against the flotilla for Gaza, the Czech Republic asks the government for rescue
+-Post ID: ('1nvz9is', 'Israel intervened against the flotilla for Gaza, the Czech Republic asks the government for rescue')
+-Metriche:
+  > Commenti: 70
+  > Upvotes totali: 312
+  > Upvote medio: 4.5
+  > Upvote massimo: 56
+  > Sentiment medio: 0.069
+  > Soggettività: 0.392
+  > Engagement rate: 4.46
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 02/10/2025 11:42
+  > Ultimo commento: 03/10/2025 13:48
+----------------------------------------
+
+#9 - 70 COMMENTI
+-Data post: 16/10/2025
+-Titolo: Gaza like you don't know
+-Post ID: ('1o7ziwi', "Gaza like you don't know")
+-Metriche:
+  > Commenti: 70
+  > Upvotes totali: 103
+  > Upvote medio: 1.5
+  > Upvote massimo: 10
+  > Sentiment medio: 0.084
+  > Soggettività: 0.439
+  > Engagement rate: 1.47
+  > Durata discussione: 0.4 giorni
+  > Primo commento: 16/10/2025 09:21
+  > Ultimo commento: 16/10/2025 19:04
+----------------------------------------
+
+#10 - 68 COMMENTI
+-Data post: 13/04/2025
+-Titolo: Israel bombs the last functioning hospital in Gaza
+-Post ID: ('1jy4no2', 'Israel bombs the last functioning hospital in Gaza')
+-Metriche:
+  > Commenti: 68
+  > Upvotes totali: 352
+  > Upvote medio: 5.2
+  > Upvote massimo: 51
+  > Sentiment medio: 0.050
+  > Soggettività: 0.339
+  > Engagement rate: 5.18
+  > Durata discussione: 4.2 giorni
+  > Primo commento: 13/04/2025 12:29
+  > Ultimo commento: 17/04/2025 16:39
+----------------------------------------
+
+#11 - 51 COMMENTI
+-Data post: 16/09/2025
+-Titolo: Israel is committing genocide in the Gaza Strip, an independent UN commission of inquiry has said
+-Post ID: ('1niflgd', 'Israel is committing genocide in the Gaza Strip, an independent UN commission of inquiry has said')
+-Metriche:
+  > Commenti: 51
+  > Upvotes totali: 116
+  > Upvote medio: 2.3
+  > Upvote massimo: 22
+  > Sentiment medio: 0.026
+  > Soggettività: 0.483
+  > Engagement rate: 2.27
+  > Durata discussione: 0.2 giorni
+  > Primo commento: 16/09/2025 14:08
+  > Ultimo commento: 16/09/2025 18:43
+----------------------------------------
+
+#12 - 47 COMMENTI
+-Data post: 23/09/2025
+-Titolo: Why is everyone suddenly obsessed with Palestine?
+-Post ID: ('1no9k81', 'Why is everyone suddenly obsessed with Palestine?')
+-Metriche:
+  > Commenti: 47
+  > Upvotes totali: 295
+  > Upvote medio: 6.3
+  > Upvote massimo: 77
+  > Sentiment medio: 0.056
+  > Soggettività: 0.364
+  > Engagement rate: 6.28
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 23/09/2025 08:38
+  > Ultimo commento: 24/09/2025 12:22
+----------------------------------------
+
+#13 - 44 COMMENTI
+-Data post: 08/06/2025
+-Titolo: How do you view the war in Gaza? (Poll)
+-Post ID: ('1l6mm06', 'How do you view the war in Gaza? (Poll)')
+-Metriche:
+  > Commenti: 44
+  > Upvotes totali: 139
+  > Upvote medio: 3.2
+  > Upvote massimo: 22
+  > Sentiment medio: 0.036
+  > Soggettività: 0.410
+  > Engagement rate: 3.16
+  > Durata discussione: 4.6 giorni
+  > Primo commento: 08/06/2025 23:06
+  > Ultimo commento: 13/06/2025 13:46
+----------------------------------------
+
+#14 - 44 COMMENTI
+-Data post: 09/10/2025
+-Titolo: Reality-check: activists for Palestine want the elimination of all of Israel, they do not allow coexistence. Hamas j
+-Post ID: ('1o21r1j', 'Reality-check: activists for Palestine want the elimination of all of Israel, they do not allow coexistence. Hamas j')
+-Metriche:
+  > Commenti: 44
+  > Upvotes totali: 214
+  > Upvote medio: 4.9
+  > Upvote massimo: 63
+  > Sentiment medio: 0.081
+  > Soggettività: 0.363
+  > Engagement rate: 4.86
+  > Durata discussione: 2.1 giorni
+  > Primo commento: 09/10/2025 11:55
+  > Ultimo commento: 11/10/2025 15:14
+----------------------------------------
+
+#15 - 42 COMMENTI
+-Data post: 07/04/2025
+-Titolo: Under pressure, Israel turned around and admitted the attack on the rescue convoy, having previously lied about it for a long time.
+-Post ID: ('1jtkiws', 'Under pressure, Israel turned around and admitted the attack on the rescue convoy, having previously lied about it for a long time.')
+-Metriche:
+  > Commenti: 42
+  > Upvotes totali: 99
+  > Upvote medio: 2.4
+  > Upvote massimo: 20
+  > Sentiment medio: -0.032
+  > Soggettività: 0.423
+  > Engagement rate: 2.36
+  > Durata discussione: 11.5 giorni
+  > Primo commento: 07/04/2025 15:29
+  > Ultimo commento: 19/04/2025 02:46
+----------------------------------------

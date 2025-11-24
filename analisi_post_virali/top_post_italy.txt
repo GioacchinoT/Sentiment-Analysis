@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/italy
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 219
+> Commenti totali: 21,503
+> Commenti per post (media): 98.2
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 1109 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Israel attacked Iran
+-Post ID: ('1la7h40', 'Israel attacked Iran')
+-Metriche:
+  > Commenti: 1109
+  > Upvotes totali: 6,727
+  > Upvote medio: 6.1
+  > Upvote massimo: 353
+  > Sentiment medio: 0.046
+  > Soggettività: 0.346
+  > Engagement rate: 6.07
+  > Durata discussione: 12.5 giorni
+  > Primo commento: 13/06/2025 06:55
+  > Ultimo commento: 25/06/2025 20:01
+----------------------------------------
+
+#2 - 715 COMMENTI
+-Data post: 22/09/2025
+-Titolo: Guerrilla war in Milan: pro Gazars attack the station. Throwing stones and charges, 10 arrested and 60 arrested
+-Post ID: ('1nnrqzq', 'Guerrilla war in Milan: pro Gazars attack the station. Throwing stones and charges, 10 arrested and 60 arrested')
+-Metriche:
+  > Commenti: 715
+  > Upvotes totali: 4,288
+  > Upvote medio: 6.0
+  > Upvote massimo: 471
+  > Sentiment medio: 0.023
+  > Soggettività: 0.339
+  > Engagement rate: 6.00
+  > Durata discussione: 4.1 giorni
+  > Primo commento: 22/09/2025 18:52
+  > Ultimo commento: 26/09/2025 21:30
+----------------------------------------
+
+#3 - 541 COMMENTI
+-Data post: 17/09/2025
+-Titolo: 'Zionist Professor', pro-Palestine blitz in the university classroom
+-Post ID: ('1nj5dct', "'Zionist Professor', pro-Palestine blitz in the university classroom")
+-Metriche:
+  > Commenti: 541
+  > Upvotes totali: 2,874
+  > Upvote medio: 5.3
+  > Upvote massimo: 233
+  > Sentiment medio: 0.026
+  > Soggettività: 0.351
+  > Engagement rate: 5.31
+  > Durata discussione: 5.3 giorni
+  > Primo commento: 17/09/2025 09:15
+  > Ultimo commento: 22/09/2025 16:53
+----------------------------------------
+
+#4 - 531 COMMENTI
+-Data post: 20/09/2025
+-Titolo: opinions on the strike for gaza on monday 22 september?
+-Post ID: ('1nm9mfp', 'opinions on the strike for gaza on monday 22 september?')
+-Metriche:
+  > Commenti: 531
+  > Upvotes totali: 2,686
+  > Upvote medio: 5.1
+  > Upvote massimo: 189
+  > Sentiment medio: 0.044
+  > Soggettività: 0.362
+  > Engagement rate: 5.06
+  > Durata discussione: 13.6 giorni
+  > Primo commento: 20/09/2025 23:51
+  > Ultimo commento: 04/10/2025 14:36
+----------------------------------------
+
+#5 - 520 COMMENTI
+-Data post: 16/09/2025
+-Titolo: Israel invades Gaza City.  Israeli Justice Minister: Gaza is burning, we will not return
+-Post ID: ('1niar5k', 'Israel invades Gaza City.  Israeli Justice Minister: Gaza is burning, we will not return')
+-Metriche:
+  > Commenti: 520
+  > Upvotes totali: 3,723
+  > Upvote medio: 7.2
+  > Upvote massimo: 356
+  > Sentiment medio: 0.045
+  > Soggettività: 0.331
+  > Engagement rate: 7.16
+  > Durata discussione: 3.5 giorni
+  > Primo commento: 16/09/2025 10:02
+  > Ultimo commento: 19/09/2025 22:04
+----------------------------------------
+
+#6 - 477 COMMENTI
+-Data post: 11/10/2025
+-Titolo: Gaza, Hamas refuses to disarm: "It's out of the question." BBC: “The group has already attracted 7 thousand militiamen
+-Post ID: ('1o43vlc', 'Gaza, Hamas refuses to disarm: "It\'s out of the question." BBC: “The group has already attracted 7 thousand militiamen')
+-Metriche:
+  > Commenti: 477
+  > Upvotes totali: 2,621
+  > Upvote medio: 5.5
+  > Upvote massimo: 171
+  > Sentiment medio: 0.010
+  > Soggettività: 0.321
+  > Engagement rate: 5.49
+  > Durata discussione: 2.7 giorni
+  > Primo commento: 11/10/2025 21:05
+  > Ultimo commento: 14/10/2025 14:21
+----------------------------------------
+
+#7 - 463 COMMENTI
+-Data post: 29/07/2025
+-Titolo: Jews insulted and beaten in a motorway restaurant in Milan: "You are murderers, we are not in Gaza here, go and
+-Post ID: ('1mbpd4q', 'Jews insulted and beaten in a motorway restaurant in Milan: "You are murderers, we are not in Gaza here, go and')
+-Metriche:
+  > Commenti: 463
+  > Upvotes totali: 2,159
+  > Upvote medio: 4.7
+  > Upvote massimo: 577
+  > Sentiment medio: 0.030
+  > Soggettività: 0.389
+  > Engagement rate: 4.66
+  > Durata discussione: 3.7 giorni
+  > Primo commento: 29/07/2025 00:11
+  > Ultimo commento: 01/08/2025 17:38
+----------------------------------------
+
+#8 - 439 COMMENTI
+-Data post: 15/11/2024
+-Titolo: Hotel refuses Israeli tourists: "Responsible for genocide"
+-Post ID: ('1grr24e', 'Hotel refuses Israeli tourists: "Responsible for genocide"')
+-Metriche:
+  > Commenti: 439
+  > Upvotes totali: 1,902
+  > Upvote medio: 4.3
+  > Upvote massimo: 181
+  > Sentiment medio: 0.030
+  > Soggettività: 0.349
+  > Engagement rate: 4.33
+  > Durata discussione: 9.4 giorni
+  > Primo commento: 15/11/2024 08:41
+  > Ultimo commento: 24/11/2024 17:23
+----------------------------------------
+
+#9 - 438 COMMENTI
+-Data post: 26/07/2025
+-Titolo: «Counterproductive»: Giorgia Meloni explains why Italy will not recognize Palestine
+-Post ID: ('1m9mkqa', '«Counterproductive»: Giorgia Meloni explains why Italy will not recognize Palestine')
+-Metriche:
+  > Commenti: 438
+  > Upvotes totali: 1,494
+  > Upvote medio: 3.4
+  > Upvote massimo: 314
+  > Sentiment medio: 0.037
+  > Soggettività: 0.315
+  > Engagement rate: 3.41
+  > Durata discussione: 6.4 giorni
+  > Primo commento: 26/07/2025 08:48
+  > Ultimo commento: 01/08/2025 17:49
+----------------------------------------
+
+#10 - 423 COMMENTI
+-Data post: 01/10/2025
+-Titolo: Sumud Flotilla enters risk zone: "Less than 145 miles from Gaza"
+-Post ID: ('1nv2igc', 'Sumud Flotilla enters risk zone: "Less than 145 miles from Gaza"')
+-Metriche:
+  > Commenti: 423
+  > Upvotes totali: 2,403
+  > Upvote medio: 5.7
+  > Upvote massimo: 387
+  > Sentiment medio: 0.020
+  > Soggettività: 0.343
+  > Engagement rate: 5.68
+  > Durata discussione: 11.3 giorni
+  > Primo commento: 01/10/2025 10:20
+  > Ultimo commento: 12/10/2025 16:25
+----------------------------------------
+
+#11 - 408 COMMENTI
+-Data post: 13/10/2025
+-Titolo: Albanese leads the march against the peace agreement in Gaza. “It is to complete the genocide”
+-Post ID: ('1o5mpd7', 'Albanese leads the march against the peace agreement in Gaza. “It is to complete the genocide”')
+-Metriche:
+  > Commenti: 408
+  > Upvotes totali: 1,970
+  > Upvote medio: 4.8
+  > Upvote massimo: 542
+  > Sentiment medio: 0.026
+  > Soggettività: 0.360
+  > Engagement rate: 4.83
+  > Durata discussione: 9.8 giorni
+  > Primo commento: 13/10/2025 17:52
+  > Ultimo commento: 23/10/2025 13:05
+----------------------------------------
+
+#12 - 382 COMMENTI
+-Data post: 18/03/2025
+-Titolo: Gaza: truce broken, Israel attacks Hamas, already over 300 dead
+-Post ID: ('1jdzufz', 'Gaza: truce broken, Israel attacks Hamas, already over 300 dead')
+-Metriche:
+  > Commenti: 382
+  > Upvotes totali: 3,170
+  > Upvote medio: 8.3
+  > Upvote massimo: 397
+  > Sentiment medio: 0.026
+  > Soggettività: 0.374
+  > Engagement rate: 8.30
+  > Durata discussione: 27.4 giorni
+  > Primo commento: 18/03/2025 08:58
+  > Ultimo commento: 14/04/2025 19:34
+----------------------------------------
+
+#13 - 376 COMMENTI
+-Data post: 01/07/2025
+-Titolo: Israel bombed a bar used by Palestinian journalists in Gaza
+-Post ID: ('1lowghf', 'Israel bombed a bar used by Palestinian journalists in Gaza')
+-Metriche:
+  > Commenti: 376
+  > Upvotes totali: 2,316
+  > Upvote medio: 6.2
+  > Upvote massimo: 316
+  > Sentiment medio: 0.036
+  > Soggettività: 0.294
+  > Engagement rate: 6.16
+  > Durata discussione: 19.3 giorni
+  > Primo commento: 01/07/2025 11:01
+  > Ultimo commento: 20/07/2025 17:32
+----------------------------------------
+
+#14 - 369 COMMENTI
+-Data post: 23/10/2025
+-Titolo: Why are so many in Italy worried about the Palestinians but few about the Ukrainians?
+-Post ID: ('1odxdch', 'Why are so many in Italy worried about the Palestinians but few about the Ukrainians?')
+-Metriche:
+  > Commenti: 369
+  > Upvotes totali: 2,057
+  > Upvote medio: 5.6
+  > Upvote massimo: 349
+  > Sentiment medio: 0.034
+  > Soggettività: 0.354
+  > Engagement rate: 5.57
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 23/10/2025 18:29
+  > Ultimo commento: 27/10/2025 18:29
+----------------------------------------
+
+#15 - 357 COMMENTI
+-Data post: 26/02/2025
+-Titolo: The new Gaza Strip according to Donald Trump: in the video made with AI, golden statues and resorts
+-Post ID: ('1iyjkba', 'The new Gaza Strip according to Donald Trump: in the video made with AI, golden statues and resorts')
+-Metriche:
+  > Commenti: 357
+  > Upvotes totali: 5,440
+  > Upvote medio: 15.2
+  > Upvote massimo: 355
+  > Sentiment medio: 0.048
+  > Soggettività: 0.382
+  > Engagement rate: 15.24
+  > Durata discussione: 3.5 giorni
+  > Primo commento: 26/02/2025 10:19
+  > Ultimo commento: 01/03/2025 23:29
+----------------------------------------

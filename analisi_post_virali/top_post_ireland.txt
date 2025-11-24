@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/ireland
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 186
+> Commenti totali: 21,878
+> Commenti per post (media): 117.6
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 692 COMMENTI
+-Data post: 23/09/2025
+-Titolo: Left-wing parties distance themselves from Catherine Connolly's comments on Hamas
+-Post ID: ('1nocx67', "Left-wing parties distance themselves from Catherine Connolly's comments on Hamas")
+-Metriche:
+  > Commenti: 692
+  > Upvotes totali: 5,210
+  > Upvote medio: 7.5
+  > Upvote massimo: 818
+  > Sentiment medio: 0.033
+  > Soggettività: 0.379
+  > Engagement rate: 7.53
+  > Durata discussione: 5.0 giorni
+  > Primo commento: 23/09/2025 11:41
+  > Ultimo commento: 28/09/2025 10:49
+----------------------------------------
+
+#2 - 605 COMMENTI
+-Data post: 29/04/2025
+-Titolo: Kneecap apologizes to family of murdered Tory MP and says it does not support Hamas or Hezbollah
+-Post ID: ('1kahojb', 'Kneecap apologizes to family of murdered Tory MP and says it does not support Hamas or Hezbollah')
+-Metriche:
+  > Commenti: 605
+  > Upvotes totali: 9,829
+  > Upvote medio: 16.2
+  > Upvote massimo: 966
+  > Sentiment medio: 0.047
+  > Soggettività: 0.363
+  > Engagement rate: 16.25
+  > Durata discussione: 5.7 giorni
+  > Primo commento: 29/04/2025 09:10
+  > Ultimo commento: 05/05/2025 02:01
+----------------------------------------
+
+#3 - 532 COMMENTI
+-Data post: 15/12/2024
+-Titolo: Israel to close embassy in Ireland
+-Post ID: ('1hesj59', 'Israel to close embassy in Ireland')
+-Metriche:
+  > Commenti: 532
+  > Upvotes totali: 19,359
+  > Upvote medio: 36.4
+  > Upvote massimo: 1584
+  > Sentiment medio: 0.042
+  > Soggettività: 0.331
+  > Engagement rate: 36.39
+  > Durata discussione: 5.5 giorni
+  > Primo commento: 15/12/2024 14:27
+  > Ultimo commento: 21/12/2024 01:44
+----------------------------------------
+
+#4 - 461 COMMENTI
+-Data post: 22/09/2025
+-Titolo: Hamas part of fabric of Palestinian people - Connolly
+-Post ID: ('1nnngkj', 'Hamas part of fabric of Palestinian people - Connolly')
+-Metriche:
+  > Commenti: 461
+  > Upvotes totali: 3,168
+  > Upvote medio: 6.9
+  > Upvote massimo: 277
+  > Sentiment medio: 0.053
+  > Soggettività: 0.433
+  > Engagement rate: 6.87
+  > Durata discussione: 1.0 giorni
+  > Primo commento: 22/09/2025 16:10
+  > Ultimo commento: 23/09/2025 15:35
+----------------------------------------
+
+#5 - 406 COMMENTI
+-Data post: 20/11/2024
+-Titolo: Taoiseach says Sinn Féin pledge to review RTÉ's Gaza coverage is a 'dog whistle to conspiracy theory
+-Post ID: ('1gvo0jh', "Taoiseach says Sinn Féin pledge to review RTÉ's Gaza coverage is a 'dog whistle to conspiracy theory")
+-Metriche:
+  > Commenti: 406
+  > Upvotes totali: 3,120
+  > Upvote medio: 7.7
+  > Upvote massimo: 552
+  > Sentiment medio: 0.026
+  > Soggettività: 0.357
+  > Engagement rate: 7.68
+  > Durata discussione: 2.3 giorni
+  > Primo commento: 20/11/2024 13:13
+  > Ultimo commento: 22/11/2024 19:23
+----------------------------------------
+
+#6 - 405 COMMENTI
+-Data post: 30/07/2025
+-Titolo: Gaza - What can individuals do?
+-Post ID: ('1md2d0i', 'Gaza - What can individuals do?')
+-Metriche:
+  > Commenti: 405
+  > Upvotes totali: 4,206
+  > Upvote medio: 10.4
+  > Upvote massimo: 490
+  > Sentiment medio: 0.075
+  > Soggettività: 0.359
+  > Engagement rate: 10.39
+  > Durata discussione: 2.4 giorni
+  > Primo commento: 30/07/2025 11:57
+  > Ultimo commento: 01/08/2025 20:26
+----------------------------------------
+
+#7 - 365 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Simon Harris statement on Israels attack on Iran
+-Post ID: ('1la9dtk', 'Simon Harris statement on Israels attack on Iran')
+-Metriche:
+  > Commenti: 365
+  > Upvotes totali: 5,567
+  > Upvote medio: 15.3
+  > Upvote massimo: 748
+  > Sentiment medio: 0.057
+  > Soggettività: 0.365
+  > Engagement rate: 15.25
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 13/06/2025 08:58
+  > Ultimo commento: 14/06/2025 21:17
+----------------------------------------
+
+#8 - 350 COMMENTI
+-Data post: 15/01/2025
+-Titolo: Cuba joins Ireland in South Africa's genocide case against Israel at the International Court of Justice
+-Post ID: ('1i1v9e0', "Cuba joins Ireland in South Africa's genocide case against Israel at the International Court of Justice")
+-Metriche:
+  > Commenti: 350
+  > Upvotes totali: 3,891
+  > Upvote medio: 11.1
+  > Upvote massimo: 337
+  > Sentiment medio: 0.043
+  > Soggettività: 0.393
+  > Engagement rate: 11.12
+  > Durata discussione: 1.8 giorni
+  > Primo commento: 15/01/2025 12:20
+  > Ultimo commento: 17/01/2025 08:20
+----------------------------------------
+
+#9 - 348 COMMENTI
+-Data post: 11/09/2025
+-Titolo: Ireland to withdraw from Eurovision 2026 over Israel
+-Post ID: ('1ne6gzf', 'Ireland to withdraw from Eurovision 2026 over Israel')
+-Metriche:
+  > Commenti: 348
+  > Upvotes totali: 7,098
+  > Upvote medio: 20.4
+  > Upvote massimo: 1212
+  > Sentiment medio: 0.083
+  > Soggettività: 0.356
+  > Engagement rate: 20.40
+  > Durata discussione: 25.5 giorni
+  > Primo commento: 11/09/2025 13:39
+  > Ultimo commento: 07/10/2025 00:58
+----------------------------------------
+
+#10 - 342 COMMENTI
+-Data post: 29/11/2024
+-Titolo: Calls to boycott Irish tech company Stripe after CEO posts about recent visit to Israel
+-Post ID: ('1h280op', 'Calls to boycott Irish tech company Stripe after CEO posts about recent visit to Israel')
+-Metriche:
+  > Commenti: 342
+  > Upvotes totali: 3,762
+  > Upvote medio: 11.0
+  > Upvote massimo: 499
+  > Sentiment medio: 0.033
+  > Soggettività: 0.357
+  > Engagement rate: 11.00
+  > Durata discussione: 58.8 giorni
+  > Primo commento: 29/11/2024 00:07
+  > Ultimo commento: 26/01/2025 20:09
+----------------------------------------
+
+#11 - 328 COMMENTI
+-Data post: 17/10/2025
+-Titolo: 'Shame on you': Pro-Palestine activists disrupt Brian O'Driscoll speech at tech conference
+-Post ID: ('1o8vik0', "'Shame on you': Pro-Palestine activists disrupt Brian O'Driscoll speech at tech conference")
+-Metriche:
+  > Commenti: 328
+  > Upvotes totali: 4,949
+  > Upvote medio: 15.1
+  > Upvote massimo: 983
+  > Sentiment medio: 0.045
+  > Soggettività: 0.370
+  > Engagement rate: 15.09
+  > Durata discussione: 5.1 giorni
+  > Primo commento: 17/10/2025 10:16
+  > Ultimo commento: 22/10/2025 11:31
+----------------------------------------
+
+#12 - 306 COMMENTI
+-Data post: 23/04/2025
+-Titolo: Pro-Palestine protesters block O'Connell Bridge on day of civil disobedience
+-Post ID: ('1k62gkl', "Pro-Palestine protesters block O'Connell Bridge on day of civil disobedience")
+-Metriche:
+  > Commenti: 306
+  > Upvotes totali: 3,206
+  > Upvote medio: 10.5
+  > Upvote massimo: 561
+  > Sentiment medio: 0.069
+  > Soggettività: 0.374
+  > Engagement rate: 10.48
+  > Durata discussione: 6.5 giorni
+  > Primo commento: 23/04/2025 17:53
+  > Ultimo commento: 30/04/2025 05:27
+----------------------------------------
+
+#13 - 294 COMMENTI
+-Data post: 05/03/2025
+-Titolo: Ireland will raise both Ukraine and Gaza in the Oval Office next week, pledges the Taoiseach to the
+-Post ID: ('1j43h9h', 'Ireland will raise both Ukraine and Gaza in the Oval Office next week, pledges the Taoiseach to the')
+-Metriche:
+  > Commenti: 294
+  > Upvotes totali: 4,274
+  > Upvote medio: 14.5
+  > Upvote massimo: 689
+  > Sentiment medio: 0.086
+  > Soggettività: 0.362
+  > Engagement rate: 14.54
+  > Durata discussione: 13.5 giorni
+  > Primo commento: 05/03/2025 14:54
+  > Ultimo commento: 19/03/2025 03:04
+----------------------------------------
+
+#14 - 292 COMMENTI
+-Data post: 26/05/2025
+-Titolo: Hecklers ejected from Dublin event as Bernie Sanders refuses to call Israel's actions genocide
+-Post ID: ('1kvtgk2', "Hecklers ejected from Dublin event as Bernie Sanders refuses to call Israel's actions genocide")
+-Metriche:
+  > Commenti: 292
+  > Upvotes totali: 3,856
+  > Upvote medio: 13.2
+  > Upvote massimo: 558
+  > Sentiment medio: 0.069
+  > Soggettività: 0.388
+  > Engagement rate: 13.21
+  > Durata discussione: 5.6 giorni
+  > Primo commento: 26/05/2025 14:47
+  > Ultimo commento: 01/06/2025 04:14
+----------------------------------------
+
+#15 - 275 COMMENTI
+-Data post: 16/05/2025
+-Titolo: The Irish Language Under Attack in Germany for Speaking Up for Palestine
+-Post ID: ('1knx0qx', 'The Irish Language Under Attack in Germany for Speaking Up for Palestine')
+-Metriche:
+  > Commenti: 275
+  > Upvotes totali: 1,923
+  > Upvote medio: 7.0
+  > Upvote massimo: 290
+  > Sentiment medio: -0.002
+  > Soggettività: 0.354
+  > Engagement rate: 6.99
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 16/05/2025 12:09
+  > Ultimo commento: 20/05/2025 12:41
+----------------------------------------

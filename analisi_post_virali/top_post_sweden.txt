@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/sweden
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 126
+> Commenti totali: 20,370
+> Commenti per post (media): 161.7
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 1360 COMMENTI
+-Data post: 09/06/2025
+-Titolo: Greta Thunberg and the other activists on the Madleen have just been kidnapped by Israel.
+-Post ID: ('1l6rsqs', 'Greta Thunberg and the other activists on the Madleen have just been kidnapped by Israel.')
+-Metriche:
+  > Commenti: 1360
+  > Upvotes totali: 11,972
+  > Upvote medio: 8.8
+  > Upvote massimo: 1557
+  > Sentiment medio: 0.027
+  > Soggettività: 0.357
+  > Engagement rate: 8.80
+  > Durata discussione: 60.6 giorni
+  > Primo commento: 09/06/2025 02:57
+  > Ultimo commento: 08/08/2025 18:13
+----------------------------------------
+
+#2 - 814 COMMENTI
+-Data post: 10/03/2025
+-Titolo: Sweden sends 300 million in aid to Gaza
+-Post ID: ('1j7s5fd', 'Sweden sends 300 million in aid to Gaza')
+-Metriche:
+  > Commenti: 814
+  > Upvotes totali: 3,803
+  > Upvote medio: 4.7
+  > Upvote massimo: 434
+  > Sentiment medio: 0.040
+  > Soggettività: 0.360
+  > Engagement rate: 4.67
+  > Durata discussione: 14.9 giorni
+  > Primo commento: 10/03/2025 07:16
+  > Ultimo commento: 25/03/2025 04:12
+----------------------------------------
+
+#3 - 764 COMMENTI
+-Data post: 05/05/2025
+-Titolo: Israel approves plan to take over all of Gaza
+-Post ID: ('1kfb7i2', 'Israel approves plan to take over all of Gaza')
+-Metriche:
+  > Commenti: 764
+  > Upvotes totali: 7,548
+  > Upvote medio: 9.9
+  > Upvote massimo: 724
+  > Sentiment medio: 0.049
+  > Soggettività: 0.369
+  > Engagement rate: 9.88
+  > Durata discussione: 14.7 giorni
+  > Primo commento: 05/05/2025 15:14
+  > Ultimo commento: 20/05/2025 08:51
+----------------------------------------
+
+#4 - 743 COMMENTI
+-Data post: 08/08/2025
+-Titolo: Israel approves plan for occupation of Gaza City - one million to be expelled
+-Post ID: ('1mkup59', 'Israel approves plan for occupation of Gaza City - one million to be expelled')
+-Metriche:
+  > Commenti: 743
+  > Upvotes totali: 4,128
+  > Upvote medio: 5.6
+  > Upvote massimo: 397
+  > Sentiment medio: 0.045
+  > Soggettività: 0.388
+  > Engagement rate: 5.56
+  > Durata discussione: 6.1 giorni
+  > Primo commento: 08/08/2025 15:08
+  > Ultimo commento: 14/08/2025 17:00
+----------------------------------------
+
+#5 - 700 COMMENTI
+-Data post: 20/05/2025
+-Titolo: I know nothing about Israel and the Palestinian conflict.
+-Post ID: ('1kr4dpq', 'I know nothing about Israel and the Palestinian conflict.')
+-Metriche:
+  > Commenti: 700
+  > Upvotes totali: 3,694
+  > Upvote medio: 5.3
+  > Upvote massimo: 1070
+  > Sentiment medio: 0.031
+  > Soggettività: 0.432
+  > Engagement rate: 5.28
+  > Durata discussione: 9.1 giorni
+  > Primo commento: 20/05/2025 15:09
+  > Ultimo commento: 29/05/2025 16:40
+----------------------------------------
+
+#6 - 665 COMMENTI
+-Data post: 05/08/2025
+-Titolo: Busch: "Israel is doing the whole world a favor"
+-Post ID: ('1midq3q', 'Busch: "Israel is doing the whole world a favor"')
+-Metriche:
+  > Commenti: 665
+  > Upvotes totali: 9,336
+  > Upvote medio: 14.0
+  > Upvote massimo: 827
+  > Sentiment medio: 0.049
+  > Soggettività: 0.384
+  > Engagement rate: 14.04
+  > Durata discussione: 30.9 giorni
+  > Primo commento: 05/08/2025 18:24
+  > Ultimo commento: 05/09/2025 15:57
+----------------------------------------
+
+#7 - 647 COMMENTI
+-Data post: 18/05/2025
+-Titolo: Alice Teodorescu Måwe's (KD) criticism of SVT's words about Israel in Eurovision
+-Post ID: ('1kpehws', "Alice Teodorescu Måwe's (KD) criticism of SVT's words about Israel in Eurovision")
+-Metriche:
+  > Commenti: 647
+  > Upvotes totali: 5,856
+  > Upvote medio: 9.1
+  > Upvote massimo: 819
+  > Sentiment medio: 0.057
+  > Soggettività: 0.389
+  > Engagement rate: 9.05
+  > Durata discussione: 8.4 giorni
+  > Primo commento: 18/05/2025 09:40
+  > Ultimo commento: 26/05/2025 19:58
+----------------------------------------
+
+#8 - 629 COMMENTI
+-Data post: 08/11/2024
+-Titolo: SD and L want to be able to sell weapons to Israel: "Right to defend oneself" - News (Ekot)
+-Post ID: ('1gmbpls', 'SD and L want to be able to sell weapons to Israel: "Right to defend oneself" - News (Ekot)')
+-Metriche:
+  > Commenti: 629
+  > Upvotes totali: 3,835
+  > Upvote medio: 6.1
+  > Upvote massimo: 421
+  > Sentiment medio: 0.058
+  > Soggettività: 0.372
+  > Engagement rate: 6.10
+  > Durata discussione: 2.1 giorni
+  > Primo commento: 08/11/2024 06:55
+  > Ultimo commento: 10/11/2024 08:24
+----------------------------------------
+
+#9 - 628 COMMENTI
+-Data post: 12/07/2025
+-Titolo: 14 European countries accept injured children from Gaza - Sweden says no
+-Post ID: ('1ly7xq6', '14 European countries accept injured children from Gaza - Sweden says no')
+-Metriche:
+  > Commenti: 628
+  > Upvotes totali: 4,920
+  > Upvote medio: 7.8
+  > Upvote massimo: 1022
+  > Sentiment medio: 0.080
+  > Soggettività: 0.414
+  > Engagement rate: 7.83
+  > Durata discussione: 66.9 giorni
+  > Primo commento: 12/07/2025 20:48
+  > Ultimo commento: 17/09/2025 18:55
+----------------------------------------
+
+#10 - 580 COMMENTI
+-Data post: 05/02/2025
+-Titolo: Greta Thunberg charged after demonstration against Israel - P4 Stockholm
+-Post ID: ('1ii3tre', 'Greta Thunberg charged after demonstration against Israel - P4 Stockholm')
+-Metriche:
+  > Commenti: 580
+  > Upvotes totali: 5,331
+  > Upvote medio: 9.2
+  > Upvote massimo: 658
+  > Sentiment medio: 0.069
+  > Soggettività: 0.381
+  > Engagement rate: 9.19
+  > Durata discussione: 7.5 giorni
+  > Primo commento: 05/02/2025 07:26
+  > Ultimo commento: 12/02/2025 19:55
+----------------------------------------
+
+#11 - 529 COMMENTI
+-Data post: 05/06/2025
+-Titolo: 75% of Swedes have a negative view of Israel, according to a new study from the Pew Research Center.
+-Post ID: ('1l475au', '75% of Swedes have a negative view of Israel, according to a new study from the Pew Research Center.')
+-Metriche:
+  > Commenti: 529
+  > Upvotes totali: 5,270
+  > Upvote medio: 10.0
+  > Upvote massimo: 745
+  > Sentiment medio: 0.036
+  > Soggettività: 0.402
+  > Engagement rate: 9.96
+  > Durata discussione: 21.5 giorni
+  > Primo commento: 05/06/2025 20:46
+  > Ultimo commento: 27/06/2025 08:21
+----------------------------------------
+
+#12 - 525 COMMENTI
+-Data post: 21/11/2024
+-Titolo: ICC issues arrest warrants for Netanyahu and Hamas leader Al-Masri
+-Post ID: ('1gwemp6', 'ICC issues arrest warrants for Netanyahu and Hamas leader Al-Masri')
+-Metriche:
+  > Commenti: 525
+  > Upvotes totali: 2,664
+  > Upvote medio: 5.1
+  > Upvote massimo: 381
+  > Sentiment medio: 0.055
+  > Soggettività: 0.400
+  > Engagement rate: 5.07
+  > Durata discussione: 5.0 giorni
+  > Primo commento: 21/11/2024 13:09
+  > Ultimo commento: 26/11/2024 13:05
+----------------------------------------
+
+#13 - 510 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Israel has launched airstrikes against Iranian nuclear facilities
+-Post ID: ('1la3wb7', 'Israel has launched airstrikes against Iranian nuclear facilities')
+-Metriche:
+  > Commenti: 510
+  > Upvotes totali: 4,380
+  > Upvote medio: 8.6
+  > Upvote massimo: 534
+  > Sentiment medio: 0.026
+  > Soggettività: 0.382
+  > Engagement rate: 8.59
+  > Durata discussione: 8.1 giorni
+  > Primo commento: 13/06/2025 03:42
+  > Ultimo commento: 21/06/2025 06:11
+----------------------------------------
+
+#14 - 465 COMMENTI
+-Data post: 16/09/2025
+-Titolo: UN investigators: Israel is committing genocide in Gaza
+-Post ID: ('1niaqxk', 'UN investigators: Israel is committing genocide in Gaza')
+-Metriche:
+  > Commenti: 465
+  > Upvotes totali: 2,093
+  > Upvote medio: 4.5
+  > Upvote massimo: 289
+  > Sentiment medio: 0.036
+  > Soggettività: 0.366
+  > Engagement rate: 4.50
+  > Durata discussione: 4.3 giorni
+  > Primo commento: 16/09/2025 09:18
+  > Ultimo commento: 20/09/2025 16:03
+----------------------------------------
+
+#15 - 445 COMMENTI
+-Data post: 20/08/2025
+-Titolo: Israel has launched an invasion of Gaza City
+-Post ID: ('1mvmgcm', 'Israel has launched an invasion of Gaza City')
+-Metriche:
+  > Commenti: 445
+  > Upvotes totali: 3,627
+  > Upvote medio: 8.2
+  > Upvote massimo: 494
+  > Sentiment medio: 0.021
+  > Soggettività: 0.381
+  > Engagement rate: 8.15
+  > Durata discussione: 30.0 giorni
+  > Primo commento: 20/08/2025 20:08
+  > Ultimo commento: 19/09/2025 20:33
+----------------------------------------

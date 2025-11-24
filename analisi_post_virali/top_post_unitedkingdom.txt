@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/unitedkingdom
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 235
+> Commenti totali: 13,061
+> Commenti per post (media): 55.6
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 372 COMMENTI
+-Data post: 04/10/2025
+-Titolo: ‘Enough is enough’ says chief of Police Federation as ‘exhausted’ officers arrest 493 at Palestine A
+-Post ID: ('1ny5e7m', '‘Enough is enough’ says chief of Police Federation as ‘exhausted’ officers arrest 493 at Palestine A')
+-Metriche:
+  > Commenti: 372
+  > Upvotes totali: 7,462
+  > Upvote medio: 20.1
+  > Upvote massimo: 1391
+  > Sentiment medio: -0.010
+  > Soggettività: 0.333
+  > Engagement rate: 20.06
+  > Durata discussione: 2.0 giorni
+  > Primo commento: 04/10/2025 23:01
+  > Ultimo commento: 06/10/2025 22:53
+----------------------------------------
+
+#2 - 348 COMMENTI
+-Data post: 03/09/2025
+-Titolo: Lush temporarily closes all UK stores in 'solidarity with Gaza'
+-Post ID: ('1n7eavh', "Lush temporarily closes all UK stores in 'solidarity with Gaza'")
+-Metriche:
+  > Commenti: 348
+  > Upvotes totali: 9,495
+  > Upvote medio: 27.3
+  > Upvote massimo: 1654
+  > Sentiment medio: 0.053
+  > Soggettività: 0.339
+  > Engagement rate: 27.28
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 03/09/2025 15:07
+  > Ultimo commento: 07/09/2025 15:59
+----------------------------------------
+
+#3 - 335 COMMENTI
+-Data post: 02/10/2025
+-Titolo: Pro-Palestine protestors blasted as 'disgusting' as they march in Manchester - just miles from synag
+-Post ID: ('1nwbzp2', "Pro-Palestine protestors blasted as 'disgusting' as they march in Manchester - just miles from synag")
+-Metriche:
+  > Commenti: 335
+  > Upvotes totali: 9,390
+  > Upvote medio: 28.0
+  > Upvote massimo: 1989
+  > Sentiment medio: -0.007
+  > Soggettività: 0.267
+  > Engagement rate: 28.03
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 02/10/2025 20:36
+  > Ultimo commento: 06/10/2025 20:58
+----------------------------------------
+
+#4 - 332 COMMENTI
+-Data post: 09/08/2025
+-Titolo: Police make arrests at protest in support of proscribed Palestine Action
+-Post ID: ('1mlo4qk', 'Police make arrests at protest in support of proscribed Palestine Action')
+-Metriche:
+  > Commenti: 332
+  > Upvotes totali: 3,669
+  > Upvote medio: 11.1
+  > Upvote massimo: 419
+  > Sentiment medio: 0.004
+  > Soggettività: 0.353
+  > Engagement rate: 11.05
+  > Durata discussione: 7.1 giorni
+  > Primo commento: 09/08/2025 14:23
+  > Ultimo commento: 16/08/2025 15:49
+----------------------------------------
+
+#5 - 329 COMMENTI
+-Data post: 20/06/2025
+-Titolo: Palestine Action to be banned after RAF base break in
+-Post ID: ('1lg9972', 'Palestine Action to be banned after RAF base break in')
+-Metriche:
+  > Commenti: 329
+  > Upvotes totali: 11,396
+  > Upvote medio: 34.6
+  > Upvote massimo: 1127
+  > Sentiment medio: 0.015
+  > Soggettività: 0.321
+  > Engagement rate: 34.64
+  > Durata discussione: 4.7 giorni
+  > Primo commento: 20/06/2025 19:05
+  > Ultimo commento: 25/06/2025 11:51
+----------------------------------------
+
+#6 - 310 COMMENTI
+-Data post: 22/10/2025
+-Titolo: NHS doctor who ‘celebrated Hamas Oct 7 attack’ is arrested
+-Post ID: ('1od0bnx', 'NHS doctor who ‘celebrated Hamas Oct 7 attack’ is arrested')
+-Metriche:
+  > Commenti: 310
+  > Upvotes totali: 5,439
+  > Upvote medio: 17.5
+  > Upvote massimo: 693
+  > Sentiment medio: 0.019
+  > Soggettività: 0.360
+  > Engagement rate: 17.55
+  > Durata discussione: 3.0 giorni
+  > Primo commento: 22/10/2025 08:00
+  > Ultimo commento: 25/10/2025 08:40
+----------------------------------------
+
+#7 - 281 COMMENTI
+-Data post: 11/08/2025
+-Titolo: Yvette Cooper defends arrest of more than 500 people at Palestine Action protests | Politics News
+-Post ID: ('1mnc7qn', 'Yvette Cooper defends arrest of more than 500 people at Palestine Action protests | Politics News')
+-Metriche:
+  > Commenti: 281
+  > Upvotes totali: 3,762
+  > Upvote medio: 13.4
+  > Upvote massimo: 397
+  > Sentiment medio: 0.038
+  > Soggettività: 0.349
+  > Engagement rate: 13.39
+  > Durata discussione: 3.1 giorni
+  > Primo commento: 11/08/2025 14:56
+  > Ultimo commento: 14/08/2025 16:49
+----------------------------------------
+
+#8 - 274 COMMENTI
+-Data post: 09/09/2025
+-Titolo: Israel is not committing genocide in Gaza, government concludes
+-Post ID: ('1nc2909', 'Israel is not committing genocide in Gaza, government concludes')
+-Metriche:
+  > Commenti: 274
+  > Upvotes totali: 4,838
+  > Upvote medio: 17.7
+  > Upvote massimo: 1130
+  > Sentiment medio: 0.041
+  > Soggettività: 0.389
+  > Engagement rate: 17.66
+  > Durata discussione: 2.6 giorni
+  > Primo commento: 09/09/2025 00:42
+  > Ultimo commento: 11/09/2025 14:33
+----------------------------------------
+
+#9 - 240 COMMENTI
+-Data post: 19/08/2025
+-Titolo: 'Palestine Action protest could ruin my career but I felt I had to do it'
+-Post ID: ('1muqu75', "'Palestine Action protest could ruin my career but I felt I had to do it'")
+-Metriche:
+  > Commenti: 240
+  > Upvotes totali: 3,242
+  > Upvote medio: 13.5
+  > Upvote massimo: 338
+  > Sentiment medio: 0.030
+  > Soggettività: 0.349
+  > Engagement rate: 13.51
+  > Durata discussione: 18.9 giorni
+  > Primo commento: 19/08/2025 20:33
+  > Ultimo commento: 07/09/2025 18:19
+----------------------------------------
+
+#10 - 232 COMMENTI
+-Data post: 04/10/2025
+-Titolo: Starmer urges those attending pro-Palestine protests this weekend to 'respect the grief of British J
+-Post ID: ('1nxcyif', "Starmer urges those attending pro-Palestine protests this weekend to 'respect the grief of British J")
+-Metriche:
+  > Commenti: 232
+  > Upvotes totali: 4,047
+  > Upvote medio: 17.4
+  > Upvote massimo: 1097
+  > Sentiment medio: 0.010
+  > Soggettività: 0.323
+  > Engagement rate: 17.44
+  > Durata discussione: 10.7 giorni
+  > Primo commento: 04/10/2025 00:19
+  > Ultimo commento: 14/10/2025 18:11
+----------------------------------------
+
+#11 - 228 COMMENTI
+-Data post: 06/09/2025
+-Titolo: Clashes break out at Palestine Action protest - as police make around 150 arrests
+-Post ID: ('1na4mzr', 'Clashes break out at Palestine Action protest - as police make around 150 arrests')
+-Metriche:
+  > Commenti: 228
+  > Upvotes totali: 1,812
+  > Upvote medio: 7.9
+  > Upvote massimo: 175
+  > Sentiment medio: 0.035
+  > Soggettività: 0.380
+  > Engagement rate: 7.95
+  > Durata discussione: 3.1 giorni
+  > Primo commento: 06/09/2025 18:58
+  > Ultimo commento: 09/09/2025 22:33
+----------------------------------------
+
+#12 - 225 COMMENTI
+-Data post: 27/08/2025
+-Titolo: Four pro-Palestine activists arrested after ‘car smashes through gates of defence manufacturer’
+-Post ID: ('1n1b24h', 'Four pro-Palestine activists arrested after ‘car smashes through gates of defence manufacturer’')
+-Metriche:
+  > Commenti: 225
+  > Upvotes totali: 3,258
+  > Upvote medio: 14.5
+  > Upvote massimo: 427
+  > Sentiment medio: 0.026
+  > Soggettività: 0.356
+  > Engagement rate: 14.48
+  > Durata discussione: 1.4 giorni
+  > Primo commento: 27/08/2025 10:04
+  > Ultimo commento: 28/08/2025 19:55
+----------------------------------------
+
+#13 - 224 COMMENTI
+-Data post: 20/02/2025
+-Titolo: BBC asked to remove Gaza documentary over narrator’s father’s ties to Hamas
+-Post ID: ('1itsuk5', 'BBC asked to remove Gaza documentary over narrator’s father’s ties to Hamas')
+-Metriche:
+  > Commenti: 224
+  > Upvotes totali: 3,478
+  > Upvote medio: 15.5
+  > Upvote massimo: 522
+  > Sentiment medio: 0.014
+  > Soggettività: 0.402
+  > Engagement rate: 15.53
+  > Durata discussione: 2.3 giorni
+  > Primo commento: 20/02/2025 08:20
+  > Ultimo commento: 22/02/2025 15:09
+----------------------------------------
+
+#14 - 221 COMMENTI
+-Data post: 10/01/2025
+-Titolo: Met bans pro-Palestine march from gathering outside BBC headquarters
+-Post ID: ('1hy3yfv', 'Met bans pro-Palestine march from gathering outside BBC headquarters')
+-Metriche:
+  > Commenti: 221
+  > Upvotes totali: 3,296
+  > Upvote medio: 14.9
+  > Upvote massimo: 416
+  > Sentiment medio: 0.066
+  > Soggettività: 0.362
+  > Engagement rate: 14.91
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 10/01/2025 14:05
+  > Ultimo commento: 14/01/2025 14:25
+----------------------------------------
+
+#15 - 203 COMMENTI
+-Data post: 21/09/2025
+-Titolo: Starmer to announce formal recognition of Palestine as a state
+-Post ID: ('1nmdodg', 'Starmer to announce formal recognition of Palestine as a state')
+-Metriche:
+  > Commenti: 203
+  > Upvotes totali: 2,711
+  > Upvote medio: 13.4
+  > Upvote massimo: 532
+  > Sentiment medio: 0.072
+  > Soggettività: 0.398
+  > Engagement rate: 13.35
+  > Durata discussione: 1.8 giorni
+  > Primo commento: 21/09/2025 02:10
+  > Ultimo commento: 22/09/2025 21:00
+----------------------------------------

@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/portugal
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 56
+> Commenti totali: 5,118
+> Commenti per post (media): 91.4
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 547 COMMENTI
+-Data post: 09/09/2025
+-Titolo: Humanitarian flotilla boat, with Portuguese flag, bound for Gaza attacked by drone in Tunis
+-Post ID: ('1ncd0wf', 'Humanitarian flotilla boat, with Portuguese flag, bound for Gaza attacked by drone in Tunis')
+-Metriche:
+  > Commenti: 547
+  > Upvotes totali: 3,093
+  > Upvote medio: 5.7
+  > Upvote massimo: 258
+  > Sentiment medio: 0.083
+  > Soggettività: 0.348
+  > Engagement rate: 5.65
+  > Durata discussione: 29.0 giorni
+  > Primo commento: 09/09/2025 10:13
+  > Ultimo commento: 08/10/2025 10:59
+----------------------------------------
+
+#2 - 362 COMMENTI
+-Data post: 26/08/2025
+-Titolo: Mariana Mortágua, Miguel Duarte and Sofia Aparício are part of the humanitarian mission to Gaza
+-Post ID: ('1n0incj', 'Mariana Mortágua, Miguel Duarte and Sofia Aparício are part of the humanitarian mission to Gaza')
+-Metriche:
+  > Commenti: 362
+  > Upvotes totali: 1,431
+  > Upvote medio: 4.0
+  > Upvote massimo: 146
+  > Sentiment medio: 0.084
+  > Soggettività: 0.360
+  > Engagement rate: 3.95
+  > Durata discussione: 3.8 giorni
+  > Primo commento: 26/08/2025 13:01
+  > Ultimo commento: 30/08/2025 09:15
+----------------------------------------
+
+#3 - 293 COMMENTI
+-Data post: 18/01/2025
+-Titolo: "There is no hunger in Gaza. There are even fat people there": Israeli ambassador to Portugal
+-Post ID: ('1i43y73', '"There is no hunger in Gaza. There are even fat people there": Israeli ambassador to Portugal')
+-Metriche:
+  > Commenti: 293
+  > Upvotes totali: 3,925
+  > Upvote medio: 13.4
+  > Upvote massimo: 470
+  > Sentiment medio: 0.055
+  > Soggettività: 0.326
+  > Engagement rate: 13.40
+  > Durata discussione: 147.3 giorni
+  > Primo commento: 18/01/2025 10:34
+  > Ultimo commento: 14/06/2025 17:12
+----------------------------------------
+
+#4 - 289 COMMENTI
+-Data post: 23/08/2025
+-Titolo: “There is no hunger, there has never been hunger and no one died of hunger in Gaza”: Israeli ambassador to Portugal r
+-Post ID: ('1mxw14c', '“There is no hunger, there has never been hunger and no one died of hunger in Gaza”: Israeli ambassador to Portugal r')
+-Metriche:
+  > Commenti: 289
+  > Upvotes totali: 2,479
+  > Upvote medio: 8.6
+  > Upvote massimo: 455
+  > Sentiment medio: 0.011
+  > Soggettività: 0.231
+  > Engagement rate: 8.58
+  > Durata discussione: 2.5 giorni
+  > Primo commento: 23/08/2025 10:35
+  > Ultimo commento: 25/08/2025 23:32
+----------------------------------------
+
+#5 - 271 COMMENTI
+-Data post: 04/10/2025
+-Titolo: Protesters in Gaza take over Rossio station, riot police at the scene and one person electrocuted
+-Post ID: ('1ny10lb', 'Protesters in Gaza take over Rossio station, riot police at the scene and one person electrocuted')
+-Metriche:
+  > Commenti: 271
+  > Upvotes totali: 2,243
+  > Upvote medio: 8.3
+  > Upvote massimo: 290
+  > Sentiment medio: 0.025
+  > Soggettività: 0.353
+  > Engagement rate: 8.28
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 04/10/2025 20:07
+  > Ultimo commento: 05/10/2025 23:25
+----------------------------------------
+
+#6 - 262 COMMENTI
+-Data post: 15/07/2025
+-Titolo: "Portugal must act." Belgian organization calls for the arrest of Israeli sniper located in Lisbon
+-Post ID: ('1m00upt', '"Portugal must act." Belgian organization calls for the arrest of Israeli sniper located in Lisbon')
+-Metriche:
+  > Commenti: 262
+  > Upvotes totali: 1,078
+  > Upvote medio: 4.1
+  > Upvote massimo: 86
+  > Sentiment medio: 0.071
+  > Soggettività: 0.356
+  > Engagement rate: 4.11
+  > Durata discussione: 2.6 giorni
+  > Primo commento: 15/07/2025 00:47
+  > Ultimo commento: 17/07/2025 15:22
+----------------------------------------
+
+#7 - 245 COMMENTI
+-Data post: 10/09/2025
+-Titolo: Flotilla traveling to Gaza reports new drone attack, Mortágua reports what it saw
+-Post ID: ('1nd7ox5', 'Flotilla traveling to Gaza reports new drone attack, Mortágua reports what it saw')
+-Metriche:
+  > Commenti: 245
+  > Upvotes totali: 1,380
+  > Upvote medio: 5.6
+  > Upvote massimo: 253
+  > Sentiment medio: 0.058
+  > Soggettività: 0.388
+  > Engagement rate: 5.63
+  > Durata discussione: 28.0 giorni
+  > Primo commento: 10/09/2025 09:30
+  > Ultimo commento: 08/10/2025 08:45
+----------------------------------------
+
+#8 - 232 COMMENTI
+-Data post: 07/09/2025
+-Titolo: "I do not accept that Portugal is giving nationality to Israeli citizens at a time when Israel is
+-Post ID: ('1nb34ar', '"I do not accept that Portugal is giving nationality to Israeli citizens at a time when Israel is')
+-Metriche:
+  > Commenti: 232
+  > Upvotes totali: 1,331
+  > Upvote medio: 5.7
+  > Upvote massimo: 278
+  > Sentiment medio: 0.040
+  > Soggettività: 0.353
+  > Engagement rate: 5.74
+  > Durata discussione: 31.8 giorni
+  > Primo commento: 07/09/2025 22:02
+  > Ultimo commento: 09/10/2025 18:13
+----------------------------------------
+
+#9 - 220 COMMENTI
+-Data post: 02/10/2025
+-Titolo: Miguel Morgado: “This flotilla is objectively an ally of Hamas”
+-Post ID: ('1nvywn1', 'Miguel Morgado: “This flotilla is objectively an ally of Hamas”')
+-Metriche:
+  > Commenti: 220
+  > Upvotes totali: 2,131
+  > Upvote medio: 9.7
+  > Upvote massimo: 435
+  > Sentiment medio: -0.006
+  > Soggettività: 0.366
+  > Engagement rate: 9.69
+  > Durata discussione: 0.2 giorni
+  > Primo commento: 02/10/2025 11:15
+  > Ultimo commento: 02/10/2025 17:04
+----------------------------------------
+
+#10 - 164 COMMENTI
+-Data post: 10/09/2025
+-Titolo: Humanitarian flotilla for Gaza stopped in Ibiza for “night of celebration”? It's fake
+-Post ID: ('1ndk6gt', "Humanitarian flotilla for Gaza stopped in Ibiza for “night of celebration”? It's fake")
+-Metriche:
+  > Commenti: 164
+  > Upvotes totali: 1,041
+  > Upvote medio: 6.3
+  > Upvote massimo: 289
+  > Sentiment medio: 0.017
+  > Soggettività: 0.336
+  > Engagement rate: 6.35
+  > Durata discussione: 3.1 giorni
+  > Primo commento: 10/09/2025 19:11
+  > Ultimo commento: 13/09/2025 20:35
+----------------------------------------
+
+#11 - 163 COMMENTI
+-Data post: 27/08/2025
+-Titolo: Mortágua highlights the "usefulness" of the deputy status in the mission to Gaza: "The Government must guarantee that
+-Post ID: ('1n1gk4v', 'Mortágua highlights the "usefulness" of the deputy status in the mission to Gaza: "The Government must guarantee that')
+-Metriche:
+  > Commenti: 163
+  > Upvotes totali: 630
+  > Upvote medio: 3.9
+  > Upvote massimo: 89
+  > Sentiment medio: 0.068
+  > Soggettività: 0.280
+  > Engagement rate: 3.87
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 27/08/2025 15:12
+  > Ultimo commento: 28/08/2025 17:50
+----------------------------------------
+
+#12 - 155 COMMENTI
+-Data post: 16/09/2025
+-Titolo: Boycotts Israel, thinks the Portuguese state and institutions should follow Spain's example
+-Post ID: ('1nii9j1', "Boycotts Israel, thinks the Portuguese state and institutions should follow Spain's example")
+-Metriche:
+  > Commenti: 155
+  > Upvotes totali: 1,608
+  > Upvote medio: 10.4
+  > Upvote massimo: 243
+  > Sentiment medio: 0.022
+  > Soggettività: 0.389
+  > Engagement rate: 10.37
+  > Durata discussione: 0.2 giorni
+  > Primo commento: 16/09/2025 16:00
+  > Ultimo commento: 16/09/2025 19:43
+----------------------------------------
+
+#13 - 142 COMMENTI
+-Data post: 10/02/2025
+-Titolo: Israel: BE wants to punish the import or sale of goods from illegal settlements with imprisonment
+-Post ID: ('1im754x', 'Israel: BE wants to punish the import or sale of goods from illegal settlements with imprisonment')
+-Metriche:
+  > Commenti: 142
+  > Upvotes totali: 563
+  > Upvote medio: 4.0
+  > Upvote massimo: 96
+  > Sentiment medio: 0.027
+  > Soggettività: 0.340
+  > Engagement rate: 3.96
+  > Durata discussione: 2.3 giorni
+  > Primo commento: 10/02/2025 15:30
+  > Ultimo commento: 12/02/2025 23:51
+----------------------------------------
+
+#14 - 142 COMMENTI
+-Data post: 02/10/2025
+-Titolo: Defense Minister sees flotilla activists as Hamas supporters
+-Post ID: ('1nw2p53', 'Defense Minister sees flotilla activists as Hamas supporters')
+-Metriche:
+  > Commenti: 142
+  > Upvotes totali: 2,488
+  > Upvote medio: 17.5
+  > Upvote massimo: 427
+  > Sentiment medio: 0.016
+  > Soggettività: 0.405
+  > Engagement rate: 17.52
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 02/10/2025 14:45
+  > Ultimo commento: 02/10/2025 17:05
+----------------------------------------
+
+#15 - 125 COMMENTI
+-Data post: 14/06/2025
+-Titolo: Global march to Gaza: there are Portuguese among the hundreds of activists trapped in Egypt
+-Post ID: ('1lb7iwn', 'Global march to Gaza: there are Portuguese among the hundreds of activists trapped in Egypt')
+-Metriche:
+  > Commenti: 125
+  > Upvotes totali: 1,230
+  > Upvote medio: 9.8
+  > Upvote massimo: 192
+  > Sentiment medio: 0.021
+  > Soggettività: 0.343
+  > Engagement rate: 9.84
+  > Durata discussione: 3.8 giorni
+  > Primo commento: 14/06/2025 14:38
+  > Ultimo commento: 18/06/2025 10:13
+----------------------------------------

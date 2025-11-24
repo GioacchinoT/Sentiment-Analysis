@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/greece
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 212
+> Commenti totali: 4,567
+> Commenti per post (media): 21.5
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 256 COMMENTI
+-Data post: 09/06/2025
+-Titolo: Gaza: The Israeli army seized the sailing ship Madleen - For the kidnapping of the passengers, he speaks
+-Post ID: ('1l6x6ju', 'Gaza: The Israeli army seized the sailing ship Madleen - For the kidnapping of the passengers, he speaks')
+-Metriche:
+  > Commenti: 256
+  > Upvotes totali: 1,994
+  > Upvote medio: 7.8
+  > Upvote massimo: 247
+  > Sentiment medio: 0.007
+  > Soggettività: 0.286
+  > Engagement rate: 7.79
+  > Durata discussione: 3.5 giorni
+  > Primo commento: 09/06/2025 08:04
+  > Ultimo commento: 12/06/2025 20:04
+----------------------------------------
+
+#2 - 210 COMMENTI
+-Data post: 02/10/2025
+-Titolo: Gaza: Israeli forces attack Greek boats - "If you see these videos, we have been
+-Post ID: ('1nvy126', 'Gaza: Israeli forces attack Greek boats - "If you see these videos, we have been')
+-Metriche:
+  > Commenti: 210
+  > Upvotes totali: 936
+  > Upvote medio: 4.5
+  > Upvote massimo: 103
+  > Sentiment medio: 0.036
+  > Soggettività: 0.265
+  > Engagement rate: 4.46
+  > Durata discussione: 3.2 giorni
+  > Primo commento: 02/10/2025 10:21
+  > Ultimo commento: 05/10/2025 15:49
+----------------------------------------
+
+#3 - 163 COMMENTI
+-Data post: 29/07/2025
+-Titolo: Israel is committing genocide in Gaza, according to two... Israeli NGOs
+-Post ID: ('1mc4i2x', 'Israel is committing genocide in Gaza, according to two... Israeli NGOs')
+-Metriche:
+  > Commenti: 163
+  > Upvotes totali: 711
+  > Upvote medio: 4.4
+  > Upvote massimo: 85
+  > Sentiment medio: 0.016
+  > Soggettività: 0.122
+  > Engagement rate: 4.36
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 29/07/2025 08:57
+  > Ultimo commento: 29/07/2025 23:03
+----------------------------------------
+
+#4 - 157 COMMENTI
+-Data post: 18/05/2025
+-Titolo: Eurovision 2025: EBU threatens Spanish TV with sanctions over Gaza reports
+-Post ID: ('1kphmod', 'Eurovision 2025: EBU threatens Spanish TV with sanctions over Gaza reports')
+-Metriche:
+  > Commenti: 157
+  > Upvotes totali: 866
+  > Upvote medio: 5.5
+  > Upvote massimo: 261
+  > Sentiment medio: 0.006
+  > Soggettività: 0.321
+  > Engagement rate: 5.52
+  > Durata discussione: 6.2 giorni
+  > Primo commento: 18/05/2025 13:20
+  > Ultimo commento: 24/05/2025 17:30
+----------------------------------------
+
+#5 - 123 COMMENTI
+-Data post: 30/10/2024
+-Titolo: "Terror and horror" in Gaza: Bloodbath with almost 100 dead from Israeli bombardment
+-Post ID: ('1gfgwy2', '"Terror and horror" in Gaza: Bloodbath with almost 100 dead from Israeli bombardment')
+-Metriche:
+  > Commenti: 123
+  > Upvotes totali: 295
+  > Upvote medio: 2.4
+  > Upvote massimo: 58
+  > Sentiment medio: 0.053
+  > Soggettività: 0.305
+  > Engagement rate: 2.40
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 30/10/2024 08:36
+  > Ultimo commento: 31/10/2024 15:25
+----------------------------------------
+
+#6 - 121 COMMENTI
+-Data post: 10/11/2024
+-Titolo: Gaza: Video of Hamas torture of Palestinian civilians revealed by IDF
+-Post ID: ('1go1u7w', 'Gaza: Video of Hamas torture of Palestinian civilians revealed by IDF')
+-Metriche:
+  > Commenti: 121
+  > Upvotes totali: 632
+  > Upvote medio: 5.2
+  > Upvote massimo: 76
+  > Sentiment medio: 0.064
+  > Soggettività: 0.357
+  > Engagement rate: 5.22
+  > Durata discussione: 2.1 giorni
+  > Primo commento: 10/11/2024 15:48
+  > Ultimo commento: 12/11/2024 17:13
+----------------------------------------
+
+#7 - 115 COMMENTI
+-Data post: 14/06/2025
+-Titolo: Egyptian security forces crack down on 'March to Gaza' activists - The Press Project
+-Post ID: ('1lb2900', "Egyptian security forces crack down on 'March to Gaza' activists - The Press Project")
+-Metriche:
+  > Commenti: 115
+  > Upvotes totali: 304
+  > Upvote medio: 2.6
+  > Upvote massimo: 53
+  > Sentiment medio: 0.029
+  > Soggettività: 0.269
+  > Engagement rate: 2.64
+  > Durata discussione: 1.6 giorni
+  > Primo commento: 14/06/2025 08:47
+  > Ultimo commento: 15/06/2025 22:46
+----------------------------------------
+
+#8 - 104 COMMENTI
+-Data post: 23/05/2025
+-Titolo: Provocative Georgiadis: Israel shows respect for human freedom, not Gaza
+-Post ID: ('1ktgcfa', 'Provocative Georgiadis: Israel shows respect for human freedom, not Gaza')
+-Metriche:
+  > Commenti: 104
+  > Upvotes totali: 958
+  > Upvote medio: 9.2
+  > Upvote massimo: 174
+  > Sentiment medio: 0.033
+  > Soggettività: 0.284
+  > Engagement rate: 9.21
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 23/05/2025 12:46
+  > Ultimo commento: 25/05/2025 00:00
+----------------------------------------
+
+#9 - 98 COMMENTI
+-Data post: 21/05/2025
+-Titolo: Gaza: 24 countries and Europe against Israel - Greece "blows the whistle" indifferently
+-Post ID: ('1krub3r', 'Gaza: 24 countries and Europe against Israel - Greece "blows the whistle" indifferently')
+-Metriche:
+  > Commenti: 98
+  > Upvotes totali: 659
+  > Upvote medio: 6.7
+  > Upvote massimo: 105
+  > Sentiment medio: 0.002
+  > Soggettività: 0.388
+  > Engagement rate: 6.72
+  > Durata discussione: 1.0 giorni
+  > Primo commento: 21/05/2025 13:09
+  > Ultimo commento: 22/05/2025 12:00
+----------------------------------------
+
+#10 - 98 COMMENTI
+-Data post: 22/05/2025
+-Titolo: Gaza: Silence exercises by the Greek government
+-Post ID: ('1ksikiy', 'Gaza: Silence exercises by the Greek government')
+-Metriche:
+  > Commenti: 98
+  > Upvotes totali: 178
+  > Upvote medio: 1.8
+  > Upvote massimo: 100
+  > Sentiment medio: 0.037
+  > Soggettività: 0.375
+  > Engagement rate: 1.82
+  > Durata discussione: 3.7 giorni
+  > Primo commento: 22/05/2025 07:43
+  > Ultimo commento: 25/05/2025 23:46
+----------------------------------------
+
+#11 - 92 COMMENTI
+-Data post: 07/08/2025
+-Titolo: OHE: Only 1.5% of agricultural land in Gaza is now arable
+-Post ID: ('1mjv6te', 'OHE: Only 1.5% of agricultural land in Gaza is now arable')
+-Metriche:
+  > Commenti: 92
+  > Upvotes totali: 296
+  > Upvote medio: 3.2
+  > Upvote massimo: 90
+  > Sentiment medio: 0.035
+  > Soggettività: 0.283
+  > Engagement rate: 3.22
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 07/08/2025 11:15
+  > Ultimo commento: 08/08/2025 23:08
+----------------------------------------
+
+#12 - 91 COMMENTI
+-Data post: 10/11/2024
+-Titolo: Hamas Homer Shocks UN: Describes Torture He Lived Over 55 Days in Gaza
+-Post ID: ('1gnmcoy', 'Hamas Homer Shocks UN: Describes Torture He Lived Over 55 Days in Gaza')
+-Metriche:
+  > Commenti: 91
+  > Upvotes totali: 42
+  > Upvote medio: 0.5
+  > Upvote massimo: 13
+  > Sentiment medio: 0.019
+  > Soggettività: 0.416
+  > Engagement rate: 0.46
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 10/11/2024 04:33
+  > Ultimo commento: 11/11/2024 16:25
+----------------------------------------
+
+#13 - 89 COMMENTI
+-Data post: 20/08/2025
+-Titolo: Almost 19,000 dead children in Gaza
+-Post ID: ('1mviizg', 'Almost 19,000 dead children in Gaza')
+-Metriche:
+  > Commenti: 89
+  > Upvotes totali: 320
+  > Upvote medio: 3.6
+  > Upvote massimo: 67
+  > Sentiment medio: 0.033
+  > Soggettività: 0.448
+  > Engagement rate: 3.60
+  > Durata discussione: 6.0 giorni
+  > Primo commento: 20/08/2025 19:12
+  > Ultimo commento: 26/08/2025 18:24
+----------------------------------------
+
+#14 - 86 COMMENTI
+-Data post: 13/01/2025
+-Titolo: Israeli soldiers tap dance on the Israel-Gaza border to the sounds of bouzouki
+-Post ID: ('1i0mz9d', 'Israeli soldiers tap dance on the Israel-Gaza border to the sounds of bouzouki')
+-Metriche:
+  > Commenti: 86
+  > Upvotes totali: 356
+  > Upvote medio: 4.1
+  > Upvote massimo: 68
+  > Sentiment medio: 0.060
+  > Soggettività: 0.301
+  > Engagement rate: 4.14
+  > Durata discussione: 4.7 giorni
+  > Primo commento: 13/01/2025 20:59
+  > Ultimo commento: 18/01/2025 13:32
+----------------------------------------
+
+#15 - 83 COMMENTI
+-Data post: 13/09/2025
+-Titolo: Voting results of Greek MEPs on Gaza
+-Post ID: ('1nfu5s2', 'Voting results of Greek MEPs on Gaza')
+-Metriche:
+  > Commenti: 83
+  > Upvotes totali: 1,016
+  > Upvote medio: 12.2
+  > Upvote massimo: 137
+  > Sentiment medio: 0.034
+  > Soggettività: 0.334
+  > Engagement rate: 12.24
+  > Durata discussione: 4.3 giorni
+  > Primo commento: 13/09/2025 13:08
+  > Ultimo commento: 17/09/2025 19:10
+----------------------------------------

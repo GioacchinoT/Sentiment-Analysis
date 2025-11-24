@@ -1,0 +1,214 @@
+ REPORT POST PIÙ COMMENTATI - r/austria
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 12
+> Commenti totali: 274
+> Commenti per post (media): 22.8
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 89 COMMENTI
+-Data post: 22/05/2025
+-Titolo: ESC winner JJ would like to compete in Vienna without Israel
+-Post ID: ('1kskwiu', 'ESC winner JJ would like to compete in Vienna without Israel')
+-Metriche:
+  > Commenti: 89
+  > Upvotes totali: 4,355
+  > Upvote medio: 48.9
+  > Upvote massimo: 643
+  > Sentiment medio: 0.089
+  > Soggettività: 0.315
+  > Engagement rate: 48.93
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 22/05/2025 09:38
+  > Ultimo commento: 22/05/2025 12:24
+----------------------------------------
+
+#2 - 87 COMMENTI
+-Data post: 31/07/2025
+-Titolo: 19-year-old IS and Hamas supporter sentenced in Vienna
+-Post ID: ('1mdyge3', '19-year-old IS and Hamas supporter sentenced in Vienna')
+-Metriche:
+  > Commenti: 87
+  > Upvotes totali: 958
+  > Upvote medio: 11.0
+  > Upvote massimo: 184
+  > Sentiment medio: 0.022
+  > Soggettività: 0.287
+  > Engagement rate: 11.01
+  > Durata discussione: 1.8 giorni
+  > Primo commento: 31/07/2025 13:36
+  > Ultimo commento: 02/08/2025 09:05
+----------------------------------------
+
+#3 - 46 COMMENTI
+-Data post: 07/05/2025
+-Titolo: Heinz Fischer calls on the government to criticize Israel's actions in Gaza
+-Post ID: ('1kgszsf', "Heinz Fischer calls on the government to criticize Israel's actions in Gaza")
+-Metriche:
+  > Commenti: 46
+  > Upvotes totali: 1,079
+  > Upvote medio: 23.5
+  > Upvote massimo: 281
+  > Sentiment medio: 0.126
+  > Soggettività: 0.234
+  > Engagement rate: 23.46
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 07/05/2025 11:22
+  > Ultimo commento: 07/05/2025 12:42
+----------------------------------------
+
+#4 - 18 COMMENTI
+-Data post: 12/04/2025
+-Titolo: “ORF contributes to anti-Jewish sentiment”: Israeli religious community goes against “Weltjournal”
+-Post ID: ('1jxbnii', '“ORF contributes to anti-Jewish sentiment”: Israeli religious community goes against “Weltjournal”')
+-Metriche:
+  > Commenti: 18
+  > Upvotes totali: 404
+  > Upvote medio: 22.4
+  > Upvote massimo: 326
+  > Sentiment medio: 0.088
+  > Soggettività: 0.399
+  > Engagement rate: 22.44
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 12/04/2025 09:22
+  > Ultimo commento: 12/04/2025 10:46
+----------------------------------------
+
+#5 - 8 COMMENTI
+-Data post: 23/06/2025
+-Titolo: Goodbye to the rule of law?
+-Post ID: ('1liaums', 'Goodbye to the rule of law?')
+-Metriche:
+  > Commenti: 8
+  > Upvotes totali: 29
+  > Upvote medio: 3.6
+  > Upvote massimo: 12
+  > Sentiment medio: -0.080
+  > Soggettività: 0.481
+  > Engagement rate: 3.62
+  > Durata discussione: 0.2 giorni
+  > Primo commento: 23/06/2025 10:06
+  > Ultimo commento: 23/06/2025 15:39
+----------------------------------------
+
+#6 - 7 COMMENTI
+-Data post: 25/03/2025
+-Titolo: Culture of discussion in the sub
+-Post ID: ('1jjsb9p', 'Culture of discussion in the sub')
+-Metriche:
+  > Commenti: 7
+  > Upvotes totali: 63
+  > Upvote medio: 9.0
+  > Upvote massimo: 46
+  > Sentiment medio: 0.027
+  > Soggettività: 0.371
+  > Engagement rate: 9.00
+  > Durata discussione: 0.7 giorni
+  > Primo commento: 25/03/2025 21:05
+  > Ultimo commento: 26/03/2025 13:44
+----------------------------------------
+
+#7 - 5 COMMENTI
+-Data post: 22/02/2025
+-Titolo: Hamas hostage: Austro-Israeli Tal Shoham released
+-Post ID: ('1ivfu1y', 'Hamas hostage: Austro-Israeli Tal Shoham released')
+-Metriche:
+  > Commenti: 5
+  > Upvotes totali: 45
+  > Upvote medio: 9.0
+  > Upvote massimo: 26
+  > Sentiment medio: 0.105
+  > Soggettività: 0.410
+  > Engagement rate: 9.00
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 22/02/2025 11:57
+  > Ultimo commento: 23/02/2025 18:19
+----------------------------------------
+
+#8 - 5 COMMENTI
+-Data post: 24/02/2025
+-Titolo: Father of Hamas hostage thanks Austria
+-Post ID: ('1ix8wqg', 'Father of Hamas hostage thanks Austria')
+-Metriche:
+  > Commenti: 5
+  > Upvotes totali: 175
+  > Upvote medio: 35.0
+  > Upvote massimo: 99
+  > Sentiment medio: 0.060
+  > Soggettività: 0.570
+  > Engagement rate: 35.00
+  > Durata discussione: 2.4 giorni
+  > Primo commento: 24/02/2025 20:14
+  > Ultimo commento: 27/02/2025 05:53
+----------------------------------------
+
+#9 - 4 COMMENTI
+-Data post: 28/08/2025
+-Titolo: Rejection of diplomatic demands: Meinl-Reisinger continues to oppose Israel sanctions
+-Post ID: ('1n27uxs', 'Rejection of diplomatic demands: Meinl-Reisinger continues to oppose Israel sanctions')
+-Metriche:
+  > Commenti: 4
+  > Upvotes totali: 72
+  > Upvote medio: 18.0
+  > Upvote massimo: 41
+  > Sentiment medio: -0.063
+  > Soggettività: 0.362
+  > Engagement rate: 18.00
+  > Durata discussione: 0.0 giorni
+  > Primo commento: 28/08/2025 11:50
+  > Ultimo commento: 28/08/2025 12:02
+----------------------------------------
+
+#10 - 3 COMMENTI
+-Data post: 14/02/2025
+-Titolo: Why is the Babler so hated?
+-Post ID: ('1ipiqxg', 'Why is the Babler so hated?')
+-Metriche:
+  > Commenti: 3
+  > Upvotes totali: 16
+  > Upvote medio: 5.3
+  > Upvote massimo: 14
+  > Sentiment medio: 0.110
+  > Soggettività: 0.417
+  > Engagement rate: 5.33
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 14/02/2025 20:56
+  > Ultimo commento: 16/02/2025 09:20
+----------------------------------------
+
+#11 - 1 COMMENTI
+-Data post: 23/08/2025
+-Titolo: Summer Talk 2025 NEOS
+-Post ID: ('1mxvz4u', 'Summer Talk 2025 NEOS')
+-Metriche:
+  > Commenti: 1
+  > Upvotes totali: 1
+  > Upvote medio: 1.0
+  > Upvote massimo: 1
+  > Sentiment medio: 0.000
+  > Soggettività: 0.000
+  > Engagement rate: 1.00
+  > Durata discussione: 0.0 giorni
+  > Primo commento: 23/08/2025 18:58
+  > Ultimo commento: 23/08/2025 18:58
+----------------------------------------
+
+#12 - 1 COMMENTI
+-Data post: 12/10/2025
+-Titolo: Growing up philo-Semitic in Austria
+-Post ID: ('1o4jdqz', 'Growing up philo-Semitic in Austria')
+-Metriche:
+  > Commenti: 1
+  > Upvotes totali: 11
+  > Upvote medio: 11.0
+  > Upvote massimo: 11
+  > Sentiment medio: -0.451
+  > Soggettività: 0.679
+  > Engagement rate: 11.00
+  > Durata discussione: 0.0 giorni
+  > Primo commento: 12/10/2025 15:38
+  > Ultimo commento: 12/10/2025 15:38
+----------------------------------------

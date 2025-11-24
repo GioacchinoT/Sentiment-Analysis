@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/switzerland
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 20
+> Commenti totali: 3,238
+> Commenti per post (media): 161.9
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 476 COMMENTI
+-Data post: 10/05/2025
+-Titolo: Shortly before the ESC starts in Basel | Nemo calls for Israel to be excluded from the Eurovision So
+-Post ID: ('1kj3c3m', 'Shortly before the ESC starts in Basel | Nemo calls for Israel to be excluded from the Eurovision So')
+-Metriche:
+  > Commenti: 476
+  > Upvotes totali: 2,538
+  > Upvote medio: 5.3
+  > Upvote massimo: 228
+  > Sentiment medio: 0.034
+  > Soggettività: 0.361
+  > Engagement rate: 5.33
+  > Durata discussione: 1.0 giorni
+  > Primo commento: 10/05/2025 08:09
+  > Ultimo commento: 11/05/2025 08:06
+----------------------------------------
+
+#2 - 345 COMMENTI
+-Data post: 06/10/2025
+-Titolo: Former Geneva mayor is still imprisoned in Israel in terrible conditions, without access to his media
+-Post ID: ('1nzoq49', 'Former Geneva mayor is still imprisoned in Israel in terrible conditions, without access to his media')
+-Metriche:
+  > Commenti: 345
+  > Upvotes totali: 1,848
+  > Upvote medio: 5.4
+  > Upvote massimo: 240
+  > Sentiment medio: 0.032
+  > Soggettività: 0.288
+  > Engagement rate: 5.36
+  > Durata discussione: 4.9 giorni
+  > Primo commento: 06/10/2025 19:03
+  > Ultimo commento: 11/10/2025 16:52
+----------------------------------------
+
+#3 - 298 COMMENTI
+-Data post: 06/05/2025
+-Titolo: Switzerland to ban Hamas from May 15
+-Post ID: ('1kg3s3v', 'Switzerland to ban Hamas from May 15')
+-Metriche:
+  > Commenti: 298
+  > Upvotes totali: 2,260
+  > Upvote medio: 7.6
+  > Upvote massimo: 170
+  > Sentiment medio: 0.040
+  > Soggettività: 0.338
+  > Engagement rate: 7.58
+  > Durata discussione: 0.3 giorni
+  > Primo commento: 06/05/2025 15:03
+  > Ultimo commento: 06/05/2025 22:50
+----------------------------------------
+
+#4 - 297 COMMENTI
+-Data post: 02/06/2025
+-Titolo: Open letter to Cassis - 55 ex-diplomats shocked by Switzerland's "silence" on Gaza
+-Post ID: ('1l19s44', 'Open letter to Cassis - 55 ex-diplomats shocked by Switzerland\'s "silence" on Gaza')
+-Metriche:
+  > Commenti: 297
+  > Upvotes totali: 1,208
+  > Upvote medio: 4.1
+  > Upvote massimo: 110
+  > Sentiment medio: 0.040
+  > Soggettività: 0.390
+  > Engagement rate: 4.07
+  > Durata discussione: 0.7 giorni
+  > Primo commento: 02/06/2025 07:16
+  > Ultimo commento: 02/06/2025 22:52
+----------------------------------------
+
+#5 - 269 COMMENTI
+-Data post: 26/04/2025
+-Titolo: Swiss Fencing Team Turns Their Backs During Medal Ceremony for Israeli Gold Medalists
+-Post ID: ('1k8mtnv', 'Swiss Fencing Team Turns Their Backs During Medal Ceremony for Israeli Gold Medalists')
+-Metriche:
+  > Commenti: 269
+  > Upvotes totali: 7,505
+  > Upvote medio: 27.9
+  > Upvote massimo: 915
+  > Sentiment medio: 0.055
+  > Soggettività: 0.315
+  > Engagement rate: 27.90
+  > Durata discussione: 2.5 giorni
+  > Primo commento: 26/04/2025 22:54
+  > Ultimo commento: 29/04/2025 12:04
+----------------------------------------
+
+#6 - 243 COMMENTI
+-Data post: 06/10/2025
+-Titolo: I'm beginning to hate the people on here...
+-Post ID: ('1nzqelr', "I'm beginning to hate the people on here...")
+-Metriche:
+  > Commenti: 243
+  > Upvotes totali: 1,672
+  > Upvote medio: 6.9
+  > Upvote massimo: 722
+  > Sentiment medio: 0.060
+  > Soggettività: 0.413
+  > Engagement rate: 6.88
+  > Durata discussione: 6.9 giorni
+  > Primo commento: 06/10/2025 20:15
+  > Ultimo commento: 13/10/2025 19:00
+----------------------------------------
+
+#7 - 236 COMMENTI
+-Data post: 25/09/2025
+-Titolo: Humanitarian rescue operation - Switzerland wants to take in injured children from Gaza
+-Post ID: ('1npyi86', 'Humanitarian rescue operation - Switzerland wants to take in injured children from Gaza')
+-Metriche:
+  > Commenti: 236
+  > Upvotes totali: 1,061
+  > Upvote medio: 4.5
+  > Upvote massimo: 118
+  > Sentiment medio: 0.063
+  > Soggettività: 0.349
+  > Engagement rate: 4.50
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 25/09/2025 07:38
+  > Ultimo commento: 25/09/2025 22:23
+----------------------------------------
+
+#8 - 193 COMMENTI
+-Data post: 01/10/2025
+-Titolo: Swiss citizens will also participate in flotilla against Gaza blockade
+-Post ID: ('1nv1tih', 'Swiss citizens will also participate in flotilla against Gaza blockade')
+-Metriche:
+  > Commenti: 193
+  > Upvotes totali: 1,159
+  > Upvote medio: 6.0
+  > Upvote massimo: 111
+  > Sentiment medio: 0.105
+  > Soggettività: 0.370
+  > Engagement rate: 6.01
+  > Durata discussione: 0.2 giorni
+  > Primo commento: 01/10/2025 09:29
+  > Ultimo commento: 01/10/2025 15:13
+----------------------------------------
+
+#9 - 187 COMMENTI
+-Data post: 11/09/2025
+-Titolo: Swiss medics start hunger protest over Gaza outside parliament | Reuters
+-Post ID: ('1nebh3q', 'Swiss medics start hunger protest over Gaza outside parliament | Reuters')
+-Metriche:
+  > Commenti: 187
+  > Upvotes totali: 581
+  > Upvote medio: 3.1
+  > Upvote massimo: 186
+  > Sentiment medio: 0.047
+  > Soggettività: 0.386
+  > Engagement rate: 3.11
+  > Durata discussione: 31.1 giorni
+  > Primo commento: 11/09/2025 17:22
+  > Ultimo commento: 12/10/2025 20:05
+----------------------------------------
+
+#10 - 170 COMMENTI
+-Data post: 05/06/2025
+-Titolo: Israel partnership canceled - University of Geneva distances itself from Israel - single-handedly
+-Post ID: ('1l3ro9t', 'Israel partnership canceled - University of Geneva distances itself from Israel - single-handedly')
+-Metriche:
+  > Commenti: 170
+  > Upvotes totali: 984
+  > Upvote medio: 5.8
+  > Upvote massimo: 304
+  > Sentiment medio: 0.058
+  > Soggettività: 0.344
+  > Engagement rate: 5.79
+  > Durata discussione: 0.3 giorni
+  > Primo commento: 05/06/2025 08:07
+  > Ultimo commento: 05/06/2025 15:13
+----------------------------------------
+
+#11 - 101 COMMENTI
+-Data post: 05/09/2025
+-Titolo: Former diplomats criticize Switzerland's silence on Gaza
+-Post ID: ('1n966ra', "Former diplomats criticize Switzerland's silence on Gaza")
+-Metriche:
+  > Commenti: 101
+  > Upvotes totali: 535
+  > Upvote medio: 5.3
+  > Upvote massimo: 50
+  > Sentiment medio: 0.044
+  > Soggettività: 0.383
+  > Engagement rate: 5.30
+  > Durata discussione: 4.1 giorni
+  > Primo commento: 05/09/2025 16:13
+  > Ultimo commento: 09/09/2025 18:01
+----------------------------------------
+
+#12 - 88 COMMENTI
+-Data post: 25/07/2025
+-Titolo: Why is the Federal Council so silent about Gaza?
+-Post ID: ('1m8tts3', 'Why is the Federal Council so silent about Gaza?')
+-Metriche:
+  > Commenti: 88
+  > Upvotes totali: 116
+  > Upvote medio: 1.3
+  > Upvote massimo: 11
+  > Sentiment medio: 0.049
+  > Soggettività: 0.342
+  > Engagement rate: 1.32
+  > Durata discussione: 3.2 giorni
+  > Primo commento: 25/07/2025 10:35
+  > Ultimo commento: 28/07/2025 15:43
+----------------------------------------
+
+#13 - 86 COMMENTI
+-Data post: 13/10/2025
+-Titolo: Megathread: Palestine
+-Post ID: ('1o5iny7', 'Megathread: Palestine')
+-Metriche:
+  > Commenti: 86
+  > Upvotes totali: 217
+  > Upvote medio: 2.5
+  > Upvote massimo: 42
+  > Sentiment medio: 0.050
+  > Soggettività: 0.363
+  > Engagement rate: 2.52
+  > Durata discussione: 5.4 giorni
+  > Primo commento: 13/10/2025 14:52
+  > Ultimo commento: 19/10/2025 00:02
+----------------------------------------
+
+#14 - 78 COMMENTI
+-Data post: 06/10/2025
+-Titolo: Global Sumud Flotilla - Eight flotilla members back in Switzerland | On Sunday, eight members of the
+-Post ID: ('1nzmnd9', 'Global Sumud Flotilla - Eight flotilla members back in Switzerland | On Sunday, eight members of the')
+-Metriche:
+  > Commenti: 78
+  > Upvotes totali: 342
+  > Upvote medio: 4.4
+  > Upvote massimo: 41
+  > Sentiment medio: 0.033
+  > Soggettività: 0.389
+  > Engagement rate: 4.38
+  > Durata discussione: 4.7 giorni
+  > Primo commento: 06/10/2025 18:02
+  > Ultimo commento: 11/10/2025 11:18
+----------------------------------------
+
+#15 - 76 COMMENTI
+-Data post: 19/05/2025
+-Titolo: A person who protested against the Israeli regime at Eurovision was assaulted by security officers.
+-Post ID: ('1kqgqcb', 'A person who protested against the Israeli regime at Eurovision was assaulted by security officers.')
+-Metriche:
+  > Commenti: 76
+  > Upvotes totali: 191
+  > Upvote medio: 2.5
+  > Upvote massimo: 31
+  > Sentiment medio: 0.067
+  > Soggettività: 0.342
+  > Engagement rate: 2.51
+  > Durata discussione: 0.5 giorni
+  > Primo commento: 19/05/2025 18:59
+  > Ultimo commento: 20/05/2025 07:45
+----------------------------------------

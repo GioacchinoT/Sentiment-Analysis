@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/france
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 462
+> Commenti totali: 23,651
+> Commenti per post (media): 51.2
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 837 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Israel attacks Iran
+-Post ID: ('1la2e2z', 'Israel attacks Iran')
+-Metriche:
+  > Commenti: 837
+  > Upvotes totali: 5,681
+  > Upvote medio: 6.8
+  > Upvote massimo: 244
+  > Sentiment medio: 0.037
+  > Soggettività: 0.361
+  > Engagement rate: 6.79
+  > Durata discussione: 5.7 giorni
+  > Primo commento: 13/06/2025 02:25
+  > Ultimo commento: 18/06/2025 20:05
+----------------------------------------
+
+#2 - 477 COMMENTI
+-Data post: 16/06/2025
+-Titolo: Israel: “Fear of Iran is a moral panic orchestrated for decades”
+-Post ID: ('1lcn8j3', 'Israel: “Fear of Iran is a moral panic orchestrated for decades”')
+-Metriche:
+  > Commenti: 477
+  > Upvotes totali: 4,265
+  > Upvote medio: 8.9
+  > Upvote massimo: 352
+  > Sentiment medio: 0.036
+  > Soggettività: 0.376
+  > Engagement rate: 8.94
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 16/06/2025 10:13
+  > Ultimo commento: 17/06/2025 16:00
+----------------------------------------
+
+#3 - 311 COMMENTI
+-Data post: 20/06/2025
+-Titolo: Why such a reversal of position by our government regarding the Israel/Iran war?
+-Post ID: ('1lfydbh', 'Why such a reversal of position by our government regarding the Israel/Iran war?')
+-Metriche:
+  > Commenti: 311
+  > Upvotes totali: 1,684
+  > Upvote medio: 5.4
+  > Upvote massimo: 168
+  > Sentiment medio: 0.013
+  > Soggettività: 0.357
+  > Engagement rate: 5.41
+  > Durata discussione: 3.4 giorni
+  > Primo commento: 20/06/2025 10:05
+  > Ultimo commento: 23/06/2025 19:22
+----------------------------------------
+
+#4 - 292 COMMENTI
+-Data post: 27/02/2025
+-Titolo: Rima Hassan declares that “Hamas has legitimate action from the point of view of international law”;
+-Post ID: ('1izfhx9', 'Rima Hassan declares that “Hamas has legitimate action from the point of view of international law”;')
+-Metriche:
+  > Commenti: 292
+  > Upvotes totali: 5,014
+  > Upvote medio: 17.2
+  > Upvote massimo: 1033
+  > Sentiment medio: 0.049
+  > Soggettività: 0.361
+  > Engagement rate: 17.17
+  > Durata discussione: 4.9 giorni
+  > Primo commento: 27/02/2025 14:18
+  > Ultimo commento: 04/03/2025 12:19
+----------------------------------------
+
+#5 - 276 COMMENTI
+-Data post: 26/05/2025
+-Titolo: Why this sudden reversal of “public opinion” on Gaza?
+-Post ID: ('1kvqep2', 'Why this sudden reversal of “public opinion” on Gaza?')
+-Metriche:
+  > Commenti: 276
+  > Upvotes totali: 5,143
+  > Upvote medio: 18.6
+  > Upvote massimo: 641
+  > Sentiment medio: 0.065
+  > Soggettività: 0.375
+  > Engagement rate: 18.63
+  > Durata discussione: 3.5 giorni
+  > Primo commento: 26/05/2025 11:47
+  > Ultimo commento: 29/05/2025 23:00
+----------------------------------------
+
+#6 - 276 COMMENTI
+-Data post: 01/08/2025
+-Titolo: Evacuations from Gaza to France suspended after student's anti-Semitic comments
+-Post ID: ('1merzjj', "Evacuations from Gaza to France suspended after student's anti-Semitic comments")
+-Metriche:
+  > Commenti: 276
+  > Upvotes totali: 5,340
+  > Upvote medio: 19.3
+  > Upvote massimo: 966
+  > Sentiment medio: 0.033
+  > Soggettività: 0.318
+  > Engagement rate: 19.35
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 01/08/2025 11:36
+  > Ultimo commento: 02/08/2025 16:23
+----------------------------------------
+
+#7 - 275 COMMENTI
+-Data post: 22/06/2025
+-Titolo: Megafil - Israel/Iran conflict and American bombings
+-Post ID: ('1lhjulf', 'Megafil - Israel/Iran conflict and American bombings')
+-Metriche:
+  > Commenti: 275
+  > Upvotes totali: 1,512
+  > Upvote medio: 5.5
+  > Upvote massimo: 60
+  > Sentiment medio: 0.048
+  > Soggettività: 0.341
+  > Engagement rate: 5.50
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 22/06/2025 11:30
+  > Ultimo commento: 23/06/2025 13:55
+----------------------------------------
+
+#8 - 261 COMMENTI
+-Data post: 10/06/2025
+-Titolo: Rima Hassan and four other French people refused their expulsion from Israel, Greta Thunberg in an opinion
+-Post ID: ('1l7vnbx', 'Rima Hassan and four other French people refused their expulsion from Israel, Greta Thunberg in an opinion')
+-Metriche:
+  > Commenti: 261
+  > Upvotes totali: 4,750
+  > Upvote medio: 18.2
+  > Upvote massimo: 960
+  > Sentiment medio: -0.015
+  > Soggettività: 0.340
+  > Engagement rate: 18.20
+  > Durata discussione: 2.1 giorni
+  > Primo commento: 10/06/2025 12:55
+  > Ultimo commento: 12/06/2025 16:29
+----------------------------------------
+
+#9 - 235 COMMENTI
+-Data post: 19/06/2025
+-Titolo: LIVE - Iranian missile attacks: Hospital hit in Beersheba, Israel denounces 'a gra
+-Post ID: ('1lf3fmm', "LIVE - Iranian missile attacks: Hospital hit in Beersheba, Israel denounces 'a gra")
+-Metriche:
+  > Commenti: 235
+  > Upvotes totali: 6,876
+  > Upvote medio: 29.3
+  > Upvote massimo: 1178
+  > Sentiment medio: 0.042
+  > Soggettività: 0.300
+  > Engagement rate: 29.26
+  > Durata discussione: 7.5 giorni
+  > Primo commento: 19/06/2025 08:07
+  > Ultimo commento: 26/06/2025 20:16
+----------------------------------------
+
+#10 - 216 COMMENTI
+-Data post: 07/08/2025
+-Titolo: Jewish passengers receive meal trays with 'Free Palestine' written on Iber flight
+-Post ID: ('1mjym99', "Jewish passengers receive meal trays with 'Free Palestine' written on Iber flight")
+-Metriche:
+  > Commenti: 216
+  > Upvotes totali: 1,554
+  > Upvote medio: 7.2
+  > Upvote massimo: 272
+  > Sentiment medio: 0.056
+  > Soggettività: 0.325
+  > Engagement rate: 7.19
+  > Durata discussione: 1.9 giorni
+  > Primo commento: 07/08/2025 14:25
+  > Ultimo commento: 09/08/2025 11:43
+----------------------------------------
+
+#11 - 213 COMMENTI
+-Data post: 22/05/2025
+-Titolo: In Sens, a professor suspended after a minute of silence "in tribute to the victims of Gaza" in c
+-Post ID: ('1ksjgol', 'In Sens, a professor suspended after a minute of silence "in tribute to the victims of Gaza" in c')
+-Metriche:
+  > Commenti: 213
+  > Upvotes totali: 3,130
+  > Upvote medio: 14.7
+  > Upvote massimo: 643
+  > Sentiment medio: 0.016
+  > Soggettività: 0.383
+  > Engagement rate: 14.69
+  > Durata discussione: 6.1 giorni
+  > Primo commento: 22/05/2025 08:10
+  > Ultimo commento: 28/05/2025 09:58
+----------------------------------------
+
+#12 - 212 COMMENTI
+-Data post: 22/07/2025
+-Titolo: Denouncing a genocide in Gaza, "it's a historical falsification", believes the minister responsible for
+-Post ID: ('1m68kj4', 'Denouncing a genocide in Gaza, "it\'s a historical falsification", believes the minister responsible for')
+-Metriche:
+  > Commenti: 212
+  > Upvotes totali: 6,327
+  > Upvote medio: 29.8
+  > Upvote massimo: 1394
+  > Sentiment medio: 0.025
+  > Soggettività: 0.335
+  > Engagement rate: 29.84
+  > Durata discussione: 6.2 giorni
+  > Primo commento: 22/07/2025 10:28
+  > Ultimo commento: 28/07/2025 15:54
+----------------------------------------
+
+#13 - 197 COMMENTI
+-Data post: 14/03/2025
+-Titolo: “Do not give in to woke trends”: Israel wants to equip its senior officials with Tesla cars
+-Post ID: ('1jb5dwa', '“Do not give in to woke trends”: Israel wants to equip its senior officials with Tesla cars')
+-Metriche:
+  > Commenti: 197
+  > Upvotes totali: 4,182
+  > Upvote medio: 21.2
+  > Upvote massimo: 682
+  > Sentiment medio: 0.045
+  > Soggettività: 0.372
+  > Engagement rate: 21.23
+  > Durata discussione: 3.7 giorni
+  > Primo commento: 14/03/2025 15:38
+  > Ultimo commento: 18/03/2025 08:32
+----------------------------------------
+
+#14 - 197 COMMENTI
+-Data post: 24/07/2025
+-Titolo: Emmanuel Macron announces that “France will recognize the State of Palestine” during a speech in September
+-Post ID: ('1m8domw', 'Emmanuel Macron announces that “France will recognize the State of Palestine” during a speech in September')
+-Metriche:
+  > Commenti: 197
+  > Upvotes totali: 2,477
+  > Upvote medio: 12.6
+  > Upvote massimo: 341
+  > Sentiment medio: 0.044
+  > Soggettività: 0.340
+  > Engagement rate: 12.57
+  > Durata discussione: 62.9 giorni
+  > Primo commento: 24/07/2025 21:24
+  > Ultimo commento: 25/09/2025 19:40
+----------------------------------------
+
+#15 - 191 COMMENTI
+-Data post: 12/05/2025
+-Titolo: After months of denial, Horvilleur, Sinclair and Sfar open their eyes to the massacres in Gaza and
+-Post ID: ('1kkleb5', 'After months of denial, Horvilleur, Sinclair and Sfar open their eyes to the massacres in Gaza and')
+-Metriche:
+  > Commenti: 191
+  > Upvotes totali: 3,495
+  > Upvote medio: 18.3
+  > Upvote massimo: 332
+  > Sentiment medio: 0.033
+  > Soggettività: 0.354
+  > Engagement rate: 18.30
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 12/05/2025 08:18
+  > Ultimo commento: 13/05/2025 16:23
+----------------------------------------

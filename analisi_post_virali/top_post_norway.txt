@@ -1,0 +1,61 @@
+ REPORT POST PIÙ COMMENTATI - r/norway
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 3
+> Commenti totali: 93
+> Commenti per post (media): 31.0
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 75 COMMENTI
+-Data post: 07/07/2025
+-Titolo: Are Israeli tourists welcome in Norway?
+-Post ID: ('1ltpxgx', 'Are Israeli tourists welcome in Norway?')
+-Metriche:
+  > Commenti: 75
+  > Upvotes totali: 495
+  > Upvote medio: 6.6
+  > Upvote massimo: 73
+  > Sentiment medio: 0.129
+  > Soggettività: 0.441
+  > Engagement rate: 6.60
+  > Durata discussione: 65.2 giorni
+  > Primo commento: 07/07/2025 11:45
+  > Ultimo commento: 10/09/2025 15:54
+----------------------------------------
+
+#2 - 16 COMMENTI
+-Data post: 12/10/2025
+-Titolo: Bjornar Moxnes, Norwegian MP: "The Peace Prize winner [Maria Corina Machado] has personally signed a
+-Post ID: ('1o4l601', 'Bjornar Moxnes, Norwegian MP: "The Peace Prize winner [Maria Corina Machado] has personally signed a')
+-Metriche:
+  > Commenti: 16
+  > Upvotes totali: 136
+  > Upvote medio: 8.5
+  > Upvote massimo: 141
+  > Sentiment medio: -0.147
+  > Soggettività: 0.414
+  > Engagement rate: 8.50
+  > Durata discussione: 7.1 giorni
+  > Primo commento: 12/10/2025 12:42
+  > Ultimo commento: 19/10/2025 15:30
+----------------------------------------
+
+#3 - 2 COMMENTI
+-Data post: 09/03/2025
+-Titolo: Why is an 'ethical' investor funding arms companies? — Norway's sovereign wealth fund holds shares in
+-Post ID: ('1j76ad7', "Why is an 'ethical' investor funding arms companies? — Norway's sovereign wealth fund holds shares in")
+-Metriche:
+  > Commenti: 2
+  > Upvotes totali: 4
+  > Upvote medio: 2.0
+  > Upvote massimo: 3
+  > Sentiment medio: 0.231
+  > Soggettività: 0.531
+  > Engagement rate: 2.00
+  > Durata discussione: 0.0 giorni
+  > Primo commento: 09/03/2025 13:24
+  > Ultimo commento: 09/03/2025 14:07
+----------------------------------------

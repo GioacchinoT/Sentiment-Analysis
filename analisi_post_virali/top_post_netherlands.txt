@@ -1,0 +1,44 @@
+ REPORT POST PIÙ COMMENTATI - r/netherlands
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 2
+> Commenti totali: 17
+> Commenti per post (media): 8.5
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 16 COMMENTI
+-Data post: 25/05/2025
+-Titolo: Palestine vs Ukraine
+-Post ID: ('1kvaozg', 'Palestine vs Ukraine')
+-Metriche:
+  > Commenti: 16
+  > Upvotes totali: 73
+  > Upvote medio: 4.6
+  > Upvote massimo: 35
+  > Sentiment medio: 0.080
+  > Soggettività: 0.415
+  > Engagement rate: 4.56
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 25/05/2025 21:25
+  > Ultimo commento: 26/05/2025 11:06
+----------------------------------------
+
+#2 - 1 COMMENTI
+-Data post: 05/10/2025
+-Titolo: NOS reporting on red line march... Bizarre
+-Post ID: ('1nyw0p6', 'NOS reporting on red line march... Bizarre')
+-Metriche:
+  > Commenti: 1
+  > Upvotes totali: 2
+  > Upvote medio: 2.0
+  > Upvote massimo: 2
+  > Sentiment medio: 0.000
+  > Soggettività: 0.075
+  > Engagement rate: 2.00
+  > Durata discussione: 0.0 giorni
+  > Primo commento: 05/10/2025 20:58
+  > Ultimo commento: 05/10/2025 20:58
+----------------------------------------

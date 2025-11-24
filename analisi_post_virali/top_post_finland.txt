@@ -1,0 +1,197 @@
+📊 REPORT POST PIÙ COMMENTATI - r/finland
+================================================================================
+
+STATISTICHE GENERALI:
+• Post totali analizzati: 11
+• Commenti totali: 835
+• Commenti per post (media): 75.9
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 221 COMMENTI
+-Data post: 10/09/2025
+-Titolo: First day in Finland and I'm about to be homeless
+-Post ID: ('1ndl6fc', "First day in Finland and I'm about to be homeless")
+-Metriche:
+  • Commenti: 221
+  • Upvotes totali: 2,093
+  • Upvote medio: 9.5
+  • Upvote massimo: 240
+  • Sentiment medio: 0.049
+  • Soggettività: 0.379
+  • Engagement rate: 9.47
+  • Durata discussione: 9.1 giorni
+  • Primo commento: 10/09/2025 19:47
+  • Ultimo commento: 19/09/2025 21:50
+----------------------------------------
+
+#2 - 163 COMMENTI
+-Data post: 24/07/2025
+-Titolo: Finland opposes freezing the EU-Israel agreement, says Rajala
+-Post ID: ('1m82zuu', 'Finland opposes freezing the EU-Israel agreement, says Rajala')
+-Metriche:
+  • Commenti: 163
+  • Upvotes totali: 544
+  • Upvote medio: 3.3
+  • Upvote massimo: 90
+  • Sentiment medio: 0.030
+  • Soggettività: 0.378
+  • Engagement rate: 3.34
+  • Durata discussione: 15.3 giorni
+  • Primo commento: 24/07/2025 14:25
+  • Ultimo commento: 08/08/2025 20:30
+----------------------------------------
+
+#3 - 134 COMMENTI
+-Data post: 07/09/2025
+-Titolo: Ten Finns joined Greta Thunberg's aid Flotilla to Gaza | Yle News
+-Post ID: ('1nb42xh', "Ten Finns joined Greta Thunberg's aid Flotilla to Gaza | Yle News")
+-Metriche:
+  • Commenti: 134
+  • Upvotes totali: 549
+  • Upvote medio: 4.1
+  • Upvote massimo: 126
+  • Sentiment medio: 0.069
+  • Soggettività: 0.348
+  • Engagement rate: 4.10
+  • Durata discussione: 5.8 giorni
+  • Primo commento: 07/09/2025 22:35
+  • Ultimo commento: 13/09/2025 17:33
+----------------------------------------
+
+#4 - 127 COMMENTI
+-Data post: 18/05/2025
+-Titolo: How does UK and Switzerland have 0 votes!
+-Post ID: ('1kp5te5', 'How does UK and Switzerland have 0 votes!')
+-Metriche:
+  • Commenti: 127
+  • Upvotes totali: 590
+  • Upvote medio: 4.6
+  • Upvote massimo: 93
+  • Sentiment medio: 0.079
+  • Soggettività: 0.385
+  • Engagement rate: 4.65
+  • Durata discussione: 13.2 giorni
+  • Primo commento: 18/05/2025 01:05
+  • Ultimo commento: 31/05/2025 06:37
+----------------------------------------
+
+#5 - 58 COMMENTI
+-Data post: 23/06/2025
+-Titolo: Question for the Finns
+-Post ID: ('1lig6s2', 'Question for the Finns')
+-Metriche:
+  • Commenti: 58
+  • Upvotes totali: 212
+  • Upvote medio: 3.7
+  • Upvote massimo: 48
+  • Sentiment medio: 0.045
+  • Soggettività: 0.457
+  • Engagement rate: 3.66
+  • Durata discussione: 9.3 giorni
+  • Primo commento: 23/06/2025 15:10
+  • Ultimo commento: 02/07/2025 22:59
+----------------------------------------
+
+#6 - 56 COMMENTI
+-Data post: 16/09/2025
+-Titolo: What is the general view on the Israeli Gazan conflict in Finland?
+-Post ID: ('1nim5hs', 'What is the general view on the Israeli Gazan conflict in Finland?')
+-Metriche:
+  • Commenti: 56
+  • Upvotes totali: 275
+  • Upvote medio: 4.9
+  • Upvote massimo: 49
+  • Sentiment medio: 0.030
+  • Soggettività: 0.408
+  • Engagement rate: 4.91
+  • Durata discussione: 13.6 giorni
+  • Primo commento: 16/09/2025 18:24
+  • Ultimo commento: 30/09/2025 07:57
+----------------------------------------
+
+#7 - 35 COMMENTI
+-Data post: 29/11/2024
+-Titolo: Survived sauna time.
+-Post ID: ('1h2kkhb', 'Survived sauna time.')
+-Metriche:
+  • Commenti: 35
+  • Upvotes totali: 419
+  • Upvote medio: 12.0
+  • Upvote massimo: 89
+  • Sentiment medio: 0.146
+  • Soggettività: 0.292
+  • Engagement rate: 11.97
+  • Durata discussione: 1.2 giorni
+  • Primo commento: 29/11/2024 13:19
+  • Ultimo commento: 30/11/2024 18:08
+----------------------------------------
+
+#8 - 16 COMMENTI
+-Data post: 30/08/2025
+-Titolo: Finland signals openness to freezing the EU–Israel trade deal
+-Post ID: ('1n4bvgz', 'Finland signals openness to freezing the EU–Israel trade deal')
+-Metriche:
+  • Commenti: 16
+  • Upvotes totali: 72
+  • Upvote medio: 4.5
+  • Upvote massimo: 32
+  • Sentiment medio: 0.069
+  • Soggettività: 0.481
+  • Engagement rate: 4.50
+  • Durata discussione: 3.5 giorni
+  • Primo commento: 30/08/2025 22:35
+  • Ultimo commento: 03/09/2025 10:46
+----------------------------------------
+
+#9 - 14 COMMENTI
+-Data post: 18/09/2025
+-Titolo: Are there any Ingrian Finns or Murmansk Finns or descendants of these ethnic Finnish immigrants here
+-Post ID: ('1nk7m4y', 'Are there any Ingrian Finns or Murmansk Finns or descendants of these ethnic Finnish immigrants here')
+-Metriche:
+  • Commenti: 14
+  • Upvotes totali: 35
+  • Upvote medio: 2.5
+  • Upvote massimo: 6
+  • Sentiment medio: 0.061
+  • Soggettività: 0.302
+  • Engagement rate: 2.50
+  • Durata discussione: 2.4 giorni
+  • Primo commento: 18/09/2025 14:59
+  • Ultimo commento: 20/09/2025 23:46
+----------------------------------------
+
+#10 - 8 COMMENTI
+-Data post: 05/09/2025
+-Titolo: Census/historical records -Talonpoika vs tallonpoika what's the difference?
+-Post ID: ('1n9cand', "Census/historical records -Talonpoika vs tallonpoika what's the difference?")
+-Metriche:
+  • Commenti: 8
+  • Upvotes totali: 26
+  • Upvote medio: 3.2
+  • Upvote massimo: 13
+  • Sentiment medio: 0.102
+  • Soggettività: 0.431
+  • Engagement rate: 3.25
+  • Durata discussione: 3.0 giorni
+  • Primo commento: 05/09/2025 19:59
+  • Ultimo commento: 08/09/2025 20:11
+----------------------------------------
+
+#11 - 3 COMMENTI
+-Data post: 12/07/2025
+-Titolo: bearing air limits
+-Post ID: ('1ly1mt5', 'bearing air limits')
+-Metriche:
+  • Commenti: 3
+  • Upvotes totali: 21
+  • Upvote medio: 7.0
+  • Upvote massimo: 12
+  • Sentiment medio: 0.046
+  • Soggettività: 0.167
+  • Engagement rate: 7.00
+  • Durata discussione: 0.0 giorni
+  • Primo commento: 12/07/2025 16:21
+  • Ultimo commento: 12/07/2025 16:27
+----------------------------------------

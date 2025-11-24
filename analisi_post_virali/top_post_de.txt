@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/de
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 83
+> Commenti totali: 6,575
+> Commenti per post (media): 79.2
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 373 COMMENTI
+-Data post: 08/08/2025
+-Titolo: Israel wants to take over the city of Gaza
+-Post ID: ('1mklej6', 'Israel wants to take over the city of Gaza')
+-Metriche:
+  > Commenti: 373
+  > Upvotes totali: 6,713
+  > Upvote medio: 18.0
+  > Upvote massimo: 617
+  > Sentiment medio: 0.025
+  > Soggettività: 0.314
+  > Engagement rate: 18.00
+  > Durata discussione: 1.1 giorni
+  > Primo commento: 08/08/2025 07:42
+  > Ultimo commento: 09/08/2025 10:40
+----------------------------------------
+
+#2 - 348 COMMENTI
+-Data post: 08/11/2024
+-Titolo: Riots in Amsterdam: Israel's UN ambassador speaks of a “pogrom” against Jews
+-Post ID: ('1gmbev8', "Riots in Amsterdam: Israel's UN ambassador speaks of a “pogrom” against Jews")
+-Metriche:
+  > Commenti: 348
+  > Upvotes totali: 6,577
+  > Upvote medio: 18.9
+  > Upvote massimo: 879
+  > Sentiment medio: 0.016
+  > Soggettività: 0.302
+  > Engagement rate: 18.90
+  > Durata discussione: 2.4 giorni
+  > Primo commento: 08/11/2024 08:17
+  > Ultimo commento: 10/11/2024 17:06
+----------------------------------------
+
+#3 - 329 COMMENTI
+-Data post: 09/09/2025
+-Titolo: Israeli military attack against Hamas leadership in Doha
+-Post ID: ('1ncivn8', 'Israeli military attack against Hamas leadership in Doha')
+-Metriche:
+  > Commenti: 329
+  > Upvotes totali: 4,834
+  > Upvote medio: 14.7
+  > Upvote massimo: 325
+  > Sentiment medio: 0.038
+  > Soggettività: 0.380
+  > Engagement rate: 14.69
+  > Durata discussione: 1.8 giorni
+  > Primo commento: 09/09/2025 15:56
+  > Ultimo commento: 11/09/2025 11:35
+----------------------------------------
+
+#4 - 297 COMMENTI
+-Data post: 21/11/2024
+-Titolo: International Criminal Court issues arrest warrants against Netanyahu and Hamas leader
+-Post ID: ('1gweqs4', 'International Criminal Court issues arrest warrants against Netanyahu and Hamas leader')
+-Metriche:
+  > Commenti: 297
+  > Upvotes totali: 6,286
+  > Upvote medio: 21.2
+  > Upvote massimo: 791
+  > Sentiment medio: 0.032
+  > Soggettività: 0.339
+  > Engagement rate: 21.16
+  > Durata discussione: 2.9 giorni
+  > Primo commento: 21/11/2024 13:17
+  > Ultimo commento: 24/11/2024 10:25
+----------------------------------------
+
+#5 - 293 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Israel attacks Iran
+-Post ID: ('1la2fhn', 'Israel attacks Iran')
+-Metriche:
+  > Commenti: 293
+  > Upvotes totali: 10,578
+  > Upvote medio: 36.1
+  > Upvote massimo: 1145
+  > Sentiment medio: 0.019
+  > Soggettività: 0.342
+  > Engagement rate: 36.10
+  > Durata discussione: 0.1 giorni
+  > Primo commento: 13/06/2025 07:14
+  > Ultimo commento: 13/06/2025 10:23
+----------------------------------------
+
+#6 - 286 COMMENTI
+-Data post: 13/06/2025
+-Titolo: Iran attacks Israel with missiles - air alarm triggered
+-Post ID: ('1lankc9', 'Iran attacks Israel with missiles - air alarm triggered')
+-Metriche:
+  > Commenti: 286
+  > Upvotes totali: 4,354
+  > Upvote medio: 15.2
+  > Upvote massimo: 328
+  > Sentiment medio: 0.056
+  > Soggettività: 0.374
+  > Engagement rate: 15.22
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 13/06/2025 20:37
+  > Ultimo commento: 15/06/2025 03:11
+----------------------------------------
+
+#7 - 276 COMMENTI
+-Data post: 08/08/2025
+-Titolo: Federal government stops arms exports to Israel
+-Post ID: ('1mkrls6', 'Federal government stops arms exports to Israel')
+-Metriche:
+  > Commenti: 276
+  > Upvotes totali: 4,513
+  > Upvote medio: 16.4
+  > Upvote massimo: 617
+  > Sentiment medio: 0.023
+  > Soggettività: 0.337
+  > Engagement rate: 16.35
+  > Durata discussione: 2.4 giorni
+  > Primo commento: 08/08/2025 12:35
+  > Ultimo commento: 10/08/2025 21:02
+----------------------------------------
+
+#8 - 254 COMMENTI
+-Data post: 28/10/2024
+-Titolo: Israel bans UNRWA work on its territory
+-Post ID: ('1geb7a1', 'Israel bans UNRWA work on its territory')
+-Metriche:
+  > Commenti: 254
+  > Upvotes totali: 3,059
+  > Upvote medio: 12.0
+  > Upvote massimo: 412
+  > Sentiment medio: 0.022
+  > Soggettività: 0.371
+  > Engagement rate: 12.04
+  > Durata discussione: 4.6 giorni
+  > Primo commento: 28/10/2024 21:59
+  > Ultimo commento: 02/11/2024 12:20
+----------------------------------------
+
+#9 - 230 COMMENTI
+-Data post: 17/06/2025
+-Titolo: Nuclear bomb still a long way away: US secret services doubt Israel's justification for attacking Iran
+-Post ID: ('1ldwmva', "Nuclear bomb still a long way away: US secret services doubt Israel's justification for attacking Iran")
+-Metriche:
+  > Commenti: 230
+  > Upvotes totali: 4,049
+  > Upvote medio: 17.6
+  > Upvote massimo: 636
+  > Sentiment medio: 0.042
+  > Soggettività: 0.419
+  > Engagement rate: 17.60
+  > Durata discussione: 7.9 giorni
+  > Primo commento: 17/06/2025 21:52
+  > Ultimo commento: 25/06/2025 19:17
+----------------------------------------
+
+#10 - 208 COMMENTI
+-Data post: 09/10/2025
+-Titolo: Karin Prien: Education Minister would emigrate to Israel if there was an AfD government
+-Post ID: ('1o1ybo7', 'Karin Prien: Education Minister would emigrate to Israel if there was an AfD government')
+-Metriche:
+  > Commenti: 208
+  > Upvotes totali: 4,485
+  > Upvote medio: 21.6
+  > Upvote massimo: 970
+  > Sentiment medio: 0.077
+  > Soggettività: 0.412
+  > Engagement rate: 21.56
+  > Durata discussione: 3.2 giorni
+  > Primo commento: 09/10/2025 08:07
+  > Ultimo commento: 12/10/2025 13:20
+----------------------------------------
+
+#11 - 186 COMMENTI
+-Data post: 28/07/2025
+-Titolo: Security Cabinet: Friedrich Merz announces airlift for Gaza
+-Post ID: ('1mbk3xw', 'Security Cabinet: Friedrich Merz announces airlift for Gaza')
+-Metriche:
+  > Commenti: 186
+  > Upvotes totali: 3,852
+  > Upvote medio: 20.7
+  > Upvote massimo: 637
+  > Sentiment medio: 0.035
+  > Soggettività: 0.364
+  > Engagement rate: 20.71
+  > Durata discussione: 6.6 giorni
+  > Primo commento: 28/07/2025 18:37
+  > Ultimo commento: 04/08/2025 10:07
+----------------------------------------
+
+#12 - 178 COMMENTI
+-Data post: 13/09/2025
+-Titolo: More and more countries are making their participation in the ESC in Vienna dependent on the exclusion of Israel
+-Post ID: ('1nfyyx4', 'More and more countries are making their participation in the ESC in Vienna dependent on the exclusion of Israel')
+-Metriche:
+  > Commenti: 178
+  > Upvotes totali: 7,938
+  > Upvote medio: 44.6
+  > Upvote massimo: 1173
+  > Sentiment medio: 0.049
+  > Soggettività: 0.314
+  > Engagement rate: 44.60
+  > Durata discussione: 4.0 giorni
+  > Primo commento: 13/09/2025 19:34
+  > Ultimo commento: 17/09/2025 19:48
+----------------------------------------
+
+#13 - 161 COMMENTI
+-Data post: 20/06/2025
+-Titolo: Council of Europe criticizes Germany for restrictions on Gaza protests - letter to Dobrindt
+-Post ID: ('1lfy4lm', 'Council of Europe criticizes Germany for restrictions on Gaza protests - letter to Dobrindt')
+-Metriche:
+  > Commenti: 161
+  > Upvotes totali: 2,340
+  > Upvote medio: 14.5
+  > Upvote massimo: 644
+  > Sentiment medio: 0.061
+  > Soggettività: 0.409
+  > Engagement rate: 14.53
+  > Durata discussione: 2.5 giorni
+  > Primo commento: 20/06/2025 10:18
+  > Ultimo commento: 22/06/2025 21:30
+----------------------------------------
+
+#14 - 153 COMMENTI
+-Data post: 05/05/2025
+-Titolo: Israel: Plan to “conquer” the Gaza Strip
+-Post ID: ('1kf7za6', 'Israel: Plan to “conquer” the Gaza Strip')
+-Metriche:
+  > Commenti: 153
+  > Upvotes totali: 2,914
+  > Upvote medio: 19.0
+  > Upvote massimo: 230
+  > Sentiment medio: 0.077
+  > Soggettività: 0.397
+  > Engagement rate: 19.05
+  > Durata discussione: 0.9 giorni
+  > Primo commento: 05/05/2025 12:51
+  > Ultimo commento: 06/05/2025 10:56
+----------------------------------------
+
+#15 - 151 COMMENTI
+-Data post: 23/05/2025
+-Titolo: Eurovision Song Contest: ESC examines voting rules after strong support for Israel
+-Post ID: ('1ktqqi7', 'Eurovision Song Contest: ESC examines voting rules after strong support for Israel')
+-Metriche:
+  > Commenti: 151
+  > Upvotes totali: 5,147
+  > Upvote medio: 34.1
+  > Upvote massimo: 1344
+  > Sentiment medio: 0.109
+  > Soggettività: 0.363
+  > Engagement rate: 34.09
+  > Durata discussione: 1.0 giorni
+  > Primo commento: 23/05/2025 21:51
+  > Ultimo commento: 24/05/2025 22:11
+----------------------------------------

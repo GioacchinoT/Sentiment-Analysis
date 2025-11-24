@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/romania
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 29
+> Commenti totali: 1,134
+> Commenti per post (media): 39.1
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 423 COMMENTI
+-Data post: 13/06/2025
+-Titolo: In the end Israel attacked Iran
+-Post ID: ('1la5zb7', 'In the end Israel attacked Iran')
+-Metriche:
+  > Commenti: 423
+  > Upvotes totali: 4,572
+  > Upvote medio: 10.8
+  > Upvote massimo: 549
+  > Sentiment medio: 0.043
+  > Soggettività: 0.381
+  > Engagement rate: 10.81
+  > Durata discussione: 3.8 giorni
+  > Primo commento: 13/06/2025 05:44
+  > Ultimo commento: 17/06/2025 00:25
+----------------------------------------
+
+#2 - 134 COMMENTI
+-Data post: 01/07/2025
+-Titolo: MApN chose Israel's Rafael Advanced Defense Systems for the SHORAD-VSHORAD program (1.9
+-Post ID: ('1lov5zq', "MApN chose Israel's Rafael Advanced Defense Systems for the SHORAD-VSHORAD program (1.9")
+-Metriche:
+  > Commenti: 134
+  > Upvotes totali: 641
+  > Upvote medio: 4.8
+  > Upvote massimo: 138
+  > Sentiment medio: 0.033
+  > Soggettività: 0.408
+  > Engagement rate: 4.78
+  > Durata discussione: 0.9 giorni
+  > Primo commento: 01/07/2025 09:15
+  > Ultimo commento: 02/07/2025 06:39
+----------------------------------------
+
+#3 - 89 COMMENTI
+-Data post: 24/06/2025
+-Titolo: The 12-day war is over. Israel won but the Iranians missed the chance to change the regime
+-Post ID: ('1liuzc5', 'The 12-day war is over. Israel won but the Iranians missed the chance to change the regime')
+-Metriche:
+  > Commenti: 89
+  > Upvotes totali: 2,614
+  > Upvote medio: 29.4
+  > Upvote massimo: 812
+  > Sentiment medio: 0.079
+  > Soggettività: 0.354
+  > Engagement rate: 29.37
+  > Durata discussione: 2.4 giorni
+  > Primo commento: 24/06/2025 01:00
+  > Ultimo commento: 26/06/2025 10:10
+----------------------------------------
+
+#4 - 65 COMMENTI
+-Data post: 29/07/2025
+-Titolo: Since the Gaza genocide began, Israel has been killing an average of 13 journalists per month
+-Post ID: ('1mckm0d', 'Since the Gaza genocide began, Israel has been killing an average of 13 journalists per month')
+-Metriche:
+  > Commenti: 65
+  > Upvotes totali: 164
+  > Upvote medio: 2.5
+  > Upvote massimo: 35
+  > Sentiment medio: 0.010
+  > Soggettività: 0.385
+  > Engagement rate: 2.52
+  > Durata discussione: 40.1 giorni
+  > Primo commento: 29/07/2025 21:20
+  > Ultimo commento: 08/09/2025 00:42
+----------------------------------------
+
+#5 - 57 COMMENTI
+-Data post: 13/08/2025
+-Titolo: What do you think about Romania's positioning related to the conflict in Gaza?
+-Post ID: ('1moymwf', "What do you think about Romania's positioning related to the conflict in Gaza?")
+-Metriche:
+  > Commenti: 57
+  > Upvotes totali: 207
+  > Upvote medio: 3.6
+  > Upvote massimo: 34
+  > Sentiment medio: 0.071
+  > Soggettività: 0.391
+  > Engagement rate: 3.63
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 13/08/2025 10:20
+  > Ultimo commento: 14/08/2025 14:35
+----------------------------------------
+
+#6 - 45 COMMENTI
+-Data post: 08/10/2025
+-Titolo: Heavy caliber mortars sent from Romania to Israel. The state does not communicate about military exports
+-Post ID: ('1o11hxa', 'Heavy caliber mortars sent from Romania to Israel. The state does not communicate about military exports')
+-Metriche:
+  > Commenti: 45
+  > Upvotes totali: 148
+  > Upvote medio: 3.3
+  > Upvote massimo: 43
+  > Sentiment medio: 0.064
+  > Soggettività: 0.356
+  > Engagement rate: 3.29
+  > Durata discussione: 0.6 giorni
+  > Primo commento: 08/10/2025 07:42
+  > Ultimo commento: 08/10/2025 21:56
+----------------------------------------
+
+#7 - 44 COMMENTI
+-Data post: 08/10/2025
+-Titolo: Powerful weapons were sent from Romania to Israel with a special transport, according to a document
+-Post ID: ('1o12r6r', 'Powerful weapons were sent from Romania to Israel with a special transport, according to a document')
+-Metriche:
+  > Commenti: 44
+  > Upvotes totali: 457
+  > Upvote medio: 10.4
+  > Upvote massimo: 89
+  > Sentiment medio: 0.107
+  > Soggettività: 0.401
+  > Engagement rate: 10.39
+  > Durata discussione: 3.3 giorni
+  > Primo commento: 08/10/2025 08:30
+  > Ultimo commento: 11/10/2025 16:26
+----------------------------------------
+
+#8 - 39 COMMENTI
+-Data post: 14/06/2025
+-Titolo: The UN General Assembly adopted with an overwhelming majority the resolution on the cease-fire i
+-Post ID: ('1lb51dw', 'The UN General Assembly adopted with an overwhelming majority the resolution on the cease-fire i')
+-Metriche:
+  > Commenti: 39
+  > Upvotes totali: 211
+  > Upvote medio: 5.4
+  > Upvote massimo: 100
+  > Sentiment medio: 0.090
+  > Soggettività: 0.393
+  > Engagement rate: 5.41
+  > Durata discussione: 2.2 giorni
+  > Primo commento: 14/06/2025 12:06
+  > Ultimo commento: 16/06/2025 16:16
+----------------------------------------
+
+#9 - 31 COMMENTI
+-Data post: 14/06/2025
+-Titolo: Several aircraft were moved from Israel to Romania. Otopeni Airport no longer accepts planes f
+-Post ID: ('1lb3ols', 'Several aircraft were moved from Israel to Romania. Otopeni Airport no longer accepts planes f')
+-Metriche:
+  > Commenti: 31
+  > Upvotes totali: 1,263
+  > Upvote medio: 40.7
+  > Upvote massimo: 285
+  > Sentiment medio: 0.068
+  > Soggettività: 0.316
+  > Engagement rate: 40.74
+  > Durata discussione: 1.3 giorni
+  > Primo commento: 14/06/2025 10:41
+  > Ultimo commento: 15/06/2025 16:58
+----------------------------------------
+
+#10 - 26 COMMENTI
+-Data post: 03/08/2025
+-Titolo: I try to understand the pro-Palestine position and it gives me a comma.
+-Post ID: ('1mgkh23', 'I try to understand the pro-Palestine position and it gives me a comma.')
+-Metriche:
+  > Commenti: 26
+  > Upvotes totali: 79
+  > Upvote medio: 3.0
+  > Upvote massimo: 25
+  > Sentiment medio: -0.004
+  > Soggettività: 0.395
+  > Engagement rate: 3.04
+  > Durata discussione: 8.3 giorni
+  > Primo commento: 03/08/2025 16:31
+  > Ultimo commento: 12/08/2025 00:22
+----------------------------------------
+
+#11 - 25 COMMENTI
+-Data post: 27/11/2024
+-Titolo: Why does he call Gaza Gaza? From gas ... (K. Georgescu)
+-Post ID: ('1h0q5tp', 'Why does he call Gaza Gaza? From gas ... (K. Georgescu)')
+-Metriche:
+  > Commenti: 25
+  > Upvotes totali: 330
+  > Upvote medio: 13.2
+  > Upvote massimo: 71
+  > Sentiment medio: 0.076
+  > Soggettività: 0.350
+  > Engagement rate: 13.20
+  > Durata discussione: 55.0 giorni
+  > Primo commento: 27/11/2024 00:35
+  > Ultimo commento: 21/01/2025 01:23
+----------------------------------------
+
+#12 - 23 COMMENTI
+-Data post: 03/08/2025
+-Titolo: Creating a dependency on Israel by purchasing the anti-aircraft system is a serious strategic error
+-Post ID: ('1mgd7ro', 'Creating a dependency on Israel by purchasing the anti-aircraft system is a serious strategic error')
+-Metriche:
+  > Commenti: 23
+  > Upvotes totali: 43
+  > Upvote medio: 1.9
+  > Upvote massimo: 26
+  > Sentiment medio: 0.081
+  > Soggettività: 0.410
+  > Engagement rate: 1.87
+  > Durata discussione: 0.9 giorni
+  > Primo commento: 03/08/2025 09:35
+  > Ultimo commento: 04/08/2025 06:29
+----------------------------------------
+
+#13 - 18 COMMENTI
+-Data post: 22/05/2025
+-Titolo: Nicusor Dan responding to the congratulations.
+-Post ID: ('1ksu2tw', 'Nicusor Dan responding to the congratulations.')
+-Metriche:
+  > Commenti: 18
+  > Upvotes totali: 51
+  > Upvote medio: 2.8
+  > Upvote massimo: 17
+  > Sentiment medio: 0.144
+  > Soggettività: 0.451
+  > Engagement rate: 2.83
+  > Durata discussione: 101.5 giorni
+  > Primo commento: 22/05/2025 17:51
+  > Ultimo commento: 01/09/2025 05:07
+----------------------------------------
+
+#14 - 15 COMMENTI
+-Data post: 30/10/2024
+-Titolo: How did Geoana realize that she still knows Tal Hanan
+-Post ID: ('1gf8d7h', 'How did Geoana realize that she still knows Tal Hanan')
+-Metriche:
+  > Commenti: 15
+  > Upvotes totali: 67
+  > Upvote medio: 4.5
+  > Upvote massimo: 33
+  > Sentiment medio: -0.056
+  > Soggettività: 0.485
+  > Engagement rate: 4.47
+  > Durata discussione: 1.4 giorni
+  > Primo commento: 30/10/2024 00:48
+  > Ultimo commento: 31/10/2024 09:59
+----------------------------------------
+
+#15 - 15 COMMENTI
+-Data post: 28/01/2025
+-Titolo: In 1992, Romania (along with the USA and Israel) voted against lifting the embargo on Cuba. Know
+-Post ID: ('1icec78', 'In 1992, Romania (along with the USA and Israel) voted against lifting the embargo on Cuba. Know')
+-Metriche:
+  > Commenti: 15
+  > Upvotes totali: 98
+  > Upvote medio: 6.5
+  > Upvote massimo: 52
+  > Sentiment medio: 0.047
+  > Soggettività: 0.264
+  > Engagement rate: 6.53
+  > Durata discussione: 0.9 giorni
+  > Primo commento: 28/01/2025 23:40
+  > Ultimo commento: 29/01/2025 21:40
+----------------------------------------

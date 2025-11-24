@@ -1,0 +1,265 @@
+ REPORT POST PIÙ COMMENTATI - r/belgium
+================================================================================
+
+STATISTICHE GENERALI:
+> Post totali analizzati: 49
+> Commenti totali: 4,266
+> Commenti per post (media): 87.1
+
+TOP 10 POST PIÙ COMMENTATI:
+--------------------------------------------------------------------------------
+
+#1 - 906 COMMENTI
+-Data post: 18/05/2025
+-Titolo: Eurovision: why did our televoters vote so much for Israel?
+-Post ID: ('1kp5u6e', 'Eurovision: why did our televoters vote so much for Israel?')
+-Metriche:
+  > Commenti: 906
+  > Upvotes totali: 8,201
+  > Upvote medio: 9.1
+  > Upvote massimo: 1777
+  > Sentiment medio: 0.080
+  > Soggettività: 0.386
+  > Engagement rate: 9.05
+  > Durata discussione: 11.0 giorni
+  > Primo commento: 18/05/2025 01:08
+  > Ultimo commento: 29/05/2025 01:00
+----------------------------------------
+
+#2 - 251 COMMENTI
+-Data post: 04/08/2025
+-Titolo: NBC News: The Belgian airforce began dropping aid into Gaza amid the ongoing humanitarian disaster
+-Post ID: ('1mhftnd', 'NBC News: The Belgian airforce began dropping aid into Gaza amid the ongoing humanitarian disaster')
+-Metriche:
+  > Commenti: 251
+  > Upvotes totali: 1,759
+  > Upvote medio: 7.0
+  > Upvote massimo: 630
+  > Sentiment medio: 0.046
+  > Soggettività: 0.367
+  > Engagement rate: 7.01
+  > Durata discussione: 65.9 giorni
+  > Primo commento: 04/08/2025 17:01
+  > Ultimo commento: 09/10/2025 13:57
+----------------------------------------
+
+#3 - 227 COMMENTI
+-Data post: 10/10/2025
+-Titolo: Bouchez wants Belgian activists who were on the Gaza aid fleet to pay for repatriation themselves
+-Post ID: ('1o3bgp7', 'Bouchez wants Belgian activists who were on the Gaza aid fleet to pay for repatriation themselves')
+-Metriche:
+  > Commenti: 227
+  > Upvotes totali: 1,085
+  > Upvote medio: 4.8
+  > Upvote massimo: 138
+  > Sentiment medio: 0.056
+  > Soggettività: 0.378
+  > Engagement rate: 4.78
+  > Durata discussione: 2.8 giorni
+  > Primo commento: 10/10/2025 22:05
+  > Ultimo commento: 13/10/2025 16:52
+----------------------------------------
+
+#4 - 224 COMMENTI
+-Data post: 25/05/2025
+-Titolo: Israeli ambassador critical of Belgium in 'The seventh day': "Many Hamas supporters, also on VR
+-Post ID: ('1kuyfjc', 'Israeli ambassador critical of Belgium in \'The seventh day\': "Many Hamas supporters, also on VR')
+-Metriche:
+  > Commenti: 224
+  > Upvotes totali: 3,224
+  > Upvote medio: 14.4
+  > Upvote massimo: 344
+  > Sentiment medio: 0.021
+  > Soggettività: 0.391
+  > Engagement rate: 14.39
+  > Durata discussione: 111.0 giorni
+  > Primo commento: 25/05/2025 11:21
+  > Ultimo commento: 13/09/2025 10:50
+----------------------------------------
+
+#5 - 193 COMMENTI
+-Data post: 15/01/2025
+-Titolo: 6,600 professors and students call for an academic boycott of Israel, including Petra De Sutter and
+-Post ID: ('1i1tj3i', '6,600 professors and students call for an academic boycott of Israel, including Petra De Sutter and')
+-Metriche:
+  > Commenti: 193
+  > Upvotes totali: 485
+  > Upvote medio: 2.5
+  > Upvote massimo: 98
+  > Sentiment medio: 0.020
+  > Soggettività: 0.391
+  > Engagement rate: 2.51
+  > Durata discussione: 5.3 giorni
+  > Primo commento: 15/01/2025 10:10
+  > Ultimo commento: 20/01/2025 16:27
+----------------------------------------
+
+#6 - 189 COMMENTI
+-Data post: 11/09/2025
+-Titolo: German minister accuses Ghent Festival of 'sheer anti-Semitism' for canceling concert with Israeli
+-Post ID: ('1nejyqi', "German minister accuses Ghent Festival of 'sheer anti-Semitism' for canceling concert with Israeli")
+-Metriche:
+  > Commenti: 189
+  > Upvotes totali: 1,074
+  > Upvote medio: 5.7
+  > Upvote massimo: 183
+  > Sentiment medio: 0.055
+  > Soggettività: 0.365
+  > Engagement rate: 5.68
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 11/09/2025 22:45
+  > Ultimo commento: 13/09/2025 11:02
+----------------------------------------
+
+#7 - 188 COMMENTI
+-Data post: 24/03/2025
+-Titolo: Outrage over statements by MR chairman Bouchez: "No genocide in Gaza, because the Palestinian population is s
+-Post ID: ('1jiwhh6', 'Outrage over statements by MR chairman Bouchez: "No genocide in Gaza, because the Palestinian population is s')
+-Metriche:
+  > Commenti: 188
+  > Upvotes totali: 869
+  > Upvote medio: 4.6
+  > Upvote massimo: 107
+  > Sentiment medio: 0.066
+  > Soggettività: 0.358
+  > Engagement rate: 4.62
+  > Durata discussione: 42.7 giorni
+  > Primo commento: 24/03/2025 18:32
+  > Ultimo commento: 06/05/2025 11:09
+----------------------------------------
+
+#8 - 169 COMMENTI
+-Data post: 15/06/2025
+-Titolo: > 75,000 protesters take part in protest march in Brussels against Israeli violence in Gaza | VRT NW
+-Post ID: ('1lc645l', '> 75,000 protesters take part in protest march in Brussels against Israeli violence in Gaza | VRT NW')
+-Metriche:
+  > Commenti: 169
+  > Upvotes totali: 432
+  > Upvote medio: 2.6
+  > Upvote massimo: 121
+  > Sentiment medio: 0.029
+  > Soggettività: 0.383
+  > Engagement rate: 2.56
+  > Durata discussione: 6.7 giorni
+  > Primo commento: 15/06/2025 19:38
+  > Ultimo commento: 22/06/2025 11:15
+----------------------------------------
+
+#9 - 161 COMMENTI
+-Data post: 03/09/2025
+-Titolo: Politics - Prime Minister De Wever: "Gaza debate was conducted in moral terms, which really disturbed me
+-Post ID: ('1n78nbs', 'Politics - Prime Minister De Wever: "Gaza debate was conducted in moral terms, which really disturbed me')
+-Metriche:
+  > Commenti: 161
+  > Upvotes totali: 2,092
+  > Upvote medio: 13.0
+  > Upvote massimo: 193
+  > Sentiment medio: 0.036
+  > Soggettività: 0.402
+  > Engagement rate: 12.99
+  > Durata discussione: 1.5 giorni
+  > Primo commento: 03/09/2025 09:51
+  > Ultimo commento: 04/09/2025 21:41
+----------------------------------------
+
+#10 - 160 COMMENTI
+-Data post: 31/07/2025
+-Titolo: Vooruit chairman Rousseau speaks about a possible government crisis due to the situation in Gaza: "Not possible
+-Post ID: ('1mdw8b8', 'Vooruit chairman Rousseau speaks about a possible government crisis due to the situation in Gaza: "Not possible')
+-Metriche:
+  > Commenti: 160
+  > Upvotes totali: 986
+  > Upvote medio: 6.2
+  > Upvote massimo: 113
+  > Sentiment medio: 0.031
+  > Soggettività: 0.349
+  > Engagement rate: 6.16
+  > Durata discussione: 3.6 giorni
+  > Primo commento: 31/07/2025 10:42
+  > Ultimo commento: 04/08/2025 00:41
+----------------------------------------
+
+#11 - 138 COMMENTI
+-Data post: 03/09/2025
+-Titolo: War in Gaza - Netanyahu calls Bart De Wever "weak leader" now that our country is taking sanctions against Israel
+-Post ID: ('1n7l3cx', 'War in Gaza - Netanyahu calls Bart De Wever "weak leader" now that our country is taking sanctions against Israel')
+-Metriche:
+  > Commenti: 138
+  > Upvotes totali: 942
+  > Upvote medio: 6.8
+  > Upvote massimo: 277
+  > Sentiment medio: -0.003
+  > Soggettività: 0.444
+  > Engagement rate: 6.83
+  > Durata discussione: 4.1 giorni
+  > Primo commento: 03/09/2025 19:25
+  > Ultimo commento: 07/09/2025 21:34
+----------------------------------------
+
+#12 - 125 COMMENTI
+-Data post: 06/07/2025
+-Titolo: N-VA district mayor cancels artist who shouted 'Free Palestine' during Party in the City Park
+-Post ID: ('1lt9g7u', "N-VA district mayor cancels artist who shouted 'Free Palestine' during Party in the City Park")
+-Metriche:
+  > Commenti: 125
+  > Upvotes totali: 1,401
+  > Upvote medio: 11.2
+  > Upvote massimo: 193
+  > Sentiment medio: 0.065
+  > Soggettività: 0.435
+  > Engagement rate: 11.21
+  > Durata discussione: 79.7 giorni
+  > Primo commento: 06/07/2025 21:19
+  > Ultimo commento: 24/09/2025 14:21
+----------------------------------------
+
+#13 - 97 COMMENTI
+-Data post: 20/07/2025
+-Titolo: King Philip sharp about conflict in Gaza in July 21 speech: "Shame for humanity" | VRT NWS
+-Post ID: ('1m4n6mh', 'King Philip sharp about conflict in Gaza in July 21 speech: "Shame for humanity" | VRT NWS')
+-Metriche:
+  > Commenti: 97
+  > Upvotes totali: 754
+  > Upvote medio: 7.8
+  > Upvote massimo: 138
+  > Sentiment medio: 0.093
+  > Soggettività: 0.392
+  > Engagement rate: 7.77
+  > Durata discussione: 1.2 giorni
+  > Primo commento: 20/07/2025 14:00
+  > Ultimo commento: 21/07/2025 19:39
+----------------------------------------
+
+#14 - 95 COMMENTI
+-Data post: 08/08/2025
+-Titolo: Belgium's 'Kafkaesque' visa policy has 'devastating' consequences in Gaza, lawyers warn
+-Post ID: ('1mkpfph', "Belgium's 'Kafkaesque' visa policy has 'devastating' consequences in Gaza, lawyers warn")
+-Metriche:
+  > Commenti: 95
+  > Upvotes totali: 192
+  > Upvote medio: 2.0
+  > Upvote massimo: 43
+  > Sentiment medio: 0.080
+  > Soggettività: 0.342
+  > Engagement rate: 2.02
+  > Durata discussione: 9.2 giorni
+  > Primo commento: 08/08/2025 10:09
+  > Ultimo commento: 17/08/2025 15:19
+----------------------------------------
+
+#15 - 92 COMMENTI
+-Data post: 26/06/2025
+-Titolo: If we ask that Belgian universities should break ties with Israel, are we allowed to do so?
+-Post ID: ('1lkw17x', 'If we ask that Belgian universities should break ties with Israel, are we allowed to do so?')
+-Metriche:
+  > Commenti: 92
+  > Upvotes totali: 91
+  > Upvote medio: 1.0
+  > Upvote massimo: 16
+  > Sentiment medio: 0.060
+  > Soggettività: 0.382
+  > Engagement rate: 0.99
+  > Durata discussione: 2.5 giorni
+  > Primo commento: 26/06/2025 11:51
+  > Ultimo commento: 28/06/2025 22:47
+----------------------------------------

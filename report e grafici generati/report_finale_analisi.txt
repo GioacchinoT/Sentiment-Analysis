@@ -1,0 +1,9 @@
+REPORT FINALE - ANALISI DISCUSSIONI GAZA IN 20 NAZIONI EUROPEE
+============================================================
+
+Periodo analisi: 2024-10-24 11:08:30 - 2025-10-29 19:08:51
+Nazioni analizzate: 20
+Commenti totali: 141,686
+Sentiment medio globale: 0.041
+Engagement medio: 10.7
+
