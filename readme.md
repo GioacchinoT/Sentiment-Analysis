@@ -1,5 +1,5 @@
 # Sentiment Analysis dell'Opinione Pubblica sul Conflitto a Gaza: Studio Comparativo su Reddit in Ambito Europeo
-## 📖 Descrizione del Progetto
+## Descrizione del Progetto
 
 Questo progetto universitario propone un'analisi computazionale estensiva delle dinamiche di opinione, del sentiment e dell'evoluzione tematica riguardanti il conflitto di Gaza all'interno di 20 comunità nazionali europee sulla piattaforma Reddit.
 
@@ -57,13 +57,13 @@ Il progetto è strutturato in un'architettura modulare sequenziale in Python, di
 Istruzioni per l'Esecuzione
 Il sistema è progettato per essere eseguito interamente tramite un unico entry point che sequenzia automaticamente tutte le fasi dell'analisi.
 
-1. Avvio dell'Analisi
+1. Avvio dell'Analisi: 
 Per eseguire il programma completo, posizionarsi nella root del progetto ed eseguire il file main.py:
 
 ```bash
 python main.py
 ```
-2. Output e Risultati
+2. Output e Risultati: 
 Al termine dell'esecuzione, non è necessario monitorare la console. Tutti i risultati (statistiche, tabelle, log di avanzamento e insight) vengono reindirizzati e salvati automaticamente in un file di testo all'interno della cartella risultati/.
 
 File di output: Il nome del file includerà il timestamp dell'esecuzione (es. risultati/risultati_20251124_103000.txt).
