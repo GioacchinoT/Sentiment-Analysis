@@ -2,9 +2,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 def analisi_cluster_nazioni(metriche_nazioni):
-    """
-    Crea cluster di nazioni basati su similarità di volume commenti e engagement ratio
-    """
+
     print("\n")
     print("="*50, "> CLUSTERING NAZIONI PER SIMILARITÀ...")
     

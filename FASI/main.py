@@ -8,12 +8,6 @@ from FASE5 import modulo5_1, modulo5_2, modulo5_3, modulo5_4, modulo5_5
 from FILE_GRAFICI_FINALI import post_più_commentati, grafici_eventi
 
 
-##############################################################################################################################
-
-########   MODIFICHE NON TESTATE --> 2_3, 3_1, 3_2, 4_2
-
-################################################################################################################################
-
 if __name__ == "__main__":
     # Configura pandas per mostrare TUTTE le colonne e righe
     pd.set_option('display.max_columns', None)
@@ -80,7 +74,7 @@ if __name__ == "__main__":
             ########EVENTI
 
             nazioni_analizzate = grafici_eventi.crea_grafici_temporali_con_eventi(df_temporale, andamento_giornaliero, evoluzione_nazionale, eventi_significativi)
-
+            grafici_eventi.crea_report_eventi_globali(df_temporale)
             risultati_post_virali = post_più_commentati.genera_analisi_post_virali(df_sentiment)
 
             

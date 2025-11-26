@@ -3,9 +3,7 @@ import seaborn as sns
 import numpy as np
 
 def crea_visualizzazioni_comparative(metriche_nazioni, df):
-    """
-    Crea visualizzazioni comparative tra tutte le nazioni
-    """
+
     print("\n")
     print("="*50, "> CREAZIONE VISUALIZZAZION COMPARATIVE... (modulo 2_2)")
 

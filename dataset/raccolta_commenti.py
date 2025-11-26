@@ -4,8 +4,8 @@ from datetime import datetime
 import time
 
 # Configurazione Reddit API
-CLIENT_ID = "INSERIRE_KEY"  
-CLIENT_SECRET = "INSERIRE_KEY"  
+CLIENT_ID = "INSERIRE_API_KEY"  
+CLIENT_SECRET = "INSERIRE_API_KEY"  
 # ========================================
 
 

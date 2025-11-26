@@ -1,0 +1,1287 @@
+Output reindirizzato su: risultati/risultati_20251126_191833.txt
+============================================================
+caricamento dataset...
+--> Dataset caricato: dataset/ds_fine.csv
+--> Righe: 142,594
+ ---------- Setting preliminare effettuato ------------
+
+============================================================
+         INIZIO ANALISI FASE 2: ANALISI COMPARATIVA NAZIONI
+============================================================
+
+
+-------------------------------------------------- > PRE PROCESSING DATI... 
+
+   > Commenti rimossi (troppo corti): 908
+   > Convertita colonna data: comment_created
+   > Convertita colonna data: data_raccolta
+   > Nazioni presenti (20): ['italy' 'france' 'de' 'unitedkingdom' 'spain' 'poland' 'sweden' 'denmark'
+ 'portugal' 'greece' 'hungary' 'austria' 'switzerland' 'ireland' 'belgium'
+ 'czech' 'romania' 'netherlands' 'norway' 'ukraine']
+ Preprocessing completato: 141686 righe
+
+
+================================================== > ANALISI COMPARATIVA PRELIMINARE TRA NAZIONI... (modulo 2_1)
+                                                   
+ TABELLA METRICHE FONDAMENTALI PER NAZIONE:
+
+METRICHE COMPLETE:
+------------------------------------------------------------------------------------------------------------------------
+               commenti_totali  commenti_unici  upvotes_totali  upvote_medio  upvote_mediano  upvote_devstd  upvote_max  post_score_medio  post_score_max  lunghezza_media_caratteri  engagement_ratio  commenti_per_post
+subreddit                                                                                                                                                                                                                
+austria                    274             274            7208         26.31             6.0          84.74         643            589.81            1470                      99.89             26.31               22.8
+belgium                   4266            4266           28952          6.79             1.0          38.08        1777            364.12            1134                     129.29              6.79               87.1
+czech                     2268            2268           10394          4.58             2.0          14.29         269            118.36            1153                     153.87              4.58               26.1
+de                        6575            6575          134687         20.48             6.0          65.98        1344            668.08            1964                     124.42             20.48               79.2
+denmark                  11823           11823           57923          4.90             1.0          21.27        1025            188.19             731                     139.47              4.90              120.6
+france                   23651           23651          319634         13.51             4.0          42.03        1394            343.96            3362                     125.37             13.51               51.2
+greece                    4567            4567           24008          5.26             2.0          17.89         261             87.26             375                     120.78              5.26               21.5
+hungary                    995             995            7059          7.09             2.0          28.18         501            227.48            1014                     143.67              7.09               36.9
+ireland                  21878           21878          313208         14.32             3.0          58.85        1584           1104.92           14600                     119.45             14.32              117.6
+italy                    21503           21503          139081          6.47             2.0          23.91         577            284.07             920                     129.18              6.47               99.1
+netherlands                 17              17              75          4.41             2.0           8.82          35              0.00               0                     174.47              4.41                8.5
+norway                      93              93             635          6.83             2.0          19.21         141            142.97             831                     146.62              6.83               31.0
+poland                      56              56             138          2.46             2.0           6.89          23            287.16             752                     157.73              2.46                8.0
+portugal                  5118            5118           36554          7.14             2.0          32.83         885            286.63             884                     129.21              7.14               91.4
+romania                   1134            1134           11334          9.99             2.0          41.31         812            319.10             606                     140.69              9.99               39.1
+spain                      789             789            5845          7.41             1.0          44.54        1011          12512.57           18196                     110.63              7.41              197.2
+sweden                   20370           20370          149340          7.33             2.0          40.12        1557            702.70            6435                     137.24              7.33              161.7
+switzerland               3238            3238           22524          6.96             2.0          36.34         915            553.89            1945                     128.82              6.96              161.9
+ukraine                     10              10             340         34.00            20.0          36.47         124            467.00             467                     138.70             34.00               10.0
+unitedkingdom            13061           13061          249244         19.08             4.0          75.97        2915            668.33            5716                     138.89             19.08               56.1
+------------------------------------------------------------------------------------------------------------------------
+
+
+                                                   CLASSIFICHE NAZIONALI (top 5)
+
+ ---->  VOLUME COMMENTI:
+   • r/france: 23651
+   • r/ireland: 21878
+   • r/italy: 21503
+   • r/sweden: 20370
+   • r/unitedkingdom: 13061
+
+ ---->  ENGAGEMENT RATIO:
+   • r/ukraine: 34.0
+   • r/austria: 26.31
+   • r/de: 20.48
+   • r/unitedkingdom: 19.08
+   • r/ireland: 14.32
+
+ ---->  UPVOTE MEDIO:
+   • r/ukraine: 34.0
+   • r/austria: 26.31
+   • r/de: 20.48
+   • r/unitedkingdom: 19.08
+   • r/ireland: 14.32
+
+ ---->  COMMENTO PIU  VIRALE:
+   • r/unitedkingdom: 2915
+   • r/belgium: 1777
+   • r/ireland: 1584
+   • r/sweden: 1557
+   • r/france: 1394
+
+ ---->  LUNGHEZZA COMMENTI:
+   • r/netherlands: 174.47
+   • r/poland: 157.73
+   • r/czech: 153.87
+   • r/norway: 146.62
+   • r/hungary: 143.67
+
+  TOP POST PER NAZIONE
+--------------------------------------------------
+Post più discussi per engagement:
+                                                                                                                    commenti_totali  engagement_totale
+subreddit     post_title                                                                                                                              
+ireland       Israel to close embassy in Ireland                                                                                532              19359
+sweden        Greta Thunberg and the other activists on the Madleen have just been kidnapped by Israel.                        1360              11972
+unitedkingdom Palestine Action to be banned after RAF base break in                                                             329              11396
+de            Israel attacks Iran                                                                                               293              10578
+ireland       Ireland is 'out of step' with the United States on Israel, US ambassador nominee is told                          189              10202
+unitedkingdom Azealia Banks pulls out of London festival after 'being pressured to support Palestine'                           147               9925
+ireland       Kneecap apologizes to family of murdered Tory MP and says it does not support Hamas or Hezbollah                  605               9829
+unitedkingdom Lush temporarily closes all UK stores in 'solidarity with Gaza'                                                   348               9495
+              Pro-Palestine protestors blasted as 'disgusting' as they march in Manchester - just miles from synag              335               9390
+sweden        Busch: "Israel is doing the whole world a favor"                                                                  665               9336
+----------------------------------------
+----> RAPPORTO COMMENTI / POST PER NAZIONE
+----------------------------------------
+• r/spain:
+              789.0 commenti / 4 post = 197.2 commenti per post
+• r/switzerland:
+              3238.0 commenti / 20 post = 161.9 commenti per post
+• r/sweden:
+              20370.0 commenti / 126 post = 161.7 commenti per post
+• r/denmark:
+              11823.0 commenti / 98 post = 120.6 commenti per post
+• r/ireland:
+              21878.0 commenti / 186 post = 117.6 commenti per post
+• r/italy:
+              21503.0 commenti / 217 post = 99.1 commenti per post
+• r/portugal:
+              5118.0 commenti / 56 post = 91.4 commenti per post
+• r/belgium:
+              4266.0 commenti / 49 post = 87.1 commenti per post
+• r/de:
+              6575.0 commenti / 83 post = 79.2 commenti per post
+• r/unitedkingdom:
+              13061.0 commenti / 233 post = 56.1 commenti per post
+• r/france:
+              23651.0 commenti / 462 post = 51.2 commenti per post
+• r/romania:
+              1134.0 commenti / 29 post = 39.1 commenti per post
+• r/hungary:
+              995.0 commenti / 27 post = 36.9 commenti per post
+• r/norway:
+              93.0 commenti / 3 post = 31.0 commenti per post
+• r/czech:
+              2268.0 commenti / 87 post = 26.1 commenti per post
+• r/austria:
+              274.0 commenti / 12 post = 22.8 commenti per post
+• r/greece:
+              4567.0 commenti / 212 post = 21.5 commenti per post
+• r/ukraine:
+              10.0 commenti / 1 post = 10.0 commenti per post
+• r/netherlands:
+              17.0 commenti / 2 post = 8.5 commenti per post
+• r/poland:
+              56.0 commenti / 7 post = 8.0 commenti per post
+
+
+================================================== > CREAZIONE VISUALIZZAZION COMPARATIVE... (modulo 2_2)
+Grafici salvati ----------->  report e grafici generati/analisi_comparativa_nazioni.png
+
+
+================================================== > CLUSTERING NAZIONI PER SIMILARITÀ...
+
+============================================================
+CLUSTER TROVATI:
+============================================================
+
+--> CLUSTER 1:
+   > Volume: 2,864 ± 3,373 commenti
+   > Engagement: 6.15 ± 1.94
+   > Nazioni (12):
+      > r/belgium (4,266 commenti, engagement: 6.79)
+      > r/czech (2,268 commenti, engagement: 4.58)
+      > r/denmark (11,823 commenti, engagement: 4.90)
+      > r/greece (4,567 commenti, engagement: 5.26)
+      > r/hungary (995 commenti, engagement: 7.09)
+      > r/netherlands (17 commenti, engagement: 4.41)
+      > r/norway (93 commenti, engagement: 6.83)
+      > r/poland (56 commenti, engagement: 2.46)
+      > r/portugal (5,118 commenti, engagement: 7.14)
+      > r/romania (1,134 commenti, engagement: 9.99)
+      > r/spain (789 commenti, engagement: 7.41)
+      > r/switzerland (3,238 commenti, engagement: 6.96)
+
+--> CLUSTER 2:
+   > Volume: 9,818 ± 4,586 commenti
+   > Engagement: 19.78 ± 0.99
+   > Nazioni (2):
+      > r/de (6,575 commenti, engagement: 20.48)
+      > r/unitedkingdom (13,061 commenti, engagement: 19.08)
+
+--> CLUSTER 3:
+   > Volume: 21,850 ± 1,361 commenti
+   > Engagement: 10.41 ± 4.08
+   > Nazioni (4):
+      > r/france (23,651 commenti, engagement: 13.51)
+      > r/ireland (21,878 commenti, engagement: 14.32)
+      > r/italy (21,503 commenti, engagement: 6.47)
+      > r/sweden (20,370 commenti, engagement: 7.33)
+
+--> CLUSTER 4:
+   > Volume: 142 ± 187 commenti
+   > Engagement: 30.16 ± 5.44
+   > Nazioni (2):
+      > r/austria (274 commenti, engagement: 26.31)
+      > r/ukraine (10 commenti, engagement: 34.00)
+
+============================================================
+DISTRIBUZIONE CLUSTER:
+============================================================
+   CLUSTER 1: 12 nazioni - 2,864 commenti, engagement 6.15
+   CLUSTER 3: 4 nazioni - 21,850 commenti, engagement 10.41
+   CLUSTER 4: 2 nazioni - 142 commenti, engagement 30.16
+   CLUSTER 2: 2 nazioni - 9,818 commenti, engagement 19.78
+
+
+================================================== > REPORT RIASSUNTIVO - FASE 2: ANALISI COMPARATIVA NAZIONI (modulo 2_4)
+-->>STATISTICHE GLOBALI:
+   > Nazioni analizzate: 20
+   > Commenti totali: 141,686
+   > Upvotes totali: 1,518,183
+   > Engagement ratio medio: 10.77
+   > Nazione più attiva: r/france (23651 commenti)
+   > Miglior engagement: r/ukraine (34.00 upvotes/commento)
+   > Commento più virale: r/unitedkingdom (2915 upvotes)
+   > Variabilità engagement: 76.6% (alta variabilità tra nazioni)
+   > Correlazione volume-engagement: -0.006
+
+ ---->      Metriche salvate: report e grafici generati/metriche_nazioni.csv
+
+
+================================================== > APPLICAZIONE CATEGORIZZAZIONE TEMATICA ... (modulo 3_1) 
+
+--> RISULTATI CATEGORIZZAZIONE:
+   > Commenti categorizzati: 83,969/141,686 (59.3%)
+   > Temi per commento (media): 1.08
+
+--> COMMENTI CATEGORIZZATI PER NAZIONE:
+   > r/italy: 21,503 commenti, 58.3% categorizzati
+   > r/france: 23,651 commenti, 58.4% categorizzati
+   > r/de: 6,575 commenti, 59.5% categorizzati
+   > r/unitedkingdom: 13,061 commenti, 62.9% categorizzati
+   > r/spain: 789 commenti, 51.0% categorizzati
+   > r/poland: 56 commenti, 69.6% categorizzati
+   > r/sweden: 20,370 commenti, 61.4% categorizzati
+   > r/denmark: 11,823 commenti, 63.8% categorizzati
+   > r/portugal: 5,118 commenti, 55.9% categorizzati
+   > r/greece: 4,567 commenti, 52.9% categorizzati
+
+
+================================================== > ANALISI TEMATICHE TRANSNAZONALI... (modulo 3_2)
+----------------------------------------
+1. DISTRIBUZIONE TEMI:
+----------------------------------------
+   > solidarity_support: 30501 commenti (21.5%)
+     Expressions of solidarity and peace appeals
+   > human_rights: 25820 commenti (18.2%)
+     Humanitarian issues and fundamental rights
+   > international_politics: 25555 commenti (18.0%)
+     International politics and relations
+   > government_criticism: 24452 commenti (17.3%)
+     Criticism of governments and leadership
+   > violence_protests: 21908 commenti (15.5%)
+     Violence during protests
+   > media_narrative: 18045 commenti (12.7%)
+     Media discussions and narrative
+   > economic_consequences: 7385 commenti (5.2%)
+     Economic consequences of the conflict
+
+ 2. PROFILO TEMATICO PER NAZIONE
+----------------------------------------
+Temi dominanti per nazione (top 3):
+----------------------------------------
+
+   r/italy:
+      > solidarity_support: 20.5%
+      > international_politics: 17.5%
+      > human_rights: 16.5%
+
+   r/france:
+      > solidarity_support: 20.2%
+      > international_politics: 19.5%
+      > government_criticism: 15.3%
+
+   r/de:
+      > international_politics: 21.9%
+      > solidarity_support: 20.2%
+      > government_criticism: 18.4%
+
+   r/unitedkingdom:
+      > solidarity_support: 24.6%
+      > government_criticism: 24.5%
+      > violence_protests: 24.1%
+
+   r/spain:
+      > international_politics: 17.1%
+      > solidarity_support: 16.9%
+      > government_criticism: 15.8%
+
+   r/poland:
+      > solidarity_support: 32.1%
+      > human_rights: 32.1%
+      > international_politics: 25.0%
+
+   r/sweden:
+      > solidarity_support: 23.3%
+      > human_rights: 18.8%
+      > international_politics: 16.4%
+
+   r/denmark:
+      > solidarity_support: 23.1%
+      > human_rights: 22.3%
+      > international_politics: 17.4%
+
+   r/portugal:
+      > solidarity_support: 19.9%
+      > human_rights: 17.4%
+      > international_politics: 16.7%
+
+   r/greece:
+      > solidarity_support: 19.7%
+      > human_rights: 15.9%
+      > international_politics: 15.1%
+
+   r/hungary:
+      > human_rights: 26.0%
+      > solidarity_support: 23.3%
+      > government_criticism: 16.1%
+
+   r/austria:
+      > solidarity_support: 16.4%
+      > international_politics: 13.1%
+      > government_criticism: 11.7%
+
+   r/switzerland:
+      > solidarity_support: 25.6%
+      > human_rights: 24.7%
+      > international_politics: 18.1%
+
+   r/ireland:
+      > solidarity_support: 19.5%
+      > government_criticism: 18.9%
+      > human_rights: 18.0%
+
+   r/belgium:
+      > international_politics: 21.7%
+      > solidarity_support: 21.0%
+      > human_rights: 19.6%
+
+   r/czech:
+      > solidarity_support: 27.3%
+      > human_rights: 24.6%
+      > violence_protests: 14.8%
+
+   r/romania:
+      > solidarity_support: 25.0%
+      > international_politics: 19.4%
+      > violence_protests: 14.5%
+
+   r/netherlands:
+      > solidarity_support: 58.8%
+      > violence_protests: 47.1%
+      > human_rights: 41.2%
+
+   r/norway:
+      > government_criticism: 26.9%
+      > international_politics: 25.8%
+      > violence_protests: 21.5%
+
+   r/ukraine:
+      > human_rights: 40.0%
+      > violence_protests: 20.0%
+      > solidarity_support: 20.0%
+
+
+================================================== > ANALISI CLUSTER E SEGMENTAZIONE NAZIONI... (modulo 3_3)
+
+Visualizzazione salvata: report e grafici generati/analisi_tematiche_transnazionali.png
+
+
+================================================== >  APPLICAZIONE SENTIMENT ANALYSIS ... (modulo 4_1) 
+--> ANALISI COMPLETATA:
+----------------------------------------
+   > Commenti analizzati: 141,686
+   > Distribuzione sentiment:
+      > neutro: 76,644 commenti (54.1%)
+      > positivo: 41,560 commenti (29.3%)
+      > negativo: 23,482 commenti (16.6%)
+   > Polarità media: 0.041
+   > Soggettività media: 0.360
+
+
+================================================== >  ANALISI SENTIMENT COMPARATA TRA NAZIONI... (modulo 4_2) 
+----------------------------------------
+1. STATISTICHE SENTIMENT GLOBALI
+----------------------------------------
+Polarita globale: 0.041 (dev_std=0.240)
+Soggettività globale: 0.360
+
+Distribuzione categorie sentiment:
+   > neutro: 54.1%
+   > positivo: 29.3%
+   > negativo: 16.6%
+----------------------------------------
+2. ANALISI PER NAZIONE --> SENTIMENT PER NAZIONE
+----------------------------------------
+Nazioni ordinate per polarità media (dalla più positiva):
+----------------------------------------
+   • r/norway: 0.084 (±0.349, 41.9% positivi)
+   • r/netherlands: 0.075 (±0.251, 47.1% positivi)
+   • r/ukraine: 0.074 (±0.110, 20.0% positivi)
+   • r/spain: 0.071 (±0.265, 32.6% positivi)
+   • r/austria: 0.063 (±0.239, 25.5% positivi)
+   • r/hungary: 0.055 (±0.245, 31.9% positivi)
+   • r/belgium: 0.054 (±0.250, 32.2% positivi)
+   • r/romania: 0.053 (±0.245, 31.0% positivi)
+   • r/czech: 0.052 (±0.241, 33.2% positivi)
+   • r/switzerland: 0.049 (±0.244, 30.7% positivi)
+----------------------------------------
+3. SENTIMENT PER COPPIA TEMA-NAZIONE
+----------------------------------------
+Combinazioni TEMA-NAZIONE più POSITIVE:
+----------------------------------------
+   > r/netherlands - violence_protests: 0.153 (8 commenti)
+   > r/poland - solidarity_support: 0.126 (18 commenti)
+   > r/spain - media_narrative: 0.120 (74 commenti)
+   > r/austria - human_rights: 0.115 (28 commenti)
+   > r/netherlands - human_rights: 0.100 (7 commenti)
+
+Combinazioni TEMA-NAZIONE più NEGATIVE:
+----------------------------------------
+   > r/netherlands - media_narrative: -0.108 (4 commenti)
+   > r/norway - economic_consequences: -0.083 (3 commenti)
+   > r/norway - violence_protests: -0.057 (20 commenti)
+   > r/poland - media_narrative: -0.054 (6 commenti)
+   > r/austria - violence_protests: -0.041 (28 commenti)
+----------------------------------------
+4. ANALISI POLARIZZAZIONE NAZIONALE
+----------------------------------------
+Nazioni più polarizzate (alta varianza + molti commenti estremi):
+   >< r/norway: indice=0.037, estremi=30.1%
+   >< r/spain: indice=0.016, estremi=22.2%
+   >< r/poland: indice=0.014, estremi=19.6%
+   >< r/portugal: indice=0.012, estremi=18.9%
+   >< r/belgium: indice=0.012, estremi=19.0%
+
+
+================================================== >  CREAZIONE VISUALIZZAZIONI SENTIMENT AVANZATE ... (modulo 4_3) 
+ ----------------->   Visualizzazione salvata: report e grafici generati/analisi_sentiment_comparata.png
+
+
+================================================== CREAZIONE GRAFICO DISTRIBUZIONE POLARIZZAZIONE...
+------------> Grafico polarizzazione salvato: report e grafici generati/distribuzione_polarizzazione_dettagliata.png
+
+
+================================================== >  ANALISI CLUSTER DI SENTIMENT... (modulo 4_4) 
+----------------------------------------
+1. CLUSTER NAZIONI PER PROFILO SENTIMENT
+----------------------------------------
+
+Composizione cluster:
+----------------------------------------
+
+   DISCUSSIONI LEGGERMENTE POSITIVE E OGGETTIVE:
+      • r/austria (polarità: 0.063, soggettività: 0.312)
+      • r/de (polarità: 0.038, soggettività: 0.353)
+      • r/france (polarità: 0.039, soggettività: 0.349)
+      • r/greece (polarità: 0.038, soggettività: 0.314)
+      • r/ireland (polarità: 0.044, soggettività: 0.357)
+      • r/italy (polarità: 0.036, soggettività: 0.350)
+      • r/poland (polarità: 0.016, soggettività: 0.395)
+      • r/portugal (polarità: 0.043, soggettività: 0.345)
+      • r/switzerland (polarità: 0.049, soggettività: 0.355)
+      • r/unitedkingdom (polarità: 0.030, soggettività: 0.352)
+
+   DISCUSSIONI POSITIVE E SOGGETTIVE:
+      • r/norway (polarità: 0.084, soggettività: 0.438)
+      • r/ukraine (polarità: 0.074, soggettività: 0.474)
+
+   DISCUSSIONI NEUTRALI E BILANCIATE:
+      • r/belgium (polarità: 0.054, soggettività: 0.386)
+      • r/czech (polarità: 0.052, soggettività: 0.403)
+      • r/denmark (polarità: 0.049, soggettività: 0.382)
+      • r/hungary (polarità: 0.055, soggettività: 0.403)
+      • r/netherlands (polarità: 0.075, soggettività: 0.395)
+      • r/romania (polarità: 0.053, soggettività: 0.378)
+      • r/spain (polarità: 0.071, soggettività: 0.356)
+      • r/sweden (polarità: 0.045, soggettività: 0.383)
+----------------------------------------
+2. ANALISI COMMENTI ESTREMI
+----------------------------------------
+Commenti più POSITIVI:
+----------------------------------------
+   > r/italy: 1.000 (59 upvotes)
+     'Great research!'
+
+   > r/italy: 1.000 (2 upvotes)
+     'Reading your post I was hoping for the plot twist of Gaza cola produced in Israel. But in the end he is a Palestinian who would seem perfect for integrating into Israel.'
+
+   > r/italy: 1.000 (-1 upvotes)
+     'Excellent journalistic work'
+
+   > r/italy: 1.000 (1 upvotes)
+     'An intelligible, wonderful fifth level web domain!'
+
+   > r/italy: 1.000 (1 upvotes)
+     'Congratulations to the photographer who caught the chair in flight and photographed it perfectly'
+
+
+Commenti più NEGATIVI:
+----------------------------------------
+   > r/italy: -1.000 (1 upvotes)
+     'What disgusting Zionists'
+
+   > r/italy: -1.000 (1 upvotes)
+     'But we are not talking about the Zionist principles of Israel here. 
+
+Here we are talking about the extermination of Gaza. Which is a method of applying Zionism that has never been as 'cruel' as it is today.'
+
+   > r/italy: -1.000 (1 upvotes)
+     'Disgusted 🤢'
+
+   > r/italy: -1.000 (-1 upvotes)
+     'It's not benevolent, it's simply disgusting'
+
+   > r/italy: -1.000 (2 upvotes)
+     'A truly shocking comments section.'
+
+
+
+================================================== > ANALISI DELLA CORRELAZIONI TRA TEMATICHE E SENTIMENT ... (modulo 4_5) 
+Calcolo sentiment per commenti...
+----------------------------------------
+1. SENTIMENT MEDIO PER TEMA:
+----------------------------------------
+--> Temi ordinati per sentiment (da più positivo a più negativo):
+----------------------------------------
+   • economic_consequences: 0.056
+   • international_politics: 0.050
+   • human_rights: 0.045
+   • solidarity_support: 0.041
+   • media_narrative: 0.038
+   • violence_protests: 0.032
+   • government_criticism: 0.029
+----------------------------------------
+2. SENTIMENT PER COPPIA TEMA-NAZIONE (Top 5):
+----------------------------------------
+Combinazioni più NEGATIVE:
+----------------------------------------
+   • r/norway - violence_protests: -0.057 (20 commenti)
+   • r/poland - media_narrative: -0.054 (6 commenti)
+   • r/austria - violence_protests: -0.041 (28 commenti)
+   • r/spain - violence_protests: -0.022 (74 commenti)
+   • r/norway - human_rights: -0.001 (18 commenti)
+
+Combinazioni più POSITIVE:
+----------------------------------------
+   • r/netherlands - human_rights: 0.100 (7 commenti)
+   • r/austria - human_rights: 0.115 (28 commenti)
+   • r/spain - media_narrative: 0.120 (74 commenti)
+   • r/poland - solidarity_support: 0.126 (18 commenti)
+   • r/netherlands - violence_protests: 0.153 (8 commenti)
+----------------------------------------
+3. CREAZIONE MATRICE DI CORRELAZIONE TRA TEMI:
+----------------------------------------
+Correlazioni tematiche più forti:
+----------------------------------------
+   • international_politics ↔ government_criticism: 0.357
+   • violence_protests ↔ government_criticism: 0.335
+   • international_politics ↔ violence_protests: 0.238
+   • violence_protests ↔ human_rights: 0.152
+   • human_rights ↔ government_criticism: 0.132
+   • solidarity_support ↔ human_rights: 0.115
+
+
+================================================== > REPORT RIASSUNTIVO - FASE 4: ANALISI DI SENTIMENT COMPARATA(modulo 4_6)
+STATISTICHE GLOBALI:
+----------------------------------------
+   > Commenti analizzati: 141,686
+   > Polarità media globale: 0.041
+   > Soggettività media globale: 0.360
+   > Nazioni con sentiment positivo: 20
+   > Nazioni con sentiment negativo: 0
+
+INSIGHTS PRINCIPALI:
+----------------------------------------
+   > Nazione più positiva: r/norway (0.084)
+   > Nazione più negativa: r/poland (0.016)
+   > Tema più positivo: violence_protests
+   > Tema più negativo: media_narrative
+   > Nazione più polarizzata: r/norway
+
+ PATTERN REGIONALI:
+----------------------------------------
+   > Europa Occidentale: 0.048 (5 nazioni)
+   > Europa Centrale: 0.051 (4 nazioni)
+   > Europa Meridionale: 0.047 (4 nazioni)
+   > Europa Settentrionale: 0.059 (3 nazioni)
+   > Europa Orientale: 0.041 (3 nazioni)
+   > Area più positiva: Europa Settentrionale
+   > Area più negativa: Europa Orientale
+
+ CORRELAZIONI SIGNIFICATIVE:
+----------------------------------------
+   > Correlazione polarità-engagement globale: -0.003
+   > Correlazioni più forti per nazione:
+      r/austria: 0.150
+      r/spain: -0.060
+      r/czech: -0.052
+
+-----> Dataset con sentiment salvato: report e grafici generati/dataset_sentiment_completo.csv
+-----> Metriche sentiment per nazione salvate: report e grafici generati/metriche_sentiment_nazioni.csv
+----> Analisi temi-sentiment salvata: report e grafici generati/analisi_temi_sentiment.csv
+
+============================================================
+ANALISI SENTIMENT PER POST - NAZIONALMENTE
+============================================================
+
+ r/ITALY:
+   Post totali analizzati: 219
+   > Post più POSITIVO: 0.400
+   > Post più NEGATIVO: -1.000
+   > Post più POLARIZZATO: 0.231
+
+================================================================================
+🇮🇹 ANALISI DETTAGLIATA - r/italy
+================================================================================
+
+-------------- I 5 POST PIÙ NEGATIVI:
+--------------------------------------------------------------------------------
+
+1 [NEGATIVITÀ: -1.000] - Polarizzazione: nan
+   - Caffè Italia * 02/10/25
+   - 1.0 commenti | 8.0 upvotes totali
+   - Post ID: 1nvsjq9
+------------------------------------------------------------
+
+2 [NEGATIVITÀ: -0.500] - Polarizzazione: nan
+   - Caffè Italia * 17/07/25
+   - 1.0 commenti | 8.0 upvotes totali
+   - Post ID: 1m1whyc
+------------------------------------------------------------
+
+3 [NEGATIVITÀ: -0.433] - Polarizzazione: nan
+   - Caffè Italia * 24/06/25
+   - 1.0 commenti | 2.0 upvotes totali
+   - Post ID: 1lj08da
+------------------------------------------------------------
+
+4 [NEGATIVITÀ: -0.400] - Polarizzazione: nan
+   - Caffè Italia * 08/31/25
+   - 1.0 commenti | 1.0 upvotes totali
+   - Post ID: 1n4jxpx
+------------------------------------------------------------
+
+5 [NEGATIVITÀ: -0.350] - Polarizzazione: nan
+   - Caffè Italia * 22/07/25
+   - 1.0 commenti | 6.0 upvotes totali
+   - Post ID: 1m62zx0
+------------------------------------------------------------
+
+--------- I 5 POST PIÙ POLARIZZATI:
+--------------------------------------------------------------------------------
+
+1 [POLARIZZAZIONE: 0.231] - Tendenza: NEUTRA
+   - Israel attacked Iran
+   - Deviazione: 0.231 | Sentiment: 0.046
+   - 1109.0 commenti | 6727.0 upvotes totali
+   - Post ID: 1la7h40
+------------------------------------------------------------
+
+2 [POLARIZZAZIONE: 0.159] - Tendenza: NEUTRA
+   - Guerrilla war in Milan: pro Gazars attack the station. Throwing stones and charges, 10 arrested and 60 arrested
+   - Deviazione: 0.246 | Sentiment: 0.023
+   - 715.0 commenti | 4288.0 upvotes totali
+   - Post ID: 1nnrqzq
+------------------------------------------------------------
+
+3 [POLARIZZAZIONE: 0.116] - Tendenza: NEUTRA
+   - 'Zionist Professor', pro-Palestine blitz in the university classroom
+   - Deviazione: 0.237 | Sentiment: 0.026
+   - 541.0 commenti | 2874.0 upvotes totali
+   - Post ID: 1nj5dct
+------------------------------------------------------------
+
+4 [POLARIZZAZIONE: 0.115] - Tendenza: NEUTRA
+   - opinions on the strike for gaza on monday 22 september?
+   - Deviazione: 0.241 | Sentiment: 0.044
+   - 531.0 commenti | 2686.0 upvotes totali
+   - Post ID: 1nm9mfp
+------------------------------------------------------------
+
+5 [POLARIZZAZIONE: 0.101] - Tendenza: NEUTRA
+   - Jews insulted and beaten in a motorway restaurant in Milan: "You are murderers, we are not in Gaza here, go and
+   - Deviazione: 0.242 | Sentiment: 0.030
+   - 463.0 commenti | 2159.0 upvotes totali
+   - Post ID: 1mbpd4q
+------------------------------------------------------------
+
+ r/FRANCE:
+   Post totali analizzati: 462
+   > Post più POSITIVO: 0.510
+   > Post più NEGATIVO: -0.275
+   > Post più POLARIZZATO: 0.235
+
+ r/DE:
+   Post totali analizzati: 83
+   > Post più POSITIVO: 0.350
+   > Post più NEGATIVO: -0.438
+   > Post più POLARIZZATO: 0.205
+
+================================================================================
+🇮🇹 ANALISI DETTAGLIATA - r/de
+================================================================================
+
+-------------- I 5 POST PIÙ NEGATIVI:
+--------------------------------------------------------------------------------
+
+1 [NEGATIVITÀ: -0.438] - Polarizzazione: 0.619
+   - Iranian authorities arrest Jews for alleged contacts with Israel - several executions
+   - 2.0 commenti | -3.0 upvotes totali
+   - Post ID: 1lm5t55
+------------------------------------------------------------
+
+2 [NEGATIVITÀ: -0.296] - Polarizzazione: 0.612
+   - Affair weighs on Israel's government - targeted betrayal of secrets?
+   - 3.0 commenti | 52.0 upvotes totali
+   - Post ID: 1m88rzx
+------------------------------------------------------------
+
+3 [NEGATIVITÀ: -0.067] - Polarizzazione: 0.275
+   - Israel spreads false information about famine report
+   - 19.0 commenti | 414.0 upvotes totali
+   - Post ID: 1nctjny
+------------------------------------------------------------
+
+4 [NEGATIVITÀ: -0.031] - Polarizzazione: 0.353
+   - Israeli Prime Minister Netanyahu fires Defense Minister Gallant
+   - 17.0 commenti | 249.0 upvotes totali
+   - Post ID: 1gke0eu
+------------------------------------------------------------
+
+5 [NEGATIVITÀ: -0.027] - Polarizzazione: 0.275
+   - The US bomb that Israel hopes for in the conflict against Iran: Only the bunker-busting GBU-57 could
+   - 101.0 commenti | 1899.0 upvotes totali
+   - Post ID: 1leha79
+------------------------------------------------------------
+
+--------- I 5 POST PIÙ POLARIZZATI:
+--------------------------------------------------------------------------------
+
+1 [POLARIZZAZIONE: 0.205] - Tendenza: NEUTRA
+   - Israel wants to take over the city of Gaza
+   - Deviazione: 0.205 | Sentiment: 0.025
+   - 373.0 commenti | 6713.0 upvotes totali
+   - Post ID: 1mklej6
+------------------------------------------------------------
+
+2 [POLARIZZAZIONE: 0.195] - Tendenza: NEUTRA
+   - Riots in Amsterdam: Israel's UN ambassador speaks of a “pogrom” against Jews
+   - Deviazione: 0.209 | Sentiment: 0.016
+   - 348.0 commenti | 6577.0 upvotes totali
+   - Post ID: 1gmbev8
+------------------------------------------------------------
+
+3 [POLARIZZAZIONE: 0.188] - Tendenza: NEUTRA
+   - Israeli military attack against Hamas leadership in Doha
+   - Deviazione: 0.213 | Sentiment: 0.038
+   - 329.0 commenti | 4834.0 upvotes totali
+   - Post ID: 1ncivn8
+------------------------------------------------------------
+
+4 [POLARIZZAZIONE: 0.172] - Tendenza: NEUTRA
+   - Iran attacks Israel with missiles - air alarm triggered
+   - Deviazione: 0.224 | Sentiment: 0.056
+   - 286.0 commenti | 4354.0 upvotes totali
+   - Post ID: 1lankc9
+------------------------------------------------------------
+
+5 [POLARIZZAZIONE: 0.167] - Tendenza: NEUTRA
+   - Israel attacks Iran
+   - Deviazione: 0.213 | Sentiment: 0.019
+   - 293.0 commenti | 10578.0 upvotes totali
+   - Post ID: 1la2fhn
+------------------------------------------------------------
+
+ r/UNITEDKINGDOM:
+   Post totali analizzati: 235
+   > Post più POSITIVO: 0.264
+   > Post più NEGATIVO: -0.379
+   > Post più POLARIZZATO: 0.217
+
+ r/SPAIN:
+   Post totali analizzati: 4
+   > Post più POSITIVO: 0.083
+   > Post più NEGATIVO: 0.048
+   > Post più POLARIZZATO: 0.266
+
+ r/POLAND:
+   Post totali analizzati: 7
+   > Post più POSITIVO: 0.175
+   > Post più NEGATIVO: -0.378
+   > Post più POLARIZZATO: 0.221
+
+ r/SWEDEN:
+   Post totali analizzati: 126
+   > Post più POSITIVO: 0.531
+   > Post più NEGATIVO: -0.177
+   > Post più POLARIZZATO: 0.270
+
+ r/DENMARK:
+   Post totali analizzati: 98
+   > Post più POSITIVO: 0.278
+   > Post più NEGATIVO: -0.625
+   > Post più POLARIZZATO: 0.224
+
+================================================================================
+🇮🇹 ANALISI DETTAGLIATA - r/denmark
+================================================================================
+
+-------------- I 5 POST PIÙ NEGATIVI:
+--------------------------------------------------------------------------------
+
+1 [NEGATIVITÀ: -0.625] - Polarizzazione: 0.530
+   - The cybernauts call themselves experts in digital harassment and online hate. Their chairman runs s
+   - 2.0 commenti | 13.0 upvotes totali
+   - Post ID: 1l33xto
+------------------------------------------------------------
+
+2 [NEGATIVITÀ: -0.250] - Polarizzazione: 0.402
+   - Documentation for abuse of power, and the need for replacement in the moderation of the sub.
+   - 4.0 commenti | 3.0 upvotes totali
+   - Post ID: 1j6lwlm
+------------------------------------------------------------
+
+3 [NEGATIVITÀ: -0.120] - Polarizzazione: 0.220
+   - Worldwide Wednesday - 06/11 2024
+   - 5.0 commenti | -2.0 upvotes totali
+   - Post ID: 1gkrnxg
+------------------------------------------------------------
+
+4 [NEGATIVITÀ: -0.062] - Polarizzazione: 0.261
+   - Mette F.: It's not our job to call Israel's behavior genocide - Mette Frederiksen can't do it
+   - 85.0 commenti | 180.0 upvotes totali
+   - Post ID: 1n0isbc
+------------------------------------------------------------
+
+5 [NEGATIVITÀ: -0.043] - Polarizzazione: 0.269
+   - Why does Denmark not fight for international law?
+   - 18.0 commenti | 84.0 upvotes totali
+   - Post ID: 1m6c3uj
+------------------------------------------------------------
+
+--------- I 5 POST PIÙ POLARIZZATI:
+--------------------------------------------------------------------------------
+
+1 [POLARIZZAZIONE: 0.224] - Tendenza: NEUTRA
+   - DR's coverage of the Israel-Iran conflict
+   - Deviazione: 0.224 | Sentiment: 0.065
+   - 655.0 commenti | 4028.0 upvotes totali
+   - Post ID: 1lhwnhp
+------------------------------------------------------------
+
+2 [POLARIZZAZIONE: 0.222] - Tendenza: NEUTRA
+   - The condemnation of the Gaza protests at the Roskilde Festival marks a new low point for the public de
+   - Deviazione: 0.242 | Sentiment: 0.049
+   - 600.0 commenti | 2338.0 upvotes totali
+   - Post ID: 1lvqt5y
+------------------------------------------------------------
+
+3 [POLARIZZAZIONE: 0.220] - Tendenza: NEUTRA
+   - Citizens' proposal will stop Danish arms trade with Israel: 'Denmark contributes to the war crimes, v
+   - Deviazione: 0.238 | Sentiment: 0.058
+   - 606.0 commenti | 1898.0 upvotes totali
+   - Post ID: 1kwie5p
+------------------------------------------------------------
+
+4 [POLARIZZAZIONE: 0.216] - Tendenza: NEUTRA
+   - Anti-Hamas advertising plays on TV2's website between tennis interviews
+   - Deviazione: 0.255 | Sentiment: 0.033
+   - 554.0 commenti | 3812.0 upvotes totali
+   - Post ID: 1kyya8g
+------------------------------------------------------------
+
+5 [POLARIZZAZIONE: 0.188] - Tendenza: NEUTRA
+   - Støjberg 'can understand' Israel's attack [Over 400 reported killed in Israeli attack]
+   - Deviazione: 0.229 | Sentiment: 0.018
+   - 537.0 commenti | 2679.0 upvotes totali
+   - Post ID: 1je2dpe
+------------------------------------------------------------
+
+ r/PORTUGAL:
+   Post totali analizzati: 56
+   > Post più POSITIVO: 0.436
+   > Post più NEGATIVO: -0.087
+   > Post più POLARIZZATO: 0.241
+
+ r/GREECE:
+   Post totali analizzati: 212
+   > Post più POSITIVO: 0.650
+   > Post più NEGATIVO: -0.500
+   > Post più POLARIZZATO: 0.218
+
+ r/HUNGARY:
+   Post totali analizzati: 27
+   > Post più POSITIVO: 0.625
+   > Post più NEGATIVO: -0.750
+   > Post più POLARIZZATO: 0.248
+
+ r/AUSTRIA:
+   Post totali analizzati: 12
+   > Post più POSITIVO: 0.126
+   > Post più NEGATIVO: -0.451
+   > Post più POLARIZZATO: 0.240
+
+ r/SWITZERLAND:
+   Post totali analizzati: 20
+   > Post più POSITIVO: 0.105
+   > Post più NEGATIVO: -0.011
+   > Post più POLARIZZATO: 0.247
+
+ r/IRELAND:
+   Post totali analizzati: 186
+   > Post più POSITIVO: 0.251
+   > Post più NEGATIVO: -0.125
+   > Post più POLARIZZATO: 0.238
+
+ r/BELGIUM:
+   Post totali analizzati: 49
+   > Post più POSITIVO: 0.406
+   > Post più NEGATIVO: -0.087
+   > Post più POLARIZZATO: 0.264
+
+ r/CZECH:
+   Post totali analizzati: 87
+   > Post più POSITIVO: 0.400
+   > Post più NEGATIVO: -0.096
+   > Post più POLARIZZATO: 0.245
+
+ r/ROMANIA:
+   Post totali analizzati: 29
+   > Post più POSITIVO: 0.459
+   > Post più NEGATIVO: -0.078
+   > Post più POLARIZZATO: 0.254
+
+ r/NETHERLANDS:
+   Post totali analizzati: 2
+   > Post più POSITIVO: 0.080
+   > Post più NEGATIVO: 0.000
+   > Post più POLARIZZATO: 0.259
+
+ r/NORWAY:
+   Post totali analizzati: 3
+   > Post più POSITIVO: 0.231
+   > Post più NEGATIVO: -0.147
+   > Post più POLARIZZATO: 0.339
+
+ r/UKRAINE:
+   Post totali analizzati: 1
+   > Post più POSITIVO: 0.074
+   > Post più NEGATIVO: 0.074
+   > Post più POLARIZZATO: 0.110
+
+
+================================================== > CONFIGURAZIONE FASE 5... (modulo 5_1)
+--> DATASET TEMPORALE CORRETTO:
+   > Periodo commenti: 2024-10-24 11:08:30 - 2025-10-29 19:08:51
+   > Giorni totali: 371
+   > Commenti totali: 141,686
+   > Commenti/giorno (media): 381.9
+ DISTRIBUZIONE GIORNALIERA:
+   > Giorno più attivo: 2025-06-13 (4594 commenti)
+   > Giorno meno attivo: 2025-10-29 (1 commenti)
+   > Distribuzione mensile:
+      2024-10: 1710 commenti
+      2024-11: 6211 commenti
+      2024-12: 4046 commenti
+      2025-01: 4379 commenti
+      2025-02: 3570 commenti
+      2025-03: 5270 commenti
+      2025-04: 4828 commenti
+      2025-05: 18811 commenti
+      2025-06: 22523 commenti
+      2025-07: 13387 commenti
+      2025-08: 14736 commenti
+      2025-09: 23817 commenti
+      2025-10: 18398 commenti
+
+
+================================================== > ANALISI EVOLUZIONE TEMPORALE (modulo 5_2)
+----------------------------------------
+1. ANDAMENTO GIORNALIERO GLOBALE 
+----------------------------------------
+----------------------------------------
+--> Statistiche volume giornaliero :
+   > Media: 384.0 commenti/giorno
+   > Deviazione standard: 469.5
+   > Giorni analizzati: 369
+   > Giorni con picco: 43
+      ---> Picchi di volume significativi:
+          > 2025-06-13: 4594.0 commenti (sentiment: 0.041)
+          > 2025-06-09: 3110.0 commenti (sentiment: 0.032)
+          > 2025-09-16: 2193.0 commenti (sentiment: 0.045)
+          > 2025-09-23: 2103.0 commenti (sentiment: 0.042)
+          > 2025-10-04: 2028.0 commenti (sentiment: 0.036)
+----------------------------------------
+ 2. EVOLUZIONE TEMPORALE PER NAZIONE 
+----------------------------------------
+Nazioni con MAGGIORE CRESCITA di volume:
+----------------------------------------
+   > r/austria: +1.05 commenti/giorno
+   > r/italy: +0.71 commenti/giorno
+   > r/portugal: +0.43 commenti/giorno
+   > r/unitedkingdom: +0.39 commenti/giorno
+   > r/denmark: +0.16 commenti/giorno
+
+Nazioni con MAGGIORE CRESCITA di sentiment:
+----------------------------------------
+   < r/poland: +0.014 sentiment/giorno
+   < r/hungary: +0.004 sentiment/giorno
+   < r/portugal: +0.001 sentiment/giorno
+   < r/romania: +0.001 sentiment/giorno
+   < r/czech: +0.001 sentiment/giorno
+----------------------------------------
+3. IDENTIFICAZIONE EVENTI CHIAVE 
+----------------------------------------
+Eventi significativi identificati:
+   • 2025-06-13: 4594.0 commenti, sentiment 0.041
+     Tema dominante: solidarity_support (19.0%)
+   • 2025-06-09: 3110.0 commenti, sentiment 0.032
+     Tema dominante: solidarity_support (20.0%)
+   • 2025-09-16: 2193.0 commenti, sentiment 0.045
+     Tema dominante: solidarity_support (19.9%)
+   • 2025-09-23: 2103.0 commenti, sentiment 0.042
+     Tema dominante: solidarity_support (22.3%)
+   • 2025-10-04: 2028.0 commenti, sentiment 0.036
+     Tema dominante: solidarity_support (23.2%)
+----------------------------------------
+4. ANALISI PATTERN TEMPORALI 
+----------------------------------------
+Pattern di attività giornaliero:
+   > Ora più attiva: 11:00 (9607 commenti)
+   > Distribuzione per fasce orarie:
+      Notte: 9.2% (sentiment: 0.040)
+      Mattina: 30.6% (sentiment: 0.042)
+      Pomeriggio: 36.7% (sentiment: 0.042)
+      Sera: 23.5% (sentiment: 0.040)
+
+Pattern settimanale:
+----------------------------------------
+   > Giorno più attivo: Tuesday
+      Mon: 21348.0 commenti (sentiment: 0.042)
+      Tue: 24532.0 commenti (sentiment: 0.042)
+      Wed: 21025.0 commenti (sentiment: 0.044)
+      Thu: 18474.0 commenti (sentiment: 0.040)
+      Fri: 23600.0 commenti (sentiment: 0.039)
+      Sat: 16328.0 commenti (sentiment: 0.042)
+      Sun: 16379.0 commenti (sentiment: 0.042)
+
+
+================================================== > CREAZIONE VISUALIZZAZIONI TEMPORALI (modulo 5_3)
+--->  Visualizzazione salvata: report e grafici generati/analisi_temporale_completa.png
+
+
+================================================== > ANALISI TREND PREDITTIVA (modulo 5_4)
+----------------------------------------
+   1. TREND GLOBALE
+----------------------------------------
+Trend volume globale: +1.86 commenti/giorno (R²=0.179)
+----------------------------------------
+Trend sentiment globale: +0.0000 sentiment/giorno (R²=0.000)
+----------------------------------------
+----------------------------------------
+ 2. PROIEZIONI FUTURE (7 GIORNI)
+----------------------------------------
+Proiezioni volume commenti:
+----------------------------------------
+   > Giorno 1: 728.8 commenti
+   > Giorno 2: 730.7 commenti
+   > Giorno 3: 732.6 commenti
+   > Giorno 4: 734.4 commenti
+   > Giorno 5: 736.3 commenti
+   > Giorno 6: 738.1 commenti
+   > Giorno 7: 740.0 commenti
+
+Proiezioni sentiment medio:
+----------------------------------------
+   > Giorno 1: 0.046
+   > Giorno 2: 0.046
+   > Giorno 3: 0.046
+   > Giorno 4: 0.046
+   > Giorno 5: 0.046
+   > Giorno 6: 0.046
+   > Giorno 7: 0.046
+----------------------------------------
+  4. SEGNALI DI CAMBIO TREND
+----------------------------------------
+Cambiamenti significativi di VOLUME identificati: 21
+----------------------------------------
+   > 2025-06-13: +4216.0 commenti
+   > 2025-06-09: +2742.0 commenti
+   > 2025-09-16: +1970.0 commenti
+   > 2024-12-25: +0.236 sentiment
+   > 2025-10-29: +0.192 sentiment
+   > 2025-01-23: +0.182 sentiment
+
+
+================================================== > REPORTO FINALE - FASE 5: ANALISI TEMPORALE E EVOLUZIONE (modulo 5_5)
+--> STATISTICHE TEMPORALI:
+----------------------------------------
+   > Periodo analizzato: 369 giorni
+   > Commenti totali: 141,686
+   > Volume medio giornaliero: 384.0 commenti
+   > Eventi significativi identificati: 46
+----------------------------------------
+ INSIGHTS TEMPORALI PRINCIPALI:
+----------------------------------------
+   > Trend volume: CRESCITA (+1.86 commenti/giorno)
+   > Trend sentiment: MIGLIORAMENTO (+0.0000/giorno)
+   > Ora più attiva: 11:00
+   > Giorno più attivo: Tuesday
+   > Nazione con crescita più rapida: r/austria
+   > Nazione con miglioramento sentiment: r/poland
+
+================================================================================
+ CONCLUSIONE GENERALE - ANALISI COMPLETA 5 FASI
+================================================================================
+
+ -----> SYNTHESIS DEI RISULTATI OTTENUTI:
+--> FASE 1 - RACCOLTA DATI:
+----------------------------------------
+   > 20 nazioni europee analizzate
+   > 141,686 commenti raccolti
+   > Periodo: 24/10/2024 - 29/10/2025
+
+--> FASE 2 - ANALISI COMPARATIVA:
+----------------------------------------
+   > Engagement medio: 10.7 upvotes/commento
+   > Nazione con miglior engagement: r/ukraine
+   > Cluster identificati: 4 tipologie di comunità
+
+ --> FASE 3 - ANALISI TEMATICA:
+----------------------------------------
+   > 7 temi monitorati
+   > Tema più discusso: solidarity_support
+
+ --> FASE 4 - ANALISI SENTIMENT:
+----------------------------------------
+   > Sentiment medio globale: 0.041
+   > Nazione più positiva: r/norway
+   > Nazione più negativa: r/poland
+
+--> FASE 5 - ANALISI TEMPORALE:
+----------------------------------------
+   > 369 giorni analizzati
+   > 46 eventi significativi identificati
+   > Trend volume: +1.86 commenti/giorno
+   > Proiezioni per i prossimi 7 giorni generate
+
+ ==================================== INSIGHTS TRANSVERSALI PRINCIPALI:
+----------------------------------------
+1. --> PATTERN GEOGRAFICO-CULTURALI:
+----------------------------------------
+   > Nordica: sentiment 0.046, engagement 6.4
+   > Occidentale: sentiment 0.040, engagement 14.5
+   > Centrale: sentiment 0.044, engagement 14.1
+   > Meridionale: sentiment 0.038, engagement 6.4
+   > Orientale: sentiment 0.053, engagement 8.5
+----------------------------------------
+
+ --> 2. RELAZIONI TRA METRICHE CHIAVE:
+----------------------------------------
+   > Correlazione sentiment-engagement: -0.003
+   > Correlazione volume-sentiment: -0.092
+     > Nessuna correlazione forte tra sentiment e engagement
+----------------------------------------
+
+ --> 3. DINAMICHE TEMPORALI CRITICHE:
+----------------------------------------
+    > Evento più significativo: 2025-06-13
+    > Volume: 4594.0 commenti
+    > Sentiment: 0.041
+     Tema dominante: solidarity_support (19.0%)
+
+ --> SALVATAGGIO DATASET FINALE...
+   - Dataset completo: report e grafici generati/dataset_analisi_completa.csv
+   > Reprt finale: report e grafici generati/report_finale_analisi.txt
+
+================================================================================
+ ANALISI COMPLETATA 
+================================================================================
+
+ CREAZIONE GRAFICI TEMI TEMPORALI PER NAZIONE...
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_italy.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_france.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_de.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_unitedkingdom.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_spain.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_poland.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_sweden.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_denmark.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_portugal.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_greece.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_hungary.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_austria.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_switzerland.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_ireland.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_belgium.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_czech.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_romania.png (IN TEMATICHE PER TEMPO)
+        ----> Grafico temi salvato: TEMATICHE PER TEMPO/temi_timeline_norway.png (IN TEMATICHE PER TEMPO)
+
+
+-------------------------------------------------- > CREAZIONE GRAFICI TEMPORALI CON EVIDENZIAZIONE EVENTI...
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_italy.png
+            - Picchi identificati: 24
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_france.png
+            - Picchi identificati: 35
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_de.png
+            - Picchi identificati: 13
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_unitedkingdom.png
+            - Picchi identificati: 29
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_spain.png
+            - Picchi identificati: 1
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_poland.png
+            - Picchi identificati: 3
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_sweden.png
+            - Picchi identificati: 22
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_denmark.png
+            - Picchi identificati: 18
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_portugal.png
+            - Picchi identificati: 11
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_greece.png
+            - Picchi identificati: 16
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_hungary.png
+            - Picchi identificati: 3
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_austria.png
+            - Picchi identificati: 3
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_switzerland.png
+            - Picchi identificati: 7
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_ireland.png
+            - Picchi identificati: 30
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_belgium.png
+            - Picchi identificati: 10
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_czech.png
+            - Picchi identificati: 11
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_romania.png
+            - Picchi identificati: 4
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_netherlands.png
+            - Picchi identificati: 0
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_norway.png
+            - Picchi identificati: 1
+    ----> Grafico eventi salvato: grafici_eventi_nazioni/eventi_timeline_ukraine.png
+            - Picchi identificati: 0
+================================================================================
+                               GRAFICI EVENTI COMPLETATI:
+
+--------------------------------------------------> CREAZIONE REPORT EVENTI GLOBALI...
+----> CSV globale salvato: grafici_eventi_nazioni\report_picchi_globali.csv
+================================================================================
+REPORT EVENTI COMPLETATI: 43 picchi globali totali salvati.
+
+
+================================================== > AVVIO ANALISI POST VIRALI (modulo post_più_commentati)
+
+ ANALISI POST PIÙ COMMENTATI PER NAZIONE
+============================================================
+
+
+-------------------- > CREAZIONE REPORT POST VIRALI...
+    ..Report salvato: analisi_post_virali/top_post_italy.txt
+    ..Report salvato: analisi_post_virali/top_post_france.txt
+    ..Report salvato: analisi_post_virali/top_post_de.txt
+    ..Report salvato: analisi_post_virali/top_post_unitedkingdom.txt
+    ..Report salvato: analisi_post_virali/top_post_spain.txt
+    ..Report salvato: analisi_post_virali/top_post_poland.txt
+    ..Report salvato: analisi_post_virali/top_post_sweden.txt
+    ..Report salvato: analisi_post_virali/top_post_denmark.txt
+    ..Report salvato: analisi_post_virali/top_post_portugal.txt
+    ..Report salvato: analisi_post_virali/top_post_greece.txt
+    ..Report salvato: analisi_post_virali/top_post_hungary.txt
+    ..Report salvato: analisi_post_virali/top_post_austria.txt
+    ..Report salvato: analisi_post_virali/top_post_switzerland.txt
+    ..Report salvato: analisi_post_virali/top_post_ireland.txt
+    ..Report salvato: analisi_post_virali/top_post_belgium.txt
+    ..Report salvato: analisi_post_virali/top_post_czech.txt
+    ..Report salvato: analisi_post_virali/top_post_romania.txt
+    ..Report salvato: analisi_post_virali/top_post_netherlands.txt
+    ..Report salvato: analisi_post_virali/top_post_norway.txt
+    ..Report salvato: analisi_post_virali/top_post_ukraine.txt
+-----> Grafico comparativo salvato: analisi_post_virali/comparazione_post_virali.png
+
+ ANALISI POST VIRALI COMPLETATA! -----------> File salvati in: analisi_post_virali/

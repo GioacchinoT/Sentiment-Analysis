@@ -4,9 +4,7 @@ import statsmodels.api as sm
 import numpy as np
 
 def analisi_trend_predittiva(andamento_giornaliero, evoluzione_nazionale):
-    """
-    Analisi predittiva e identificazione trend futuri
-    """
+
 
     print("\n")
     print("="*50, "> ANALISI TREND PREDITTIVA (modulo 5_4)")

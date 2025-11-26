@@ -183,7 +183,7 @@ def crea_grafici_temporali_con_eventi(df_temporale, andamento_giornaliero, evolu
 # ------------------------------------------------------------
 # REPORT EVENTI GLOBALI (aggregati) + PICCHI PER NAZIONE
 # ------------------------------------------------------------
-"""
+
 
 def crea_report_eventi_globali(df_temporale, eventi_significativi=None):
     print("\n" + "-" * 50 + "> CREAZIONE REPORT EVENTI GLOBALI...")
@@ -260,11 +260,11 @@ def crea_report_eventi_globali(df_temporale, eventi_significativi=None):
     percorso_globali = os.path.join(cartella_grafici, "report_picchi_globali.csv")
     picchi_globali.to_csv(percorso_globali, index=False, encoding='utf-8-sig')
 
-    percorso_per_nazione = os.path.join(cartella_grafici, "report_picchi_per_nazione.csv")
-    df_picchi_per_nazione.to_csv(percorso_per_nazione, index=False, encoding='utf-8-sig')
+    #percorso_per_nazione = os.path.join(cartella_grafici, "report_picchi_per_nazione.csv")
+    #df_picchi_per_nazione.to_csv(percorso_per_nazione, index=False, encoding='utf-8-sig')
 
     print(f"----> CSV globale salvato: {percorso_globali}")
-    print(f"----> CSV per nazioni salvato: {percorso_per_nazione}")
+    #print(f"----> CSV per nazioni salvato: {percorso_per_nazione}")
     print("=" * 80)
     print(f"REPORT EVENTI COMPLETATI: {len(picchi_globali)} picchi globali totali salvati.")
 
@@ -274,4 +274,4 @@ def crea_report_eventi_globali(df_temporale, eventi_significativi=None):
     return {
         "picchi_globali": picchi_globali,
         "picchi_per_nazione": df_picchi_per_nazione
-    }"""
+    }
