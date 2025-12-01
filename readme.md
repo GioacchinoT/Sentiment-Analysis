@@ -3,7 +3,7 @@
 
 Questo progetto universitario propone un'analisi computazionale estensiva delle dinamiche di opinione, del sentiment e dell'evoluzione tematica riguardanti il conflitto di Gaza all'interno di 20 comunità nazionali europee sulla piattaforma Reddit.
 
-Attraverso tecniche di **Natural Language Processing (NLP)**, analisi delle serie storiche e clustering non supervisionato, lo studio ha esaminato oltre **141.000 commenti** raccolti in un arco temporale di 369 giorni (Ottobre 2024 - Ottobre 2025), con l'obiettivo di comprendere come shock globali ed eventi locali influenzino il dibattito pubblico digitale in Europa.
+Attraverso tecniche di **NLP**, analisi delle serie storiche e clustering non supervisionato, lo studio ha esaminato oltre **141.000 commenti** raccolti in un arco temporale di 369 giorni (Ottobre 2024 - Ottobre 2025), con l'obiettivo di comprendere come shock globali ed eventi locali influenzino il dibattito pubblico digitale in Europa.
 
 ### Obiettivi Principali
 1.  **Mappatura Comparativa:** Classificare le nazioni in base a volume di attività e qualità dell'engagement.
@@ -20,15 +20,15 @@ Il progetto è strutturato in un'architettura modulare sequenziale in Python, di
 * **Fase 1: Data Collection & Preprocessing**
     * Pulizia del dataset, gestione missing values, filtraggio per lunghezza (>5 char) e standardizzazione temporale.
 * **Fase 2: Analisi Comparativa (Clustering)**
-    * Utilizzo di *K-Means* per segmentare le nazioni in 4 cluster comportamentali (es. "Alta Intensità/Basso Engagement" vs "Alta Qualità/Basso Volume").
+    * Utilizzo di *K-Means* per segmentare le nazioni in 4 cluster comportamentali (es. "Alta Intensità/Basso Engagement" vs "Alto Engagement/Basso Volume").
 * **Fase 3: Analisi Tematica (Rule-Based)**
     * Classificazione dei commenti in 7 macro-temi tramite dizionari di keyword pesate.
 * **Fase 4: Sentiment Analysis**
-    * Calcolo di *Polarity* e *Subjectivity* tramite `TextBlob`.
+    * Calcolo di *Polarity* e *Subjectivity* con `TextBlob`.
     * Analisi della correlazione tra temi e sentiment.
 * **Fase 5: Analisi Temporale e Trend**
     * Costruzione di serie temporali giornaliere.
-    * Rilevamento statistico dei picchi di volume ($\mu + \sigma$) e studio degli eventi *trigger*.
+    * Rilevamento dei picchi di volume e studio degli eventi *trigger*.
 
 ---
 
